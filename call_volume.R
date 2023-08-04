@@ -1,0 +1,104 @@
+
+call_volume <- read_excel("~/Documents/hustlers/data/VDN Volumes.xlsx", range="A2:HI4")
+call_volume_1 <- t(call_volume)
+call_volume_1 <- tibble::rownames_to_column(as.data.frame(call_volume_1) , "date")
+
+call_volume_1 <- call_volume_1[-1,]
+call_volume_1 <- call_volume_1[,-2]
+
+call_volume_1 <- call_volume_1 %>%
+  dplyr::mutate(Date = format(as.Date(as.numeric(as.character(date)), origin="1899-12-30"), '%Y-%m-%d')) %>%
+  dplyr::mutate(calls = as.numeric(as.character(V2))) %>%
+  dplyr::select(Date, calls) %>%
+  dplyr::mutate(
+  Date = cut(as.POSIXct(Date), "week")) %>%
+  dplyr::group_by(Date) %>%
+  dplyr::summarise(
+    calls= sum(calls, na.rm=T)
+  ) %>%
+  dplyr::ungroup() %>%
+  dplyr::mutate(
+    Date = as.Date(Date)
+  )%>%
+  dplyr::mutate(Date = case_when(
+    Date > "2023-03-27" ~ Date +1,
+    TRUE ~ Date
+  ))
+
+HL_total_conversion_week_total <- HL_total_conversion_week_total %>%
+  dplyr::mutate(
+    Date = as.Date(Date)
+  ) %>%
+  dplyr::select(Date, `Start application CvnC`, con_1_CvnC)
+
+call_tot <- dplyr::full_join(HL_total_conversion_week_total, call_volume_1) %>%
+  dplyr::filter(!is.na(calls)) %>%
+  dplyr::select(Date, `Start application CvnC`, con_1_CvnC, calls) 
+
+search_volume <- read.csv("~/Documents/hustlers/data/search_volume.csv")
+search_volume <- search_volume %>% 
+    dplyr::rename(
+    Date = Week
+  ) %>%
+  dplyr::mutate(
+    Date = as.Date(Date)
+   )%>%
+  dplyr::mutate(Date =  Date +1
+  )
+
+call_tot <- dplyr::full_join(call_tot, search_volume) %>%
+  dplyr::filter(!is.na(`borrowing.power...Australia.`)) %>%
+  dplyr::filter(!is.na(calls))
+
+
+p1 <- plot_ly(call_tot, x= ~Date, 
+              y=~`Start application CvnC`,
+              type='scatter', 
+              mode ='lines',
+              name="Start application",
+              marker = list(color = 'rgb(82,81,153)'),
+              line = list(color = 'rgb(82,81,153)')) %>%
+  add_trace(y = ~`calls`, 
+            type='scatter', 
+            mode ='lines',
+            name="calls",
+            marker = list(color = 'rgb(85, 155, 209)'),
+            line = list(color = 'rgb(85, 155, 209)')) %>%
+  add_trace(y = ~`Home.loans...Australia.`, 
+            type='scatter', 
+            mode ='lines',
+            name="search volume 'home loans'",
+            marker = list(color = 'rgb(255,098,000)'),
+            line = list(color = 'rgb(255,098,000)')) %>%
+  
+  
+  layout(title = "",
+         xaxis = list(title = "",
+                      textfont = list(color = 'rgb(105, 105, 105)', size = 10, family = "ING me"),
+                      showline = TRUE,
+                      linecolor = 'rgb(204, 204, 204)',
+                      linewidth = 0.5,
+                      #dtick = 50,
+                      tickfont = list(family = "ING me",
+                                      size = 10,
+                                      color = 'rgb(105, 105, 105)')),
+         yaxis = list(title = "",
+                      #range =c(0,100),
+                      showticklabels = TRUE,
+                      linecolor = 'rgb(204, 204, 204)',
+                      linewidth = 2,
+                      # autotick = TRUE,
+                      dtick = 100,
+                      ticks = 'inside',
+                      tickcolor = 'rgb(204, 204, 204)',
+                      tickfont = list(family = "ING me",
+                                      size = 10,
+                                      color = 'rgb(105, 105, 105)')),
+         barmode = 'group',
+         legend =list(orientation = 'left', font = list(family = "ING me", size = 12, color = 'rgb(105, 105, 105)')))
+p1
+p1log
+
+te_cor <- cor(call_tot$`Start application CvnC`, call_tot$calls)
+
+te_cor

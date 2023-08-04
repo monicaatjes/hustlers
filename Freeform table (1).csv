@@ -1,0 +1,63 @@
+﻿#=================================================================
+# Panel (2)
+# Report suite: Mobile: Native App
+"# Date: Jan 1, 2022 - Jul 13, 2022"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Self Service Transactions,Self Service Transactions
+,Last year,This year
+Self Service Type,212935594,123210109
+Transfer Money,113394024,63473182
+Pay Anyone,54375491,30699224
+Interest summary,8093663,7097774
+Search Transactions,10969289,6417658
+Pay Bill,9321373,5081123
+Benefits and rewards,4457040,3027247
+Edit scheduled payment,2127611,1238262
+Delete Payee,1105666,706969
+Updated account name,825419,496411
+Cancel scheduled payment,646468,370619
+Activate Card,550941,363019
+Download interim statement - Orange Everyday,641874,301766
+Changed account limit,563127,290255
+Download statement - Orange Everyday,446098,233202
+Enable Touch ID,347671,185417
+Pay Anyone create scheduled recurring,298440,183644
+Pay Bill create scheduled one off,356443,182031
+Confirmed Details for KYC,251833,179113
+Overseas notification,189283,163214
+Transfer money create scheduled recurring,261990,152629
+Apple pay verification,216518,131163
+Download interim statement - Savings Maximiser,226082,130853
+Card on Hold,203911,120986
+Updated Personal Details,102559,112120
+Delete PayID,138554,110396
+Reset Card PIN,176562,109948
+Card off Hold,178721,105351
+Account Opened,132990,104107
+Secure message sent,140298,104014
+Android pay activated,190064,102019
+Delete Biller,183652,99304
+Reset PIN prompt,147982,89975
+Transfer money create scheduled one off,129769,78005
+Reset access code,137222,75817
+Apple pay card added,110456,74975
+Changed account limit >$20k,113694,71769
+Pay anyone create scheduled one off,113613,66138
+Pay Bill create scheduled recurring,115882,62819
+Account closed - Savings Maximiser,85463,56719
+Download statement - Savings Maximiser,101736,56328
+Download statement - Orange One Low Rate Classic,70720,49914
+PayID registration,71677,48777
+Reset PIN,68360,39293
+Download statement - Orange One Low Rate Platinum,53551,38686
+Everyday round up activated,36339,27216
+Replacement card without fraud,47759,27026
+Reissue card,34790,21160
+Download interim statement - Mortgage Simplifier,35692,19974
+Download interim statement - Orange Advantage,34876,18559
+Unusual Transaction Card Unblocked,2,17517

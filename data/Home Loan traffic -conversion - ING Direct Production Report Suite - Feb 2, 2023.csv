@@ -1,0 +1,25 @@
+﻿#=================================================================
+# Conversion
+# Report suite: ING Direct Production Report Suite
+"# Date: Dec 5, 2022 - Feb 2, 2023"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Product = HL,Product = HL,Product = HL,Product = HL,Product = HL,Product = HL,Product = HL,Product = HL,Product = HL
+,Visits,Visits,Visits,HL app intro,HL app intro,HL app intro,HL app complete,HL app complete,HL app complete
+,client,visitor,Unspecified,client,visitor,Unspecified,client,visitor,Unspecified
+Week,4076,45879,1372,2984,6735,0,1695,486,0
+2022-12-04,471,6442,168,356,841,0,209,52,0
+2022-12-11,410,4814,136,309,677,0,154,50,0
+2022-12-18,294,3929,99,222,540,0,135,59,0
+2022-12-25,298,3011,98,212,441,0,126,27,0
+2023-01-01,500,5314,178,345,782,0,201,65,0
+2023-01-08,589,6222,215,426,1044,0,225,63,0
+2023-01-15,572,6143,179,414,931,0,228,63,0
+2023-01-22,501,5438,160,392,777,0,224,61,0
+2023-01-29,441,4567,139,308,702,0,193,46,0
+
+

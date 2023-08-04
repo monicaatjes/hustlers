@@ -1,0 +1,3585 @@
+Day,Device Type,Visitor or Client,Visits,HL app start,HL app complete
+2022-02-01T00:00:00Z,Desktop,visitor,778,33,13
+2022-02-01T00:00:00Z,Desktop,client,69,0,28
+2022-02-01T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-02-01T00:00:00Z,Mobile/Smartphone,visitor,614,19,7
+2022-02-01T00:00:00Z,Mobile/Smartphone,client,34,0,15
+2022-02-01T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-02-01T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-02-01T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-01T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-02-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-02T00:00:00Z,Desktop,visitor,805,27,13
+2022-02-02T00:00:00Z,Desktop,client,84,0,28
+2022-02-02T00:00:00Z,Desktop,::unspecified::,21,0,0
+2022-02-02T00:00:00Z,Mobile/Smartphone,visitor,620,19,5
+2022-02-02T00:00:00Z,Mobile/Smartphone,client,31,0,15
+2022-02-02T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-02-02T00:00:00Z,Tablet landscape,visitor,15,0,0
+2022-02-02T00:00:00Z,Tablet landscape,client,2,0,2
+2022-02-02T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-02-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-03T00:00:00Z,Desktop,visitor,728,27,10
+2022-02-03T00:00:00Z,Desktop,client,65,0,26
+2022-02-03T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-02-03T00:00:00Z,Mobile/Smartphone,visitor,495,16,5
+2022-02-03T00:00:00Z,Mobile/Smartphone,client,27,0,16
+2022-02-03T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-02-03T00:00:00Z,Tablet landscape,visitor,7,1,0
+2022-02-03T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-03T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-02-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-04T00:00:00Z,Desktop,visitor,611,21,1
+2022-02-04T00:00:00Z,Desktop,client,62,0,31
+2022-02-04T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-02-04T00:00:00Z,Mobile/Smartphone,visitor,393,13,3
+2022-02-04T00:00:00Z,Mobile/Smartphone,client,27,0,12
+2022-02-04T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-02-04T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-02-04T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-02-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-05T00:00:00Z,Desktop,visitor,315,15,11
+2022-02-05T00:00:00Z,Desktop,client,40,0,23
+2022-02-05T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-02-05T00:00:00Z,Mobile/Smartphone,visitor,427,20,3
+2022-02-05T00:00:00Z,Mobile/Smartphone,client,26,0,18
+2022-02-05T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-02-05T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-02-05T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-02-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-06T00:00:00Z,Desktop,visitor,266,12,11
+2022-02-06T00:00:00Z,Desktop,client,49,0,27
+2022-02-06T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-02-06T00:00:00Z,Mobile/Smartphone,visitor,471,12,3
+2022-02-06T00:00:00Z,Mobile/Smartphone,client,29,0,18
+2022-02-06T00:00:00Z,Mobile/Smartphone,::unspecified::,3,0,0
+2022-02-06T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-02-06T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-06T00:00:00Z,Tablet portrait,visitor,9,0,0
+2022-02-06T00:00:00Z,Tablet portrait,client,1,0,0
+2022-02-06T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-02-07T00:00:00Z,Desktop,visitor,727,43,14
+2022-02-07T00:00:00Z,Desktop,client,92,0,47
+2022-02-07T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-02-07T00:00:00Z,Mobile/Smartphone,visitor,439,25,5
+2022-02-07T00:00:00Z,Mobile/Smartphone,client,31,0,14
+2022-02-07T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-02-07T00:00:00Z,Tablet landscape,visitor,12,0,0
+2022-02-07T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-02-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-08T00:00:00Z,Desktop,visitor,698,28,8
+2022-02-08T00:00:00Z,Desktop,client,86,0,38
+2022-02-08T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-02-08T00:00:00Z,Mobile/Smartphone,visitor,482,16,2
+2022-02-08T00:00:00Z,Mobile/Smartphone,client,29,0,13
+2022-02-08T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-02-08T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-02-08T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-08T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-02-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-09T00:00:00Z,Desktop,visitor,616,23,8
+2022-02-09T00:00:00Z,Desktop,client,39,0,13
+2022-02-09T00:00:00Z,Desktop,::unspecified::,1,0,0
+2022-02-09T00:00:00Z,Mobile/Smartphone,visitor,490,24,5
+2022-02-09T00:00:00Z,Mobile/Smartphone,client,40,0,25
+2022-02-09T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2022-02-09T00:00:00Z,Tablet landscape,visitor,4,2,0
+2022-02-09T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-02-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-10T00:00:00Z,Desktop,visitor,603,38,10
+2022-02-10T00:00:00Z,Desktop,client,68,0,43
+2022-02-10T00:00:00Z,Desktop,::unspecified::,21,0,0
+2022-02-10T00:00:00Z,Mobile/Smartphone,visitor,389,24,3
+2022-02-10T00:00:00Z,Mobile/Smartphone,client,23,0,11
+2022-02-10T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-02-10T00:00:00Z,Tablet landscape,visitor,9,1,0
+2022-02-10T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-02-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-11T00:00:00Z,Desktop,visitor,535,25,7
+2022-02-11T00:00:00Z,Desktop,client,43,0,19
+2022-02-11T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-02-11T00:00:00Z,Mobile/Smartphone,visitor,366,19,3
+2022-02-11T00:00:00Z,Mobile/Smartphone,client,16,0,3
+2022-02-11T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-02-11T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-02-11T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-02-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-12T00:00:00Z,Desktop,visitor,245,7,5
+2022-02-12T00:00:00Z,Desktop,client,38,0,20
+2022-02-12T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-02-12T00:00:00Z,Mobile/Smartphone,visitor,352,22,7
+2022-02-12T00:00:00Z,Mobile/Smartphone,client,26,0,17
+2022-02-12T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-02-12T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-02-12T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-02-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-13T00:00:00Z,Desktop,visitor,271,13,8
+2022-02-13T00:00:00Z,Desktop,client,51,0,27
+2022-02-13T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-02-13T00:00:00Z,Mobile/Smartphone,visitor,417,18,4
+2022-02-13T00:00:00Z,Mobile/Smartphone,client,24,0,11
+2022-02-13T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-02-13T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-02-13T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-02-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-14T00:00:00Z,Desktop,visitor,656,34,13
+2022-02-14T00:00:00Z,Desktop,client,79,0,39
+2022-02-14T00:00:00Z,Desktop,::unspecified::,25,0,0
+2022-02-14T00:00:00Z,Mobile/Smartphone,visitor,349,19,7
+2022-02-14T00:00:00Z,Mobile/Smartphone,client,16,0,6
+2022-02-14T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-02-14T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-02-14T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-14T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-02-14T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-02-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-15T00:00:00Z,Desktop,visitor,672,29,9
+2022-02-15T00:00:00Z,Desktop,client,77,0,28
+2022-02-15T00:00:00Z,Desktop,::unspecified::,24,0,0
+2022-02-15T00:00:00Z,Mobile/Smartphone,visitor,444,30,5
+2022-02-15T00:00:00Z,Mobile/Smartphone,client,26,0,14
+2022-02-15T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-02-15T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-02-15T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-02-15T00:00:00Z,Tablet portrait,client,2,0,1
+2022-02-15T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-02-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-16T00:00:00Z,Desktop,visitor,693,35,8
+2022-02-16T00:00:00Z,Desktop,client,70,0,35
+2022-02-16T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-02-16T00:00:00Z,Mobile/Smartphone,visitor,502,18,4
+2022-02-16T00:00:00Z,Mobile/Smartphone,client,24,0,13
+2022-02-16T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-02-16T00:00:00Z,Tablet landscape,visitor,2,1,1
+2022-02-16T00:00:00Z,Tablet portrait,visitor,11,2,1
+2022-02-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-17T00:00:00Z,Desktop,visitor,597,21,10
+2022-02-17T00:00:00Z,Desktop,client,60,0,20
+2022-02-17T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-02-17T00:00:00Z,Mobile/Smartphone,visitor,409,11,5
+2022-02-17T00:00:00Z,Mobile/Smartphone,client,16,0,7
+2022-02-17T00:00:00Z,Mobile/Smartphone,::unspecified::,2,0,0
+2022-02-17T00:00:00Z,Tablet landscape,visitor,13,0,0
+2022-02-17T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-17T00:00:00Z,Tablet portrait,visitor,5,1,0
+2022-02-17T00:00:00Z,Tablet portrait,client,2,0,0
+2022-02-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-18T00:00:00Z,Desktop,visitor,520,19,6
+2022-02-18T00:00:00Z,Desktop,client,48,0,20
+2022-02-18T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-02-18T00:00:00Z,Mobile/Smartphone,visitor,382,15,3
+2022-02-18T00:00:00Z,Mobile/Smartphone,client,23,0,11
+2022-02-18T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-02-18T00:00:00Z,Tablet landscape,visitor,8,1,0
+2022-02-18T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-18T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-02-18T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-02-19T00:00:00Z,Desktop,visitor,257,7,2
+2022-02-19T00:00:00Z,Desktop,client,39,0,19
+2022-02-19T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-02-19T00:00:00Z,Mobile/Smartphone,visitor,362,10,2
+2022-02-19T00:00:00Z,Mobile/Smartphone,client,17,0,8
+2022-02-19T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-02-19T00:00:00Z,Tablet landscape,visitor,9,1,0
+2022-02-19T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-19T00:00:00Z,Tablet portrait,visitor,10,1,1
+2022-02-19T00:00:00Z,Tablet portrait,client,1,0,1
+2022-02-19T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-02-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-20T00:00:00Z,Desktop,visitor,233,12,6
+2022-02-20T00:00:00Z,Desktop,client,60,0,29
+2022-02-20T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-02-20T00:00:00Z,Mobile/Smartphone,visitor,372,20,2
+2022-02-20T00:00:00Z,Mobile/Smartphone,client,19,0,9
+2022-02-20T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-02-20T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-02-20T00:00:00Z,Tablet landscape,client,2,0,1
+2022-02-20T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-02-20T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-02-20T00:00:00Z,Tablet portrait,client,1,0,1
+2022-02-20T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-02-21T00:00:00Z,Desktop,visitor,702,20,11
+2022-02-21T00:00:00Z,Desktop,client,75,0,29
+2022-02-21T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-02-21T00:00:00Z,Mobile/Smartphone,visitor,444,9,2
+2022-02-21T00:00:00Z,Mobile/Smartphone,client,36,0,19
+2022-02-21T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-02-21T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-02-21T00:00:00Z,Tablet landscape,client,1,0,1
+2022-02-21T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-02-21T00:00:00Z,Tablet portrait,client,1,0,1
+2022-02-21T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-02-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-22T00:00:00Z,Desktop,visitor,698,38,20
+2022-02-22T00:00:00Z,Desktop,client,62,0,21
+2022-02-22T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-02-22T00:00:00Z,Mobile/Smartphone,visitor,467,9,2
+2022-02-22T00:00:00Z,Mobile/Smartphone,client,26,0,9
+2022-02-22T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-02-22T00:00:00Z,Tablet landscape,visitor,11,0,1
+2022-02-22T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-02-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-23T00:00:00Z,Desktop,visitor,625,29,12
+2022-02-23T00:00:00Z,Desktop,client,84,0,36
+2022-02-23T00:00:00Z,Desktop,::unspecified::,25,0,0
+2022-02-23T00:00:00Z,Mobile/Smartphone,visitor,400,15,4
+2022-02-23T00:00:00Z,Mobile/Smartphone,client,16,0,8
+2022-02-23T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-02-23T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-02-23T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-02-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-24T00:00:00Z,Desktop,visitor,557,32,6
+2022-02-24T00:00:00Z,Desktop,client,62,0,29
+2022-02-24T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-02-24T00:00:00Z,Mobile/Smartphone,visitor,364,12,1
+2022-02-24T00:00:00Z,Mobile/Smartphone,client,22,0,12
+2022-02-24T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-02-24T00:00:00Z,Tablet landscape,visitor,7,2,0
+2022-02-24T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-02-24T00:00:00Z,Tablet portrait,client,1,0,0
+2022-02-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-25T00:00:00Z,Desktop,visitor,444,18,8
+2022-02-25T00:00:00Z,Desktop,client,60,0,28
+2022-02-25T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-02-25T00:00:00Z,Mobile/Smartphone,visitor,382,17,2
+2022-02-25T00:00:00Z,Mobile/Smartphone,client,24,0,13
+2022-02-25T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-02-25T00:00:00Z,Tablet landscape,visitor,8,1,1
+2022-02-25T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-25T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-02-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-26T00:00:00Z,Desktop,visitor,220,6,5
+2022-02-26T00:00:00Z,Desktop,client,37,0,21
+2022-02-26T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-02-26T00:00:00Z,Mobile/Smartphone,visitor,319,12,1
+2022-02-26T00:00:00Z,Mobile/Smartphone,client,22,0,12
+2022-02-26T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-02-26T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-02-26T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-02-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-27T00:00:00Z,Desktop,visitor,219,10,4
+2022-02-27T00:00:00Z,Desktop,client,38,0,19
+2022-02-27T00:00:00Z,Desktop,::unspecified::,21,0,0
+2022-02-27T00:00:00Z,Mobile/Smartphone,visitor,289,12,3
+2022-02-27T00:00:00Z,Mobile/Smartphone,client,20,0,11
+2022-02-27T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-02-27T00:00:00Z,Tablet landscape,visitor,14,0,0
+2022-02-27T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-27T00:00:00Z,Tablet portrait,visitor,7,1,0
+2022-02-27T00:00:00Z,Tablet portrait,client,1,0,1
+2022-02-27T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-02-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-02-28T00:00:00Z,Desktop,visitor,552,26,18
+2022-02-28T00:00:00Z,Desktop,client,74,0,20
+2022-02-28T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-02-28T00:00:00Z,Mobile/Smartphone,visitor,346,7,3
+2022-02-28T00:00:00Z,Mobile/Smartphone,client,32,0,20
+2022-02-28T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-02-28T00:00:00Z,Tablet landscape,visitor,7,2,0
+2022-02-28T00:00:00Z,Tablet landscape,client,1,0,0
+2022-02-28T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-02-28T00:00:00Z,Tablet portrait,visitor,5,0,2
+2022-02-28T00:00:00Z,Tablet portrait,client,1,0,0
+2022-02-28T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-02-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-01T00:00:00Z,Desktop,visitor,567,16,8
+2022-03-01T00:00:00Z,Desktop,client,71,0,39
+2022-03-01T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-03-01T00:00:00Z,Mobile/Smartphone,visitor,425,19,1
+2022-03-01T00:00:00Z,Mobile/Smartphone,client,30,0,9
+2022-03-01T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-03-01T00:00:00Z,Tablet landscape,visitor,10,1,0
+2022-03-01T00:00:00Z,Tablet landscape,client,3,0,1
+2022-03-01T00:00:00Z,Tablet landscape,::unspecified::,2,0,0
+2022-03-01T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-03-01T00:00:00Z,Tablet portrait,client,1,0,0
+2022-03-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-02T00:00:00Z,Desktop,visitor,553,13,4
+2022-03-02T00:00:00Z,Desktop,client,48,0,24
+2022-03-02T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-03-02T00:00:00Z,Mobile/Smartphone,visitor,367,16,3
+2022-03-02T00:00:00Z,Mobile/Smartphone,client,27,0,13
+2022-03-02T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-03-02T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-03-02T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-02T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-03T00:00:00Z,Desktop,visitor,470,16,5
+2022-03-03T00:00:00Z,Desktop,client,61,0,23
+2022-03-03T00:00:00Z,Desktop,::unspecified::,20,0,0
+2022-03-03T00:00:00Z,Mobile/Smartphone,visitor,326,16,3
+2022-03-03T00:00:00Z,Mobile/Smartphone,client,24,0,10
+2022-03-03T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-03-03T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-03-03T00:00:00Z,Tablet landscape,client,1,0,1
+2022-03-03T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-03T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-03-03T00:00:00Z,Tablet portrait,client,2,0,1
+2022-03-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-04T00:00:00Z,Desktop,visitor,480,34,4
+2022-03-04T00:00:00Z,Desktop,client,47,0,28
+2022-03-04T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-03-04T00:00:00Z,Mobile/Smartphone,visitor,315,17,4
+2022-03-04T00:00:00Z,Mobile/Smartphone,client,14,0,7
+2022-03-04T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-03-04T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-03-04T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-04T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-03-04T00:00:00Z,Tablet portrait,client,1,0,1
+2022-03-04T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-03-04T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-03-05T00:00:00Z,Desktop,visitor,184,21,1
+2022-03-05T00:00:00Z,Desktop,client,28,0,15
+2022-03-05T00:00:00Z,Mobile/Smartphone,visitor,313,23,0
+2022-03-05T00:00:00Z,Mobile/Smartphone,client,16,0,8
+2022-03-05T00:00:00Z,Mobile/Smartphone,::unspecified::,1,0,0
+2022-03-05T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-03-05T00:00:00Z,Tablet landscape,client,2,0,0
+2022-03-05T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-05T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-03-06T00:00:00Z,Desktop,visitor,249,46,3
+2022-03-06T00:00:00Z,Desktop,client,46,0,33
+2022-03-06T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-03-06T00:00:00Z,Mobile/Smartphone,visitor,326,14,1
+2022-03-06T00:00:00Z,Mobile/Smartphone,client,26,0,16
+2022-03-06T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-03-06T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-03-06T00:00:00Z,Tablet landscape,client,1,0,1
+2022-03-06T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-06T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-03-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-07T00:00:00Z,Desktop,visitor,554,101,11
+2022-03-07T00:00:00Z,Desktop,client,69,0,43
+2022-03-07T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-03-07T00:00:00Z,Mobile/Smartphone,visitor,338,22,3
+2022-03-07T00:00:00Z,Mobile/Smartphone,client,30,0,14
+2022-03-07T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-03-07T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-03-07T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-03-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-08T00:00:00Z,Desktop,visitor,536,85,8
+2022-03-08T00:00:00Z,Desktop,client,79,0,29
+2022-03-08T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-03-08T00:00:00Z,Mobile/Smartphone,visitor,327,9,2
+2022-03-08T00:00:00Z,Mobile/Smartphone,client,24,0,10
+2022-03-08T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-03-08T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-03-08T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-08T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-03-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-09T00:00:00Z,Desktop,visitor,543,57,7
+2022-03-09T00:00:00Z,Desktop,client,50,0,21
+2022-03-09T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-03-09T00:00:00Z,Mobile/Smartphone,visitor,344,16,3
+2022-03-09T00:00:00Z,Mobile/Smartphone,client,13,0,6
+2022-03-09T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-03-09T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-03-09T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-09T00:00:00Z,Tablet portrait,client,1,0,1
+2022-03-09T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-03-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-10T00:00:00Z,Desktop,visitor,521,64,7
+2022-03-10T00:00:00Z,Desktop,client,48,0,15
+2022-03-10T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-03-10T00:00:00Z,Mobile/Smartphone,visitor,315,23,1
+2022-03-10T00:00:00Z,Mobile/Smartphone,client,13,0,7
+2022-03-10T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-03-10T00:00:00Z,Tablet landscape,visitor,8,2,0
+2022-03-10T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-03-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-11T00:00:00Z,Desktop,visitor,413,44,6
+2022-03-11T00:00:00Z,Desktop,client,41,0,12
+2022-03-11T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-03-11T00:00:00Z,Mobile/Smartphone,visitor,305,22,2
+2022-03-11T00:00:00Z,Mobile/Smartphone,client,16,0,3
+2022-03-11T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-03-11T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-03-11T00:00:00Z,Tablet landscape,client,2,0,0
+2022-03-11T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-11T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-03-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-12T00:00:00Z,Desktop,visitor,198,48,4
+2022-03-12T00:00:00Z,Desktop,client,31,0,12
+2022-03-12T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-03-12T00:00:00Z,Mobile/Smartphone,visitor,321,22,2
+2022-03-12T00:00:00Z,Mobile/Smartphone,client,22,0,15
+2022-03-12T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-03-12T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-03-12T00:00:00Z,Tablet landscape,client,1,0,1
+2022-03-12T00:00:00Z,Tablet portrait,visitor,7,1,0
+2022-03-12T00:00:00Z,Tablet portrait,client,1,0,2
+2022-03-12T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-03-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-13T00:00:00Z,Desktop,visitor,201,25,4
+2022-03-13T00:00:00Z,Desktop,client,33,0,20
+2022-03-13T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-03-13T00:00:00Z,Mobile/Smartphone,visitor,304,31,2
+2022-03-13T00:00:00Z,Mobile/Smartphone,client,19,0,8
+2022-03-13T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-03-13T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-03-13T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-03-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-14T00:00:00Z,Desktop,visitor,551,43,1
+2022-03-14T00:00:00Z,Desktop,client,62,0,33
+2022-03-14T00:00:00Z,Desktop,::unspecified::,2,0,0
+2022-03-14T00:00:00Z,Mobile/Smartphone,visitor,467,28,6
+2022-03-14T00:00:00Z,Mobile/Smartphone,client,33,0,16
+2022-03-14T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2022-03-14T00:00:00Z,Tablet landscape,visitor,9,2,1
+2022-03-14T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-03-14T00:00:00Z,Tablet portrait,client,1,0,1
+2022-03-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-15T00:00:00Z,Desktop,visitor,628,63,4
+2022-03-15T00:00:00Z,Desktop,client,87,0,39
+2022-03-15T00:00:00Z,Desktop,::unspecified::,28,0,0
+2022-03-15T00:00:00Z,Mobile/Smartphone,visitor,510,25,1
+2022-03-15T00:00:00Z,Mobile/Smartphone,client,35,0,19
+2022-03-15T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-03-15T00:00:00Z,Tablet landscape,visitor,11,0,0
+2022-03-15T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-16T00:00:00Z,Desktop,visitor,599,43,5
+2022-03-16T00:00:00Z,Desktop,client,74,0,25
+2022-03-16T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-03-16T00:00:00Z,Mobile/Smartphone,visitor,507,19,2
+2022-03-16T00:00:00Z,Mobile/Smartphone,client,41,0,19
+2022-03-16T00:00:00Z,Mobile/Smartphone,::unspecified::,21,0,0
+2022-03-16T00:00:00Z,Tablet landscape,visitor,17,0,0
+2022-03-16T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-17T00:00:00Z,Desktop,visitor,542,42,3
+2022-03-17T00:00:00Z,Desktop,client,71,0,42
+2022-03-17T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-03-17T00:00:00Z,Mobile/Smartphone,visitor,396,15,3
+2022-03-17T00:00:00Z,Mobile/Smartphone,client,34,0,16
+2022-03-17T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-03-17T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-03-17T00:00:00Z,Tablet landscape,client,1,0,2
+2022-03-17T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-17T00:00:00Z,Tablet portrait,visitor,3,4,0
+2022-03-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-18T00:00:00Z,Desktop,visitor,505,34,1
+2022-03-18T00:00:00Z,Desktop,client,52,0,22
+2022-03-18T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-03-18T00:00:00Z,Mobile/Smartphone,visitor,394,35,5
+2022-03-18T00:00:00Z,Mobile/Smartphone,client,16,0,7
+2022-03-18T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-03-18T00:00:00Z,Tablet landscape,visitor,8,2,0
+2022-03-18T00:00:00Z,Tablet portrait,visitor,5,1,0
+2022-03-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-19T00:00:00Z,Desktop,visitor,250,38,6
+2022-03-19T00:00:00Z,Desktop,client,54,0,26
+2022-03-19T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-03-19T00:00:00Z,Mobile/Smartphone,visitor,359,32,1
+2022-03-19T00:00:00Z,Mobile/Smartphone,client,26,0,12
+2022-03-19T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-03-19T00:00:00Z,Tablet landscape,visitor,9,1,0
+2022-03-19T00:00:00Z,Tablet landscape,client,1,0,1
+2022-03-19T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-19T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-20T00:00:00Z,Desktop,visitor,216,37,5
+2022-03-20T00:00:00Z,Desktop,client,36,0,17
+2022-03-20T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-03-20T00:00:00Z,Mobile/Smartphone,visitor,350,36,2
+2022-03-20T00:00:00Z,Mobile/Smartphone,client,27,0,13
+2022-03-20T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-03-20T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-03-20T00:00:00Z,Tablet landscape,client,1,0,1
+2022-03-20T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-20T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-03-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-21T00:00:00Z,Desktop,visitor,587,46,5
+2022-03-21T00:00:00Z,Desktop,client,68,0,33
+2022-03-21T00:00:00Z,Desktop,::unspecified::,30,0,0
+2022-03-21T00:00:00Z,Mobile/Smartphone,visitor,399,35,3
+2022-03-21T00:00:00Z,Mobile/Smartphone,client,39,0,27
+2022-03-21T00:00:00Z,Mobile/Smartphone,::unspecified::,21,0,0
+2022-03-21T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-03-21T00:00:00Z,Tablet landscape,client,1,0,2
+2022-03-21T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-03-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-22T00:00:00Z,Desktop,visitor,619,33,8
+2022-03-22T00:00:00Z,Desktop,client,77,0,34
+2022-03-22T00:00:00Z,Desktop,::unspecified::,26,0,0
+2022-03-22T00:00:00Z,Mobile/Smartphone,visitor,394,21,1
+2022-03-22T00:00:00Z,Mobile/Smartphone,client,22,0,10
+2022-03-22T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-03-22T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-03-22T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-22T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-22T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-03-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-23T00:00:00Z,Desktop,visitor,532,38,16
+2022-03-23T00:00:00Z,Desktop,client,61,0,18
+2022-03-23T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-03-23T00:00:00Z,Mobile/Smartphone,visitor,368,13,2
+2022-03-23T00:00:00Z,Mobile/Smartphone,client,24,0,10
+2022-03-23T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-03-23T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-03-23T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-03-23T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-03-24T00:00:00Z,Desktop,visitor,529,23,14
+2022-03-24T00:00:00Z,Desktop,client,57,0,20
+2022-03-24T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-03-24T00:00:00Z,Mobile/Smartphone,visitor,350,16,4
+2022-03-24T00:00:00Z,Mobile/Smartphone,client,22,0,9
+2022-03-24T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-03-24T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-03-24T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-24T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-03-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-25T00:00:00Z,Desktop,visitor,453,14,4
+2022-03-25T00:00:00Z,Desktop,client,38,0,7
+2022-03-25T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-03-25T00:00:00Z,Mobile/Smartphone,visitor,316,15,2
+2022-03-25T00:00:00Z,Mobile/Smartphone,client,12,0,7
+2022-03-25T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-03-25T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-03-25T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-03-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-26T00:00:00Z,Desktop,visitor,213,11,3
+2022-03-26T00:00:00Z,Desktop,client,40,0,14
+2022-03-26T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-03-26T00:00:00Z,Mobile/Smartphone,visitor,332,9,1
+2022-03-26T00:00:00Z,Mobile/Smartphone,client,20,0,11
+2022-03-26T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-03-26T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-03-26T00:00:00Z,Tablet landscape,client,1,0,2
+2022-03-26T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-03-26T00:00:00Z,Tablet portrait,client,1,0,1
+2022-03-26T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-03-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-27T00:00:00Z,Desktop,visitor,270,20,7
+2022-03-27T00:00:00Z,Desktop,client,52,0,31
+2022-03-27T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-03-27T00:00:00Z,Mobile/Smartphone,visitor,356,14,3
+2022-03-27T00:00:00Z,Mobile/Smartphone,client,27,0,12
+2022-03-27T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-03-27T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-03-27T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-27T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-27T00:00:00Z,Tablet portrait,visitor,6,1,0
+2022-03-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-28T00:00:00Z,Desktop,visitor,636,20,14
+2022-03-28T00:00:00Z,Desktop,client,50,0,18
+2022-03-28T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-03-28T00:00:00Z,Mobile/Smartphone,visitor,345,11,1
+2022-03-28T00:00:00Z,Mobile/Smartphone,client,22,0,8
+2022-03-28T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-03-28T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-03-28T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-28T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-28T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-03-28T00:00:00Z,Tablet portrait,client,1,0,0
+2022-03-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-29T00:00:00Z,Desktop,visitor,605,14,5
+2022-03-29T00:00:00Z,Desktop,client,58,0,24
+2022-03-29T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-03-29T00:00:00Z,Mobile/Smartphone,visitor,387,14,3
+2022-03-29T00:00:00Z,Mobile/Smartphone,client,31,0,20
+2022-03-29T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-03-29T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-03-29T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-29T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-03-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-30T00:00:00Z,Desktop,visitor,538,15,11
+2022-03-30T00:00:00Z,Desktop,client,45,0,18
+2022-03-30T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-03-30T00:00:00Z,Mobile/Smartphone,visitor,347,16,9
+2022-03-30T00:00:00Z,Mobile/Smartphone,client,32,0,15
+2022-03-30T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-03-30T00:00:00Z,Tablet landscape,visitor,7,1,0
+2022-03-30T00:00:00Z,Tablet landscape,client,1,0,0
+2022-03-30T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-03-30T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-03-31T00:00:00Z,Desktop,visitor,553,24,6
+2022-03-31T00:00:00Z,Desktop,client,61,0,23
+2022-03-31T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-03-31T00:00:00Z,Mobile/Smartphone,visitor,408,20,1
+2022-03-31T00:00:00Z,Mobile/Smartphone,client,16,0,14
+2022-03-31T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-03-31T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-03-31T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-03-31T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-01T00:00:00Z,Desktop,visitor,489,12,4
+2022-04-01T00:00:00Z,Desktop,client,48,0,15
+2022-04-01T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-04-01T00:00:00Z,Mobile/Smartphone,visitor,345,14,3
+2022-04-01T00:00:00Z,Mobile/Smartphone,client,13,0,7
+2022-04-01T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-04-01T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-04-01T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-04-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-02T00:00:00Z,Desktop,visitor,226,7,4
+2022-04-02T00:00:00Z,Desktop,client,34,0,21
+2022-04-02T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-04-02T00:00:00Z,Mobile/Smartphone,visitor,350,4,1
+2022-04-02T00:00:00Z,Mobile/Smartphone,client,16,0,4
+2022-04-02T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-04-02T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-04-02T00:00:00Z,Tablet landscape,client,1,0,0
+2022-04-02T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-04-02T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-04-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-03T00:00:00Z,Desktop,visitor,207,10,3
+2022-04-03T00:00:00Z,Desktop,client,34,0,14
+2022-04-03T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-04-03T00:00:00Z,Mobile/Smartphone,visitor,362,10,2
+2022-04-03T00:00:00Z,Mobile/Smartphone,client,16,0,8
+2022-04-03T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-04-03T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-04-03T00:00:00Z,Tablet landscape,client,1,0,1
+2022-04-03T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-04-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-04T00:00:00Z,Desktop,visitor,548,16,6
+2022-04-04T00:00:00Z,Desktop,client,51,0,16
+2022-04-04T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-04-04T00:00:00Z,Mobile/Smartphone,visitor,381,9,3
+2022-04-04T00:00:00Z,Mobile/Smartphone,client,25,0,16
+2022-04-04T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-04-04T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-04-04T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-04-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-05T00:00:00Z,Desktop,visitor,560,14,9
+2022-04-05T00:00:00Z,Desktop,client,50,0,21
+2022-04-05T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-04-05T00:00:00Z,Mobile/Smartphone,visitor,422,18,3
+2022-04-05T00:00:00Z,Mobile/Smartphone,client,21,0,10
+2022-04-05T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-04-05T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-04-05T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-04-05T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-04-06T00:00:00Z,Desktop,visitor,599,20,4
+2022-04-06T00:00:00Z,Desktop,client,50,0,14
+2022-04-06T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-04-06T00:00:00Z,Mobile/Smartphone,visitor,498,16,2
+2022-04-06T00:00:00Z,Mobile/Smartphone,client,10,0,5
+2022-04-06T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-04-06T00:00:00Z,Tablet landscape,visitor,11,0,0
+2022-04-06T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-04-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-07T00:00:00Z,Desktop,visitor,549,14,7
+2022-04-07T00:00:00Z,Desktop,client,42,0,19
+2022-04-07T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-04-07T00:00:00Z,Mobile/Smartphone,visitor,404,9,1
+2022-04-07T00:00:00Z,Mobile/Smartphone,client,19,0,14
+2022-04-07T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-04-07T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-04-07T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-04-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-08T00:00:00Z,Desktop,visitor,541,15,3
+2022-04-08T00:00:00Z,Desktop,client,54,0,23
+2022-04-08T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-04-08T00:00:00Z,Mobile/Smartphone,visitor,528,10,1
+2022-04-08T00:00:00Z,Mobile/Smartphone,client,15,0,7
+2022-04-08T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-04-08T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-04-08T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-04-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-09T00:00:00Z,Desktop,visitor,213,7,2
+2022-04-09T00:00:00Z,Desktop,client,27,0,16
+2022-04-09T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-04-09T00:00:00Z,Mobile/Smartphone,visitor,446,7,1
+2022-04-09T00:00:00Z,Mobile/Smartphone,client,12,0,5
+2022-04-09T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2022-04-09T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-04-09T00:00:00Z,Tablet landscape,client,3,0,4
+2022-04-09T00:00:00Z,Tablet landscape,::unspecified::,2,0,0
+2022-04-09T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-04-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-10T00:00:00Z,Desktop,visitor,180,6,3
+2022-04-10T00:00:00Z,Desktop,client,25,0,11
+2022-04-10T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-04-10T00:00:00Z,Mobile/Smartphone,visitor,384,11,1
+2022-04-10T00:00:00Z,Mobile/Smartphone,client,13,0,2
+2022-04-10T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2022-04-10T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-04-10T00:00:00Z,Tablet landscape,client,1,0,0
+2022-04-10T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-04-10T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-04-10T00:00:00Z,Tablet portrait,client,1,0,0
+2022-04-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-11T00:00:00Z,Desktop,visitor,590,22,13
+2022-04-11T00:00:00Z,Desktop,client,67,0,20
+2022-04-11T00:00:00Z,Desktop,::unspecified::,24,0,0
+2022-04-11T00:00:00Z,Mobile/Smartphone,visitor,412,17,1
+2022-04-11T00:00:00Z,Mobile/Smartphone,client,21,0,6
+2022-04-11T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-04-11T00:00:00Z,Tablet landscape,visitor,7,1,0
+2022-04-11T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-04-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-12T00:00:00Z,Desktop,visitor,567,29,4
+2022-04-12T00:00:00Z,Desktop,client,46,0,13
+2022-04-12T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-04-12T00:00:00Z,Mobile/Smartphone,visitor,459,17,2
+2022-04-12T00:00:00Z,Mobile/Smartphone,client,23,0,13
+2022-04-12T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-04-12T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-04-12T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-04-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-13T00:00:00Z,Desktop,visitor,478,13,7
+2022-04-13T00:00:00Z,Desktop,client,45,0,19
+2022-04-13T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-04-13T00:00:00Z,Mobile/Smartphone,visitor,384,13,3
+2022-04-13T00:00:00Z,Mobile/Smartphone,client,12,0,3
+2022-04-13T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-04-13T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-04-13T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-04-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-14T00:00:00Z,Desktop,visitor,373,14,7
+2022-04-14T00:00:00Z,Desktop,client,50,0,11
+2022-04-14T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-04-14T00:00:00Z,Mobile/Smartphone,visitor,351,10,1
+2022-04-14T00:00:00Z,Mobile/Smartphone,client,16,0,7
+2022-04-14T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-04-14T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-04-14T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-04-14T00:00:00Z,Tablet portrait,client,1,0,0
+2022-04-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-15T00:00:00Z,Desktop,visitor,151,7,4
+2022-04-15T00:00:00Z,Desktop,client,34,0,7
+2022-04-15T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-04-15T00:00:00Z,Mobile/Smartphone,visitor,274,9,3
+2022-04-15T00:00:00Z,Mobile/Smartphone,client,14,0,7
+2022-04-15T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-04-15T00:00:00Z,Tablet landscape,visitor,2,0,1
+2022-04-15T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-04-15T00:00:00Z,Tablet portrait,client,1,0,1
+2022-04-15T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-04-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-16T00:00:00Z,Desktop,visitor,142,2,1
+2022-04-16T00:00:00Z,Desktop,client,15,0,7
+2022-04-16T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-04-16T00:00:00Z,Mobile/Smartphone,visitor,243,9,2
+2022-04-16T00:00:00Z,Mobile/Smartphone,client,12,0,11
+2022-04-16T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-04-16T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-04-16T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-04-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-17T00:00:00Z,Desktop,visitor,129,12,4
+2022-04-17T00:00:00Z,Desktop,client,17,0,13
+2022-04-17T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-04-17T00:00:00Z,Mobile/Smartphone,visitor,232,9,3
+2022-04-17T00:00:00Z,Mobile/Smartphone,client,12,0,6
+2022-04-17T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-04-17T00:00:00Z,Tablet landscape,visitor,6,1,0
+2022-04-17T00:00:00Z,Tablet portrait,client,1,0,2
+2022-04-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-18T00:00:00Z,Desktop,visitor,207,13,5
+2022-04-18T00:00:00Z,Desktop,client,36,0,18
+2022-04-18T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-04-18T00:00:00Z,Mobile/Smartphone,visitor,305,6,0
+2022-04-18T00:00:00Z,Mobile/Smartphone,client,13,0,3
+2022-04-18T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-04-18T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-04-18T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-04-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-19T00:00:00Z,Desktop,visitor,609,28,8
+2022-04-19T00:00:00Z,Desktop,client,73,0,23
+2022-04-19T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-04-19T00:00:00Z,Mobile/Smartphone,visitor,357,16,8
+2022-04-19T00:00:00Z,Mobile/Smartphone,client,19,0,5
+2022-04-19T00:00:00Z,Mobile/Smartphone,::unspecified::,3,0,0
+2022-04-19T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-04-19T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-04-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-20T00:00:00Z,Desktop,visitor,572,10,6
+2022-04-20T00:00:00Z,Desktop,client,65,0,24
+2022-04-20T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-04-20T00:00:00Z,Mobile/Smartphone,visitor,412,15,3
+2022-04-20T00:00:00Z,Mobile/Smartphone,client,14,0,6
+2022-04-20T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-04-20T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-04-20T00:00:00Z,Tablet landscape,client,1,0,0
+2022-04-20T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-04-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-21T00:00:00Z,Desktop,visitor,550,10,2
+2022-04-21T00:00:00Z,Desktop,client,45,0,17
+2022-04-21T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-04-21T00:00:00Z,Mobile/Smartphone,visitor,390,17,10
+2022-04-21T00:00:00Z,Mobile/Smartphone,client,25,0,10
+2022-04-21T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-04-21T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-04-21T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-04-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-22T00:00:00Z,Desktop,visitor,441,11,5
+2022-04-22T00:00:00Z,Desktop,client,53,0,21
+2022-04-22T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-04-22T00:00:00Z,Mobile/Smartphone,visitor,336,19,3
+2022-04-22T00:00:00Z,Mobile/Smartphone,client,23,0,7
+2022-04-22T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-04-22T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-04-22T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-04-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-23T00:00:00Z,Desktop,visitor,166,3,2
+2022-04-23T00:00:00Z,Desktop,client,20,0,12
+2022-04-23T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-04-23T00:00:00Z,Mobile/Smartphone,visitor,280,10,3
+2022-04-23T00:00:00Z,Mobile/Smartphone,client,21,0,9
+2022-04-23T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-04-23T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-04-23T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-04-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-24T00:00:00Z,Desktop,visitor,172,9,7
+2022-04-24T00:00:00Z,Desktop,client,24,0,10
+2022-04-24T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-04-24T00:00:00Z,Mobile/Smartphone,visitor,264,11,6
+2022-04-24T00:00:00Z,Mobile/Smartphone,client,10,0,4
+2022-04-24T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-04-24T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-04-24T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-04-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-25T00:00:00Z,Desktop,visitor,229,15,6
+2022-04-25T00:00:00Z,Desktop,client,29,0,17
+2022-04-25T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-04-25T00:00:00Z,Mobile/Smartphone,visitor,353,4,2
+2022-04-25T00:00:00Z,Mobile/Smartphone,client,16,0,8
+2022-04-25T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-04-25T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-04-25T00:00:00Z,Tablet landscape,client,1,0,0
+2022-04-25T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-04-25T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-04-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-26T00:00:00Z,Desktop,visitor,629,19,2
+2022-04-26T00:00:00Z,Desktop,client,60,0,19
+2022-04-26T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-04-26T00:00:00Z,Mobile/Smartphone,visitor,451,24,5
+2022-04-26T00:00:00Z,Mobile/Smartphone,client,24,0,12
+2022-04-26T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-04-26T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-04-26T00:00:00Z,Tablet landscape,client,1,0,1
+2022-04-26T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-04-26T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-04-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-27T00:00:00Z,Desktop,visitor,692,15,4
+2022-04-27T00:00:00Z,Desktop,client,52,0,17
+2022-04-27T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-04-27T00:00:00Z,Mobile/Smartphone,visitor,658,5,0
+2022-04-27T00:00:00Z,Mobile/Smartphone,client,22,0,7
+2022-04-27T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-04-27T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-04-27T00:00:00Z,Tablet landscape,client,1,0,1
+2022-04-27T00:00:00Z,Tablet portrait,visitor,12,0,0
+2022-04-27T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-04-28T00:00:00Z,Desktop,visitor,764,21,6
+2022-04-28T00:00:00Z,Desktop,client,85,0,24
+2022-04-28T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-04-28T00:00:00Z,Mobile/Smartphone,visitor,813,17,5
+2022-04-28T00:00:00Z,Mobile/Smartphone,client,24,0,18
+2022-04-28T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-04-28T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-04-28T00:00:00Z,Tablet landscape,client,1,0,0
+2022-04-28T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-04-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-29T00:00:00Z,Desktop,visitor,600,15,7
+2022-04-29T00:00:00Z,Desktop,client,36,0,11
+2022-04-29T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-04-29T00:00:00Z,Mobile/Smartphone,visitor,586,16,4
+2022-04-29T00:00:00Z,Mobile/Smartphone,client,19,0,10
+2022-04-29T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-04-29T00:00:00Z,Tablet landscape,visitor,16,0,0
+2022-04-29T00:00:00Z,Tablet landscape,client,2,0,0
+2022-04-29T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-04-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-04-30T00:00:00Z,Desktop,visitor,281,21,10
+2022-04-30T00:00:00Z,Desktop,client,41,0,20
+2022-04-30T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-04-30T00:00:00Z,Mobile/Smartphone,visitor,502,19,2
+2022-04-30T00:00:00Z,Mobile/Smartphone,client,16,0,7
+2022-04-30T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-04-30T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-04-30T00:00:00Z,Tablet landscape,client,4,0,3
+2022-04-30T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-04-30T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-04-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-01T00:00:00Z,Desktop,visitor,247,9,7
+2022-05-01T00:00:00Z,Desktop,client,44,0,19
+2022-05-01T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-05-01T00:00:00Z,Mobile/Smartphone,visitor,480,14,6
+2022-05-01T00:00:00Z,Mobile/Smartphone,client,24,0,12
+2022-05-01T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-05-01T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-05-01T00:00:00Z,Tablet portrait,visitor,12,0,0
+2022-05-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-02T00:00:00Z,Desktop,visitor,770,27,8
+2022-05-02T00:00:00Z,Desktop,client,78,0,26
+2022-05-02T00:00:00Z,Desktop,::unspecified::,32,0,0
+2022-05-02T00:00:00Z,Mobile/Smartphone,visitor,625,7,2
+2022-05-02T00:00:00Z,Mobile/Smartphone,client,33,0,15
+2022-05-02T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-05-02T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-05-02T00:00:00Z,Tablet portrait,visitor,12,1,0
+2022-05-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-03T00:00:00Z,Desktop,visitor,1359,42,8
+2022-05-03T00:00:00Z,Desktop,client,90,0,16
+2022-05-03T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-05-03T00:00:00Z,Mobile/Smartphone,visitor,1782,17,4
+2022-05-03T00:00:00Z,Mobile/Smartphone,client,32,0,15
+2022-05-03T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-05-03T00:00:00Z,Tablet landscape,visitor,19,0,0
+2022-05-03T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-03T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-05-03T00:00:00Z,Tablet portrait,visitor,18,2,0
+2022-05-03T00:00:00Z,Tablet portrait,client,2,0,0
+2022-05-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-04T00:00:00Z,Desktop,visitor,1221,31,12
+2022-05-04T00:00:00Z,Desktop,client,92,0,24
+2022-05-04T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-05-04T00:00:00Z,Mobile/Smartphone,visitor,1452,24,7
+2022-05-04T00:00:00Z,Mobile/Smartphone,client,25,0,4
+2022-05-04T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-05-04T00:00:00Z,Tablet landscape,visitor,21,0,0
+2022-05-04T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-04T00:00:00Z,Tablet portrait,visitor,10,0,0
+2022-05-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-05T00:00:00Z,Desktop,visitor,877,30,4
+2022-05-05T00:00:00Z,Desktop,client,70,0,17
+2022-05-05T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-05-05T00:00:00Z,Mobile/Smartphone,visitor,910,18,2
+2022-05-05T00:00:00Z,Mobile/Smartphone,client,18,0,3
+2022-05-05T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-05-05T00:00:00Z,Tablet landscape,visitor,13,0,0
+2022-05-05T00:00:00Z,Tablet portrait,visitor,12,0,0
+2022-05-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-06T00:00:00Z,Desktop,visitor,676,17,7
+2022-05-06T00:00:00Z,Desktop,client,55,0,10
+2022-05-06T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-05-06T00:00:00Z,Mobile/Smartphone,visitor,567,15,1
+2022-05-06T00:00:00Z,Mobile/Smartphone,client,16,0,6
+2022-05-06T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-05-06T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-05-06T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-05-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-07T00:00:00Z,Desktop,visitor,243,16,6
+2022-05-07T00:00:00Z,Desktop,client,29,0,8
+2022-05-07T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-05-07T00:00:00Z,Mobile/Smartphone,visitor,475,24,3
+2022-05-07T00:00:00Z,Mobile/Smartphone,client,18,0,7
+2022-05-07T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-05-07T00:00:00Z,Tablet landscape,visitor,13,0,0
+2022-05-07T00:00:00Z,Tablet portrait,visitor,7,0,1
+2022-05-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-08T00:00:00Z,Desktop,visitor,233,21,6
+2022-05-08T00:00:00Z,Desktop,client,29,0,11
+2022-05-08T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-05-08T00:00:00Z,Mobile/Smartphone,visitor,411,14,3
+2022-05-08T00:00:00Z,Mobile/Smartphone,client,24,0,3
+2022-05-08T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-05-08T00:00:00Z,Tablet landscape,visitor,6,2,0
+2022-05-08T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-05-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-09T00:00:00Z,Desktop,visitor,645,27,8
+2022-05-09T00:00:00Z,Desktop,client,54,0,10
+2022-05-09T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-05-09T00:00:00Z,Mobile/Smartphone,visitor,432,16,3
+2022-05-09T00:00:00Z,Mobile/Smartphone,client,21,0,5
+2022-05-09T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-05-09T00:00:00Z,Tablet landscape,visitor,7,1,0
+2022-05-09T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-09T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-05-09T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-05-10T00:00:00Z,Desktop,visitor,611,21,4
+2022-05-10T00:00:00Z,Desktop,client,65,0,12
+2022-05-10T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-05-10T00:00:00Z,Mobile/Smartphone,visitor,479,16,7
+2022-05-10T00:00:00Z,Mobile/Smartphone,client,25,0,6
+2022-05-10T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-05-10T00:00:00Z,Tablet landscape,visitor,6,2,0
+2022-05-10T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-05-10T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-05-11T00:00:00Z,Desktop,visitor,579,17,3
+2022-05-11T00:00:00Z,Desktop,client,51,0,12
+2022-05-11T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-05-11T00:00:00Z,Mobile/Smartphone,visitor,425,9,2
+2022-05-11T00:00:00Z,Mobile/Smartphone,client,23,0,10
+2022-05-11T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-05-11T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-05-11T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-05-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-12T00:00:00Z,Desktop,visitor,537,21,8
+2022-05-12T00:00:00Z,Desktop,client,54,0,9
+2022-05-12T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-05-12T00:00:00Z,Mobile/Smartphone,visitor,349,10,2
+2022-05-12T00:00:00Z,Mobile/Smartphone,client,15,0,2
+2022-05-12T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-05-12T00:00:00Z,Tablet landscape,visitor,5,1,0
+2022-05-12T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-12T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-05-12T00:00:00Z,Tablet portrait,client,1,0,0
+2022-05-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-13T00:00:00Z,Desktop,visitor,427,4,1
+2022-05-13T00:00:00Z,Desktop,client,38,0,11
+2022-05-13T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-05-13T00:00:00Z,Mobile/Smartphone,visitor,342,12,2
+2022-05-13T00:00:00Z,Mobile/Smartphone,client,14,0,6
+2022-05-13T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-05-13T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-05-13T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-05-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-14T00:00:00Z,Desktop,visitor,199,4,2
+2022-05-14T00:00:00Z,Desktop,client,26,0,13
+2022-05-14T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-05-14T00:00:00Z,Mobile/Smartphone,visitor,324,6,3
+2022-05-14T00:00:00Z,Mobile/Smartphone,client,15,0,9
+2022-05-14T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2022-05-14T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-05-14T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-05-14T00:00:00Z,Tablet portrait,client,1,0,0
+2022-05-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-15T00:00:00Z,Desktop,visitor,201,4,7
+2022-05-15T00:00:00Z,Desktop,client,39,0,24
+2022-05-15T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-05-15T00:00:00Z,Mobile/Smartphone,visitor,367,3,3
+2022-05-15T00:00:00Z,Mobile/Smartphone,client,14,0,7
+2022-05-15T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-05-15T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-05-15T00:00:00Z,Tablet landscape,client,2,0,0
+2022-05-15T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-05-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-16T00:00:00Z,Desktop,visitor,541,21,7
+2022-05-16T00:00:00Z,Desktop,client,51,0,20
+2022-05-16T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-05-16T00:00:00Z,Mobile/Smartphone,visitor,336,9,3
+2022-05-16T00:00:00Z,Mobile/Smartphone,client,23,0,11
+2022-05-16T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-05-16T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-05-16T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-05-16T00:00:00Z,Tablet portrait,client,2,0,0
+2022-05-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-17T00:00:00Z,Desktop,visitor,502,14,3
+2022-05-17T00:00:00Z,Desktop,client,57,0,26
+2022-05-17T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-05-17T00:00:00Z,Mobile/Smartphone,visitor,445,13,3
+2022-05-17T00:00:00Z,Mobile/Smartphone,client,27,0,13
+2022-05-17T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-05-17T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-05-17T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-17T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-05-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-18T00:00:00Z,Desktop,visitor,529,6,3
+2022-05-18T00:00:00Z,Desktop,client,54,0,19
+2022-05-18T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-05-18T00:00:00Z,Mobile/Smartphone,visitor,396,6,2
+2022-05-18T00:00:00Z,Mobile/Smartphone,client,17,0,7
+2022-05-18T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2022-05-18T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-05-18T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-05-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-19T00:00:00Z,Desktop,visitor,474,9,3
+2022-05-19T00:00:00Z,Desktop,client,43,0,13
+2022-05-19T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-05-19T00:00:00Z,Mobile/Smartphone,visitor,404,8,0
+2022-05-19T00:00:00Z,Mobile/Smartphone,client,18,0,7
+2022-05-19T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-05-19T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-05-19T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-05-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-20T00:00:00Z,Desktop,visitor,413,14,10
+2022-05-20T00:00:00Z,Desktop,client,33,0,15
+2022-05-20T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-05-20T00:00:00Z,Mobile/Smartphone,visitor,347,13,0
+2022-05-20T00:00:00Z,Mobile/Smartphone,client,20,0,5
+2022-05-20T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-05-20T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-05-20T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-20T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-05-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-21T00:00:00Z,Desktop,visitor,151,6,3
+2022-05-21T00:00:00Z,Desktop,client,21,0,9
+2022-05-21T00:00:00Z,Desktop,::unspecified::,4,0,0
+2022-05-21T00:00:00Z,Mobile/Smartphone,visitor,261,9,2
+2022-05-21T00:00:00Z,Mobile/Smartphone,client,6,0,2
+2022-05-21T00:00:00Z,Mobile/Smartphone,::unspecified::,3,0,0
+2022-05-21T00:00:00Z,Tablet landscape,visitor,3,1,0
+2022-05-21T00:00:00Z,Tablet portrait,visitor,3,1,0
+2022-05-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-22T00:00:00Z,Desktop,visitor,179,9,4
+2022-05-22T00:00:00Z,Desktop,client,28,0,12
+2022-05-22T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-05-22T00:00:00Z,Mobile/Smartphone,visitor,299,12,3
+2022-05-22T00:00:00Z,Mobile/Smartphone,client,11,0,6
+2022-05-22T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-05-22T00:00:00Z,Tablet landscape,visitor,7,1,0
+2022-05-22T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-22T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-05-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-23T00:00:00Z,Desktop,visitor,500,4,1
+2022-05-23T00:00:00Z,Desktop,client,48,0,17
+2022-05-23T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-05-23T00:00:00Z,Mobile/Smartphone,visitor,320,11,6
+2022-05-23T00:00:00Z,Mobile/Smartphone,client,25,0,10
+2022-05-23T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-05-23T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-05-23T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-23T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-05-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-24T00:00:00Z,Desktop,visitor,492,20,9
+2022-05-24T00:00:00Z,Desktop,client,56,0,20
+2022-05-24T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-05-24T00:00:00Z,Mobile/Smartphone,visitor,376,18,4
+2022-05-24T00:00:00Z,Mobile/Smartphone,client,18,0,15
+2022-05-24T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-05-24T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-05-24T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-24T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-05-24T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-05-25T00:00:00Z,Desktop,visitor,476,18,8
+2022-05-25T00:00:00Z,Desktop,client,54,0,24
+2022-05-25T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-05-25T00:00:00Z,Mobile/Smartphone,visitor,383,10,1
+2022-05-25T00:00:00Z,Mobile/Smartphone,client,25,0,5
+2022-05-25T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-05-25T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-05-25T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-05-25T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-05-26T00:00:00Z,Desktop,visitor,448,10,6
+2022-05-26T00:00:00Z,Desktop,client,35,0,15
+2022-05-26T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-05-26T00:00:00Z,Mobile/Smartphone,visitor,324,6,0
+2022-05-26T00:00:00Z,Mobile/Smartphone,client,10,0,4
+2022-05-26T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-05-26T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-05-26T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-05-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-27T00:00:00Z,Desktop,visitor,387,11,4
+2022-05-27T00:00:00Z,Desktop,client,38,0,13
+2022-05-27T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-05-27T00:00:00Z,Mobile/Smartphone,visitor,289,12,6
+2022-05-27T00:00:00Z,Mobile/Smartphone,client,16,0,7
+2022-05-27T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-05-27T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-05-27T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-05-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-28T00:00:00Z,Desktop,visitor,173,4,2
+2022-05-28T00:00:00Z,Desktop,client,25,0,9
+2022-05-28T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-05-28T00:00:00Z,Mobile/Smartphone,visitor,230,12,1
+2022-05-28T00:00:00Z,Mobile/Smartphone,client,13,0,10
+2022-05-28T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-05-28T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-05-28T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-05-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-29T00:00:00Z,Desktop,visitor,160,6,0
+2022-05-29T00:00:00Z,Desktop,client,18,0,7
+2022-05-29T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-05-29T00:00:00Z,Mobile/Smartphone,visitor,267,5,0
+2022-05-29T00:00:00Z,Mobile/Smartphone,client,14,0,7
+2022-05-29T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-05-29T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-05-29T00:00:00Z,Tablet landscape,client,1,0,0
+2022-05-29T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-05-29T00:00:00Z,Tablet portrait,None,0,0,0
+2022-05-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-30T00:00:00Z,Desktop,visitor,497,22,9
+2022-05-30T00:00:00Z,Desktop,client,46,0,26
+2022-05-30T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-05-30T00:00:00Z,Mobile/Smartphone,visitor,319,13,5
+2022-05-30T00:00:00Z,Mobile/Smartphone,client,29,0,19
+2022-05-30T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-05-30T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-05-30T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-05-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-05-31T00:00:00Z,Desktop,visitor,513,31,14
+2022-05-31T00:00:00Z,Desktop,client,51,0,17
+2022-05-31T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-05-31T00:00:00Z,Mobile/Smartphone,visitor,325,12,4
+2022-05-31T00:00:00Z,Mobile/Smartphone,client,19,0,12
+2022-05-31T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-05-31T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-05-31T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-05-31T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-01T00:00:00Z,Desktop,visitor,479,14,1
+2022-06-01T00:00:00Z,Desktop,client,45,0,13
+2022-06-01T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-06-01T00:00:00Z,Mobile/Smartphone,visitor,332,12,5
+2022-06-01T00:00:00Z,Mobile/Smartphone,client,20,0,10
+2022-06-01T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-06-01T00:00:00Z,Tablet landscape,visitor,1,0,0
+2022-06-01T00:00:00Z,Tablet portrait,visitor,6,1,0
+2022-06-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-02T00:00:00Z,Desktop,visitor,391,14,4
+2022-06-02T00:00:00Z,Desktop,client,47,0,21
+2022-06-02T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-06-02T00:00:00Z,Mobile/Smartphone,visitor,288,9,1
+2022-06-02T00:00:00Z,Mobile/Smartphone,client,19,0,6
+2022-06-02T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-06-02T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-06-02T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-06-02T00:00:00Z,Tablet portrait,client,2,0,1
+2022-06-02T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-06-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-03T00:00:00Z,Desktop,visitor,368,5,1
+2022-06-03T00:00:00Z,Desktop,client,44,0,27
+2022-06-03T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-06-03T00:00:00Z,Mobile/Smartphone,visitor,266,12,1
+2022-06-03T00:00:00Z,Mobile/Smartphone,client,16,0,5
+2022-06-03T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-06-03T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-06-03T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-06-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-04T00:00:00Z,Desktop,visitor,182,6,4
+2022-06-04T00:00:00Z,Desktop,client,22,0,9
+2022-06-04T00:00:00Z,Desktop,::unspecified::,2,0,0
+2022-06-04T00:00:00Z,Mobile/Smartphone,visitor,320,9,2
+2022-06-04T00:00:00Z,Mobile/Smartphone,client,14,0,10
+2022-06-04T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-06-04T00:00:00Z,Tablet landscape,visitor,13,0,0
+2022-06-04T00:00:00Z,Tablet landscape,client,1,0,1
+2022-06-04T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-06-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-05T00:00:00Z,Desktop,visitor,186,8,4
+2022-06-05T00:00:00Z,Desktop,client,26,0,8
+2022-06-05T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-06-05T00:00:00Z,Mobile/Smartphone,visitor,305,5,0
+2022-06-05T00:00:00Z,Mobile/Smartphone,client,11,0,11
+2022-06-05T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-06-05T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-06-05T00:00:00Z,Tablet landscape,client,1,0,1
+2022-06-05T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-06-05T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-06-05T00:00:00Z,Tablet portrait,client,1,0,0
+2022-06-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-06T00:00:00Z,Desktop,visitor,543,8,4
+2022-06-06T00:00:00Z,Desktop,client,49,0,13
+2022-06-06T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-06-06T00:00:00Z,Mobile/Smartphone,visitor,431,10,1
+2022-06-06T00:00:00Z,Mobile/Smartphone,client,20,0,6
+2022-06-06T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-06-06T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-06-06T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-06-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-07T00:00:00Z,Desktop,visitor,986,23,1
+2022-06-07T00:00:00Z,Desktop,client,69,0,18
+2022-06-07T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-06-07T00:00:00Z,Mobile/Smartphone,visitor,1340,14,1
+2022-06-07T00:00:00Z,Mobile/Smartphone,client,33,0,11
+2022-06-07T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-06-07T00:00:00Z,Tablet landscape,visitor,19,0,0
+2022-06-07T00:00:00Z,Tablet landscape,client,3,0,0
+2022-06-07T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-06-07T00:00:00Z,Tablet portrait,visitor,9,0,0
+2022-06-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-08T00:00:00Z,Desktop,visitor,946,12,4
+2022-06-08T00:00:00Z,Desktop,client,65,0,18
+2022-06-08T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-06-08T00:00:00Z,Mobile/Smartphone,visitor,1221,17,4
+2022-06-08T00:00:00Z,Mobile/Smartphone,client,27,0,4
+2022-06-08T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-06-08T00:00:00Z,Tablet landscape,visitor,14,0,0
+2022-06-08T00:00:00Z,Tablet portrait,visitor,15,0,0
+2022-06-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-09T00:00:00Z,Desktop,visitor,748,14,3
+2022-06-09T00:00:00Z,Desktop,client,46,0,13
+2022-06-09T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-06-09T00:00:00Z,Mobile/Smartphone,visitor,736,16,1
+2022-06-09T00:00:00Z,Mobile/Smartphone,client,23,0,8
+2022-06-09T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-06-09T00:00:00Z,Tablet landscape,visitor,11,0,0
+2022-06-09T00:00:00Z,Tablet portrait,visitor,9,0,0
+2022-06-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-10T00:00:00Z,Desktop,visitor,642,10,4
+2022-06-10T00:00:00Z,Desktop,client,47,0,12
+2022-06-10T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-06-10T00:00:00Z,Mobile/Smartphone,visitor,628,14,4
+2022-06-10T00:00:00Z,Mobile/Smartphone,client,29,0,10
+2022-06-10T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-06-10T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-06-10T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-06-10T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-06-11T00:00:00Z,Desktop,visitor,234,8,3
+2022-06-11T00:00:00Z,Desktop,client,26,0,9
+2022-06-11T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-06-11T00:00:00Z,Mobile/Smartphone,visitor,463,18,1
+2022-06-11T00:00:00Z,Mobile/Smartphone,client,25,0,9
+2022-06-11T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-06-11T00:00:00Z,Tablet landscape,visitor,4,1,1
+2022-06-11T00:00:00Z,Tablet landscape,client,1,0,0
+2022-06-11T00:00:00Z,Tablet portrait,visitor,7,1,1
+2022-06-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-12T00:00:00Z,Desktop,visitor,192,10,7
+2022-06-12T00:00:00Z,Desktop,client,27,0,7
+2022-06-12T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-06-12T00:00:00Z,Mobile/Smartphone,visitor,377,12,4
+2022-06-12T00:00:00Z,Mobile/Smartphone,client,21,0,6
+2022-06-12T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-06-12T00:00:00Z,Tablet landscape,visitor,9,1,0
+2022-06-12T00:00:00Z,Tablet portrait,visitor,6,0,2
+2022-06-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-13T00:00:00Z,Desktop,visitor,331,10,4
+2022-06-13T00:00:00Z,Desktop,client,36,0,8
+2022-06-13T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-06-13T00:00:00Z,Mobile/Smartphone,visitor,399,12,7
+2022-06-13T00:00:00Z,Mobile/Smartphone,client,18,0,5
+2022-06-13T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-06-13T00:00:00Z,Tablet landscape,visitor,3,2,0
+2022-06-13T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-06-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-14T00:00:00Z,Desktop,visitor,608,11,6
+2022-06-14T00:00:00Z,Desktop,client,65,0,11
+2022-06-14T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-06-14T00:00:00Z,Mobile/Smartphone,visitor,474,10,3
+2022-06-14T00:00:00Z,Mobile/Smartphone,client,28,0,14
+2022-06-14T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-06-14T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-06-14T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-06-14T00:00:00Z,Tablet portrait,client,1,0,1
+2022-06-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-15T00:00:00Z,Desktop,visitor,658,11,2
+2022-06-15T00:00:00Z,Desktop,client,66,0,20
+2022-06-15T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-06-15T00:00:00Z,Mobile/Smartphone,visitor,551,6,2
+2022-06-15T00:00:00Z,Mobile/Smartphone,client,20,0,5
+2022-06-15T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-06-15T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-06-15T00:00:00Z,Tablet landscape,client,2,0,1
+2022-06-15T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-06-15T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-06-15T00:00:00Z,Tablet portrait,client,1,0,0
+2022-06-15T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-06-16T00:00:00Z,Desktop,visitor,591,9,1
+2022-06-16T00:00:00Z,Desktop,client,30,0,10
+2022-06-16T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-06-16T00:00:00Z,Mobile/Smartphone,visitor,487,4,1
+2022-06-16T00:00:00Z,Mobile/Smartphone,client,20,0,5
+2022-06-16T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-06-16T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-06-16T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-06-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-17T00:00:00Z,Desktop,visitor,504,8,1
+2022-06-17T00:00:00Z,Desktop,client,38,0,12
+2022-06-17T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-06-17T00:00:00Z,Mobile/Smartphone,visitor,428,8,2
+2022-06-17T00:00:00Z,Mobile/Smartphone,client,21,0,3
+2022-06-17T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-06-17T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-06-17T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-06-17T00:00:00Z,Tablet portrait,client,1,0,0
+2022-06-17T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-06-18T00:00:00Z,Desktop,visitor,191,0,0
+2022-06-18T00:00:00Z,Desktop,client,26,0,9
+2022-06-18T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-06-18T00:00:00Z,Mobile/Smartphone,visitor,417,1,1
+2022-06-18T00:00:00Z,Mobile/Smartphone,client,16,0,4
+2022-06-18T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-06-18T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-06-18T00:00:00Z,Tablet landscape,client,1,0,0
+2022-06-18T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-06-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-19T00:00:00Z,Desktop,visitor,226,10,3
+2022-06-19T00:00:00Z,Desktop,client,37,0,11
+2022-06-19T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-06-19T00:00:00Z,Mobile/Smartphone,visitor,358,9,1
+2022-06-19T00:00:00Z,Mobile/Smartphone,client,13,0,6
+2022-06-19T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-06-19T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-06-19T00:00:00Z,Tablet portrait,visitor,4,1,1
+2022-06-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-20T00:00:00Z,Desktop,visitor,565,10,1
+2022-06-20T00:00:00Z,Desktop,client,46,0,19
+2022-06-20T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-06-20T00:00:00Z,Mobile/Smartphone,visitor,410,16,7
+2022-06-20T00:00:00Z,Mobile/Smartphone,client,26,0,12
+2022-06-20T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-06-20T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-06-20T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-06-20T00:00:00Z,Tablet portrait,client,1,0,1
+2022-06-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-21T00:00:00Z,Desktop,visitor,588,15,3
+2022-06-21T00:00:00Z,Desktop,client,43,0,16
+2022-06-21T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-06-21T00:00:00Z,Mobile/Smartphone,visitor,469,14,0
+2022-06-21T00:00:00Z,Mobile/Smartphone,client,28,0,8
+2022-06-21T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-06-21T00:00:00Z,Tablet landscape,visitor,11,0,0
+2022-06-21T00:00:00Z,Tablet landscape,client,1,0,1
+2022-06-21T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-06-21T00:00:00Z,Tablet portrait,client,1,0,1
+2022-06-21T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-06-22T00:00:00Z,Desktop,visitor,535,9,5
+2022-06-22T00:00:00Z,Desktop,client,54,0,22
+2022-06-22T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-06-22T00:00:00Z,Mobile/Smartphone,visitor,527,18,2
+2022-06-22T00:00:00Z,Mobile/Smartphone,client,29,0,14
+2022-06-22T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-06-22T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-06-22T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-06-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-23T00:00:00Z,Desktop,visitor,466,13,2
+2022-06-23T00:00:00Z,Desktop,client,44,0,24
+2022-06-23T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-06-23T00:00:00Z,Mobile/Smartphone,visitor,486,10,3
+2022-06-23T00:00:00Z,Mobile/Smartphone,client,25,0,19
+2022-06-23T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-06-23T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-06-23T00:00:00Z,Tablet landscape,client,1,0,0
+2022-06-23T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-06-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-24T00:00:00Z,Desktop,visitor,452,15,5
+2022-06-24T00:00:00Z,Desktop,client,44,0,15
+2022-06-24T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-06-24T00:00:00Z,Mobile/Smartphone,visitor,398,13,1
+2022-06-24T00:00:00Z,Mobile/Smartphone,client,21,0,10
+2022-06-24T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-06-24T00:00:00Z,Tablet landscape,visitor,6,1,0
+2022-06-24T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-06-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-25T00:00:00Z,Desktop,visitor,176,7,2
+2022-06-25T00:00:00Z,Desktop,client,29,0,10
+2022-06-25T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-06-25T00:00:00Z,Mobile/Smartphone,visitor,315,11,1
+2022-06-25T00:00:00Z,Mobile/Smartphone,client,17,0,6
+2022-06-25T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-06-25T00:00:00Z,Tablet landscape,visitor,5,2,0
+2022-06-25T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-06-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-26T00:00:00Z,Desktop,visitor,215,3,1
+2022-06-26T00:00:00Z,Desktop,client,22,0,9
+2022-06-26T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-06-26T00:00:00Z,Mobile/Smartphone,visitor,353,6,1
+2022-06-26T00:00:00Z,Mobile/Smartphone,client,11,0,5
+2022-06-26T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-06-26T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-06-26T00:00:00Z,Tablet landscape,client,1,0,1
+2022-06-26T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-06-26T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-06-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-27T00:00:00Z,Desktop,visitor,537,16,4
+2022-06-27T00:00:00Z,Desktop,client,52,0,12
+2022-06-27T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-06-27T00:00:00Z,Mobile/Smartphone,visitor,380,16,5
+2022-06-27T00:00:00Z,Mobile/Smartphone,client,21,0,10
+2022-06-27T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-06-27T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-06-27T00:00:00Z,Tablet landscape,client,2,0,0
+2022-06-27T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-06-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-28T00:00:00Z,Desktop,visitor,485,13,8
+2022-06-28T00:00:00Z,Desktop,client,35,0,13
+2022-06-28T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-06-28T00:00:00Z,Mobile/Smartphone,visitor,338,8,1
+2022-06-28T00:00:00Z,Mobile/Smartphone,client,25,0,10
+2022-06-28T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-06-28T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-06-28T00:00:00Z,Tablet landscape,client,2,0,0
+2022-06-28T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-06-28T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-06-28T00:00:00Z,Tablet portrait,client,1,0,0
+2022-06-28T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-06-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-29T00:00:00Z,Desktop,visitor,446,17,5
+2022-06-29T00:00:00Z,Desktop,client,46,0,21
+2022-06-29T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-06-29T00:00:00Z,Mobile/Smartphone,visitor,334,7,1
+2022-06-29T00:00:00Z,Mobile/Smartphone,client,24,0,9
+2022-06-29T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-06-29T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-06-29T00:00:00Z,Tablet landscape,client,2,0,2
+2022-06-29T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-06-29T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-06-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-06-30T00:00:00Z,Desktop,visitor,568,13,5
+2022-06-30T00:00:00Z,Desktop,client,41,0,20
+2022-06-30T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-06-30T00:00:00Z,Mobile/Smartphone,visitor,598,8,1
+2022-06-30T00:00:00Z,Mobile/Smartphone,client,27,0,10
+2022-06-30T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-06-30T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-06-30T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-06-30T00:00:00Z,Tablet portrait,client,1,0,1
+2022-06-30T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-06-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-01T00:00:00Z,Desktop,visitor,646,13,2
+2022-07-01T00:00:00Z,Desktop,client,59,0,21
+2022-07-01T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-07-01T00:00:00Z,Mobile/Smartphone,visitor,663,13,4
+2022-07-01T00:00:00Z,Mobile/Smartphone,client,21,0,7
+2022-07-01T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-07-01T00:00:00Z,Tablet landscape,visitor,12,0,0
+2022-07-01T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-01T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-07-01T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-07-01T00:00:00Z,Tablet portrait,client,1,0,0
+2022-07-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-02T00:00:00Z,Desktop,visitor,272,7,1
+2022-07-02T00:00:00Z,Desktop,client,39,0,17
+2022-07-02T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-07-02T00:00:00Z,Mobile/Smartphone,visitor,476,14,1
+2022-07-02T00:00:00Z,Mobile/Smartphone,client,25,0,12
+2022-07-02T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-07-02T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-07-02T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-07-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-03T00:00:00Z,Desktop,visitor,246,10,3
+2022-07-03T00:00:00Z,Desktop,client,37,0,20
+2022-07-03T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-07-03T00:00:00Z,Mobile/Smartphone,visitor,475,12,2
+2022-07-03T00:00:00Z,Mobile/Smartphone,client,25,0,12
+2022-07-03T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-07-03T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-07-03T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-03T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-07-04T00:00:00Z,Desktop,visitor,701,19,9
+2022-07-04T00:00:00Z,Desktop,client,50,0,24
+2022-07-04T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-07-04T00:00:00Z,Mobile/Smartphone,visitor,552,13,1
+2022-07-04T00:00:00Z,Mobile/Smartphone,client,30,0,12
+2022-07-04T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-07-04T00:00:00Z,Tablet landscape,visitor,10,1,0
+2022-07-04T00:00:00Z,Tablet landscape,client,2,0,1
+2022-07-04T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-07-04T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-07-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-05T00:00:00Z,Desktop,visitor,1038,18,4
+2022-07-05T00:00:00Z,Desktop,client,82,0,19
+2022-07-05T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-07-05T00:00:00Z,Mobile/Smartphone,visitor,1254,19,1
+2022-07-05T00:00:00Z,Mobile/Smartphone,client,49,0,23
+2022-07-05T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-07-05T00:00:00Z,Tablet landscape,visitor,15,0,0
+2022-07-05T00:00:00Z,Tablet landscape,client,2,0,0
+2022-07-05T00:00:00Z,Tablet portrait,visitor,12,0,0
+2022-07-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-06T00:00:00Z,Desktop,visitor,960,12,3
+2022-07-06T00:00:00Z,Desktop,client,62,0,11
+2022-07-06T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-07-06T00:00:00Z,Mobile/Smartphone,visitor,1036,12,0
+2022-07-06T00:00:00Z,Mobile/Smartphone,client,30,0,10
+2022-07-06T00:00:00Z,Mobile/Smartphone,::unspecified::,20,0,0
+2022-07-06T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-07-06T00:00:00Z,Tablet landscape,client,2,0,0
+2022-07-06T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-07-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-07T00:00:00Z,Desktop,visitor,701,15,1
+2022-07-07T00:00:00Z,Desktop,client,44,0,17
+2022-07-07T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-07-07T00:00:00Z,Mobile/Smartphone,visitor,700,16,3
+2022-07-07T00:00:00Z,Mobile/Smartphone,client,40,0,18
+2022-07-07T00:00:00Z,Mobile/Smartphone,::unspecified::,23,0,0
+2022-07-07T00:00:00Z,Tablet landscape,visitor,13,0,0
+2022-07-07T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-07-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-08T00:00:00Z,Desktop,visitor,570,10,6
+2022-07-08T00:00:00Z,Desktop,client,41,0,9
+2022-07-08T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-07-08T00:00:00Z,Mobile/Smartphone,visitor,594,22,5
+2022-07-08T00:00:00Z,Mobile/Smartphone,client,28,0,9
+2022-07-08T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-07-08T00:00:00Z,Tablet landscape,visitor,12,0,0
+2022-07-08T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-08T00:00:00Z,Tablet portrait,visitor,4,3,0
+2022-07-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-09T00:00:00Z,Desktop,visitor,258,6,1
+2022-07-09T00:00:00Z,Desktop,client,42,0,18
+2022-07-09T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-07-09T00:00:00Z,Mobile/Smartphone,visitor,414,12,2
+2022-07-09T00:00:00Z,Mobile/Smartphone,client,17,0,8
+2022-07-09T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-07-09T00:00:00Z,Tablet landscape,visitor,5,1,0
+2022-07-09T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-07-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-10T00:00:00Z,Desktop,visitor,212,6,3
+2022-07-10T00:00:00Z,Desktop,client,35,0,23
+2022-07-10T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-07-10T00:00:00Z,Mobile/Smartphone,visitor,398,15,7
+2022-07-10T00:00:00Z,Mobile/Smartphone,client,26,0,11
+2022-07-10T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-07-10T00:00:00Z,Tablet landscape,visitor,11,3,2
+2022-07-10T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-10T00:00:00Z,Tablet portrait,visitor,12,0,0
+2022-07-10T00:00:00Z,Tablet portrait,client,1,0,0
+2022-07-10T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-07-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-11T00:00:00Z,Desktop,visitor,618,15,4
+2022-07-11T00:00:00Z,Desktop,client,52,0,14
+2022-07-11T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-07-11T00:00:00Z,Mobile/Smartphone,visitor,531,16,4
+2022-07-11T00:00:00Z,Mobile/Smartphone,client,35,0,20
+2022-07-11T00:00:00Z,Mobile/Smartphone,::unspecified::,21,0,0
+2022-07-11T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-07-11T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-11T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-07-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-12T00:00:00Z,Desktop,visitor,602,15,5
+2022-07-12T00:00:00Z,Desktop,client,45,0,9
+2022-07-12T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-07-12T00:00:00Z,Mobile/Smartphone,visitor,470,13,4
+2022-07-12T00:00:00Z,Mobile/Smartphone,client,19,0,11
+2022-07-12T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-07-12T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-07-12T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-07-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-13T00:00:00Z,Desktop,visitor,530,14,8
+2022-07-13T00:00:00Z,Desktop,client,46,0,6
+2022-07-13T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-07-13T00:00:00Z,Mobile/Smartphone,visitor,410,10,1
+2022-07-13T00:00:00Z,Mobile/Smartphone,client,19,0,10
+2022-07-13T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-07-13T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-07-13T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-13T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-07-13T00:00:00Z,Tablet portrait,client,1,0,0
+2022-07-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-14T00:00:00Z,Desktop,visitor,498,9,3
+2022-07-14T00:00:00Z,Desktop,client,28,0,5
+2022-07-14T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-07-14T00:00:00Z,Mobile/Smartphone,visitor,415,10,1
+2022-07-14T00:00:00Z,Mobile/Smartphone,client,24,0,9
+2022-07-14T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-07-14T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-07-14T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-14T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-07-15T00:00:00Z,Desktop,visitor,477,5,2
+2022-07-15T00:00:00Z,Desktop,client,40,0,20
+2022-07-15T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-07-15T00:00:00Z,Mobile/Smartphone,visitor,441,16,1
+2022-07-15T00:00:00Z,Mobile/Smartphone,client,29,0,12
+2022-07-15T00:00:00Z,Mobile/Smartphone,::unspecified::,21,0,0
+2022-07-15T00:00:00Z,Tablet landscape,visitor,6,1,0
+2022-07-15T00:00:00Z,Tablet landscape,client,1,0,1
+2022-07-15T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-07-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-16T00:00:00Z,Desktop,visitor,247,4,4
+2022-07-16T00:00:00Z,Desktop,client,25,0,19
+2022-07-16T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-07-16T00:00:00Z,Mobile/Smartphone,visitor,399,13,4
+2022-07-16T00:00:00Z,Mobile/Smartphone,client,12,0,9
+2022-07-16T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-07-16T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-07-16T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-17T00:00:00Z,Desktop,visitor,226,10,5
+2022-07-17T00:00:00Z,Desktop,client,36,0,15
+2022-07-17T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-07-17T00:00:00Z,Mobile/Smartphone,visitor,374,15,2
+2022-07-17T00:00:00Z,Mobile/Smartphone,client,19,0,12
+2022-07-17T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-07-17T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-07-17T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-17T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-07-17T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-07-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-18T00:00:00Z,Desktop,visitor,548,16,5
+2022-07-18T00:00:00Z,Desktop,client,48,0,11
+2022-07-18T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-07-18T00:00:00Z,Mobile/Smartphone,visitor,397,19,1
+2022-07-18T00:00:00Z,Mobile/Smartphone,client,24,0,11
+2022-07-18T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-07-18T00:00:00Z,Tablet landscape,visitor,7,2,2
+2022-07-18T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-07-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-19T00:00:00Z,Desktop,visitor,539,17,1
+2022-07-19T00:00:00Z,Desktop,client,56,0,15
+2022-07-19T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-07-19T00:00:00Z,Mobile/Smartphone,visitor,521,27,3
+2022-07-19T00:00:00Z,Mobile/Smartphone,client,20,0,8
+2022-07-19T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-07-19T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-07-19T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-19T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-07-19T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-07-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-20T00:00:00Z,Desktop,visitor,636,12,4
+2022-07-20T00:00:00Z,Desktop,client,69,0,26
+2022-07-20T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-07-20T00:00:00Z,Mobile/Smartphone,visitor,567,7,0
+2022-07-20T00:00:00Z,Mobile/Smartphone,client,28,0,9
+2022-07-20T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-07-20T00:00:00Z,Tablet landscape,visitor,11,0,0
+2022-07-20T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-20T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-07-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-21T00:00:00Z,Desktop,visitor,559,13,3
+2022-07-21T00:00:00Z,Desktop,client,47,0,11
+2022-07-21T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-07-21T00:00:00Z,Mobile/Smartphone,visitor,417,16,3
+2022-07-21T00:00:00Z,Mobile/Smartphone,client,16,0,9
+2022-07-21T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-07-21T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-07-21T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-21T00:00:00Z,Tablet portrait,client,1,0,0
+2022-07-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-22T00:00:00Z,Desktop,visitor,520,12,6
+2022-07-22T00:00:00Z,Desktop,client,29,0,13
+2022-07-22T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-07-22T00:00:00Z,Mobile/Smartphone,visitor,391,15,3
+2022-07-22T00:00:00Z,Mobile/Smartphone,client,15,0,5
+2022-07-22T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-07-22T00:00:00Z,Tablet landscape,visitor,9,1,0
+2022-07-22T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-07-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-23T00:00:00Z,Desktop,visitor,229,8,2
+2022-07-23T00:00:00Z,Desktop,client,28,0,15
+2022-07-23T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-07-23T00:00:00Z,Mobile/Smartphone,visitor,417,19,3
+2022-07-23T00:00:00Z,Mobile/Smartphone,client,27,0,9
+2022-07-23T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2022-07-23T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-07-23T00:00:00Z,Tablet landscape,client,1,0,0
+2022-07-23T00:00:00Z,Tablet portrait,visitor,6,1,0
+2022-07-23T00:00:00Z,Tablet portrait,client,1,0,0
+2022-07-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-24T00:00:00Z,Desktop,visitor,205,8,4
+2022-07-24T00:00:00Z,Desktop,client,29,0,18
+2022-07-24T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-07-24T00:00:00Z,Mobile/Smartphone,visitor,416,14,4
+2022-07-24T00:00:00Z,Mobile/Smartphone,client,23,0,14
+2022-07-24T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-07-24T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-07-24T00:00:00Z,Tablet portrait,visitor,4,1,0
+2022-07-24T00:00:00Z,Tablet portrait,client,1,0,0
+2022-07-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-25T00:00:00Z,Desktop,visitor,633,18,2
+2022-07-25T00:00:00Z,Desktop,client,52,0,19
+2022-07-25T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-07-25T00:00:00Z,Mobile/Smartphone,visitor,439,14,3
+2022-07-25T00:00:00Z,Mobile/Smartphone,client,35,0,17
+2022-07-25T00:00:00Z,Mobile/Smartphone,::unspecified::,21,0,0
+2022-07-25T00:00:00Z,Tablet landscape,visitor,13,0,0
+2022-07-25T00:00:00Z,Tablet landscape,client,1,0,1
+2022-07-25T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-07-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-26T00:00:00Z,Desktop,visitor,577,13,3
+2022-07-26T00:00:00Z,Desktop,client,40,0,15
+2022-07-26T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-07-26T00:00:00Z,Mobile/Smartphone,visitor,394,12,3
+2022-07-26T00:00:00Z,Mobile/Smartphone,client,21,0,10
+2022-07-26T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-07-26T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-07-26T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-27T00:00:00Z,Desktop,visitor,636,18,4
+2022-07-27T00:00:00Z,Desktop,client,68,0,29
+2022-07-27T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-07-27T00:00:00Z,Mobile/Smartphone,visitor,471,13,1
+2022-07-27T00:00:00Z,Mobile/Smartphone,client,33,0,11
+2022-07-27T00:00:00Z,Mobile/Smartphone,::unspecified::,20,0,0
+2022-07-27T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-07-27T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-28T00:00:00Z,Desktop,visitor,649,19,8
+2022-07-28T00:00:00Z,Desktop,client,63,0,19
+2022-07-28T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-07-28T00:00:00Z,Mobile/Smartphone,visitor,491,18,3
+2022-07-28T00:00:00Z,Mobile/Smartphone,client,33,0,16
+2022-07-28T00:00:00Z,Mobile/Smartphone,::unspecified::,20,0,0
+2022-07-28T00:00:00Z,Tablet landscape,visitor,8,1,2
+2022-07-28T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-07-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-29T00:00:00Z,Desktop,visitor,536,16,3
+2022-07-29T00:00:00Z,Desktop,client,66,0,24
+2022-07-29T00:00:00Z,Desktop,::unspecified::,21,0,0
+2022-07-29T00:00:00Z,Mobile/Smartphone,visitor,567,25,1
+2022-07-29T00:00:00Z,Mobile/Smartphone,client,53,0,22
+2022-07-29T00:00:00Z,Mobile/Smartphone,::unspecified::,41,0,0
+2022-07-29T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-07-29T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-29T00:00:00Z,Tablet portrait,client,2,0,1
+2022-07-29T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-07-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-30T00:00:00Z,Desktop,visitor,253,9,3
+2022-07-30T00:00:00Z,Desktop,client,37,0,15
+2022-07-30T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-07-30T00:00:00Z,Mobile/Smartphone,visitor,672,34,1
+2022-07-30T00:00:00Z,Mobile/Smartphone,client,84,0,45
+2022-07-30T00:00:00Z,Mobile/Smartphone,::unspecified::,67,0,0
+2022-07-30T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-07-30T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-07-30T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-07-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-07-31T00:00:00Z,Desktop,visitor,299,14,6
+2022-07-31T00:00:00Z,Desktop,client,47,0,33
+2022-07-31T00:00:00Z,Desktop,::unspecified::,20,0,0
+2022-07-31T00:00:00Z,Mobile/Smartphone,visitor,520,22,4
+2022-07-31T00:00:00Z,Mobile/Smartphone,client,62,0,36
+2022-07-31T00:00:00Z,Mobile/Smartphone,::unspecified::,43,0,0
+2022-07-31T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-07-31T00:00:00Z,Tablet landscape,client,2,0,1
+2022-07-31T00:00:00Z,Tablet landscape,::unspecified::,2,0,0
+2022-07-31T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-07-31T00:00:00Z,Tablet portrait,client,1,0,0
+2022-07-31T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-07-31T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-01T00:00:00Z,Desktop,visitor,754,15,6
+2022-08-01T00:00:00Z,Desktop,client,87,0,43
+2022-08-01T00:00:00Z,Desktop,::unspecified::,26,0,0
+2022-08-01T00:00:00Z,Mobile/Smartphone,visitor,717,47,9
+2022-08-01T00:00:00Z,Mobile/Smartphone,client,67,0,39
+2022-08-01T00:00:00Z,Mobile/Smartphone,::unspecified::,54,0,0
+2022-08-01T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-08-01T00:00:00Z,Tablet landscape,client,2,0,1
+2022-08-01T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-08-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-02T00:00:00Z,Desktop,visitor,1018,19,11
+2022-08-02T00:00:00Z,Desktop,client,90,0,34
+2022-08-02T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-08-02T00:00:00Z,Mobile/Smartphone,visitor,1172,43,2
+2022-08-02T00:00:00Z,Mobile/Smartphone,client,78,0,50
+2022-08-02T00:00:00Z,Mobile/Smartphone,::unspecified::,42,0,0
+2022-08-02T00:00:00Z,Tablet landscape,visitor,15,0,0
+2022-08-02T00:00:00Z,Tablet landscape,client,3,0,0
+2022-08-02T00:00:00Z,Tablet portrait,visitor,10,0,0
+2022-08-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-03T00:00:00Z,Desktop,visitor,889,20,13
+2022-08-03T00:00:00Z,Desktop,client,68,0,27
+2022-08-03T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-08-03T00:00:00Z,Mobile/Smartphone,visitor,967,30,4
+2022-08-03T00:00:00Z,Mobile/Smartphone,client,63,0,28
+2022-08-03T00:00:00Z,Mobile/Smartphone,::unspecified::,39,0,0
+2022-08-03T00:00:00Z,Tablet landscape,visitor,15,0,0
+2022-08-03T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-08-03T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-08-04T00:00:00Z,Desktop,visitor,749,25,11
+2022-08-04T00:00:00Z,Desktop,client,50,0,22
+2022-08-04T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-08-04T00:00:00Z,Mobile/Smartphone,visitor,687,12,0
+2022-08-04T00:00:00Z,Mobile/Smartphone,client,30,0,14
+2022-08-04T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-08-04T00:00:00Z,Tablet landscape,visitor,13,0,0
+2022-08-04T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-08-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-05T00:00:00Z,Desktop,visitor,607,18,7
+2022-08-05T00:00:00Z,Desktop,client,49,0,14
+2022-08-05T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-08-05T00:00:00Z,Mobile/Smartphone,visitor,542,18,1
+2022-08-05T00:00:00Z,Mobile/Smartphone,client,26,0,18
+2022-08-05T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-08-05T00:00:00Z,Tablet landscape,visitor,11,0,0
+2022-08-05T00:00:00Z,Tablet portrait,visitor,10,0,0
+2022-08-05T00:00:00Z,Tablet portrait,client,1,0,0
+2022-08-05T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-08-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-06T00:00:00Z,Desktop,visitor,258,13,5
+2022-08-06T00:00:00Z,Desktop,client,32,0,14
+2022-08-06T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-08-06T00:00:00Z,Mobile/Smartphone,visitor,479,22,3
+2022-08-06T00:00:00Z,Mobile/Smartphone,client,25,0,17
+2022-08-06T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-08-06T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-08-06T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-08-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-07T00:00:00Z,Desktop,visitor,248,21,8
+2022-08-07T00:00:00Z,Desktop,client,38,0,24
+2022-08-07T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-08-07T00:00:00Z,Mobile/Smartphone,visitor,440,15,2
+2022-08-07T00:00:00Z,Mobile/Smartphone,client,31,0,16
+2022-08-07T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-08-07T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-08-07T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-08-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-08T00:00:00Z,Desktop,visitor,697,15,7
+2022-08-08T00:00:00Z,Desktop,client,86,0,34
+2022-08-08T00:00:00Z,Desktop,::unspecified::,21,0,0
+2022-08-08T00:00:00Z,Mobile/Smartphone,visitor,601,14,3
+2022-08-08T00:00:00Z,Mobile/Smartphone,client,35,0,20
+2022-08-08T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-08-08T00:00:00Z,Tablet landscape,visitor,7,1,0
+2022-08-08T00:00:00Z,Tablet portrait,visitor,9,1,1
+2022-08-08T00:00:00Z,Tablet portrait,::unspecified::,2,0,0
+2022-08-08T00:00:00Z,Tablet portrait,client,1,0,1
+2022-08-08T00:00:00Z,::unspecified::,visitor,2,0,0
+2022-08-09T00:00:00Z,Desktop,visitor,635,13,5
+2022-08-09T00:00:00Z,Desktop,client,44,0,20
+2022-08-09T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-08-09T00:00:00Z,Mobile/Smartphone,visitor,535,18,7
+2022-08-09T00:00:00Z,Mobile/Smartphone,client,34,0,17
+2022-08-09T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-08-09T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-08-09T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-08-09T00:00:00Z,Tablet portrait,client,1,0,0
+2022-08-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-10T00:00:00Z,Desktop,visitor,643,13,6
+2022-08-10T00:00:00Z,Desktop,client,53,0,16
+2022-08-10T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-08-10T00:00:00Z,Mobile/Smartphone,visitor,520,8,3
+2022-08-10T00:00:00Z,Mobile/Smartphone,client,15,0,10
+2022-08-10T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-08-10T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-08-10T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-08-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-11T00:00:00Z,Desktop,visitor,490,18,3
+2022-08-11T00:00:00Z,Desktop,client,50,0,20
+2022-08-11T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-08-11T00:00:00Z,Mobile/Smartphone,visitor,394,13,3
+2022-08-11T00:00:00Z,Mobile/Smartphone,client,31,0,13
+2022-08-11T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2022-08-11T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-08-11T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-08-11T00:00:00Z,Tablet portrait,client,1,0,1
+2022-08-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-12T00:00:00Z,Desktop,visitor,474,14,6
+2022-08-12T00:00:00Z,Desktop,client,40,0,9
+2022-08-12T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-08-12T00:00:00Z,Mobile/Smartphone,visitor,344,7,2
+2022-08-12T00:00:00Z,Mobile/Smartphone,client,24,0,11
+2022-08-12T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-08-12T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-08-12T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-08-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-13T00:00:00Z,Desktop,visitor,256,9,6
+2022-08-13T00:00:00Z,Desktop,client,30,0,16
+2022-08-13T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-08-13T00:00:00Z,Mobile/Smartphone,visitor,350,11,4
+2022-08-13T00:00:00Z,Mobile/Smartphone,client,20,0,13
+2022-08-13T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-08-13T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-08-13T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-08-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-14T00:00:00Z,Desktop,visitor,223,8,6
+2022-08-14T00:00:00Z,Desktop,client,31,0,11
+2022-08-14T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-08-14T00:00:00Z,Mobile/Smartphone,visitor,353,7,2
+2022-08-14T00:00:00Z,Mobile/Smartphone,client,19,0,9
+2022-08-14T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-08-14T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-08-14T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-08-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-15T00:00:00Z,Desktop,visitor,562,13,6
+2022-08-15T00:00:00Z,Desktop,client,75,0,24
+2022-08-15T00:00:00Z,Desktop,::unspecified::,21,0,0
+2022-08-15T00:00:00Z,Mobile/Smartphone,visitor,419,10,3
+2022-08-15T00:00:00Z,Mobile/Smartphone,client,25,0,13
+2022-08-15T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-08-15T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-08-15T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-08-15T00:00:00Z,Tablet portrait,client,1,0,0
+2022-08-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-16T00:00:00Z,Desktop,visitor,546,8,5
+2022-08-16T00:00:00Z,Desktop,client,57,0,20
+2022-08-16T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-08-16T00:00:00Z,Mobile/Smartphone,visitor,421,19,5
+2022-08-16T00:00:00Z,Mobile/Smartphone,client,26,0,16
+2022-08-16T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-08-16T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-08-16T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-08-16T00:00:00Z,Tablet portrait,client,1,0,1
+2022-08-16T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-08-17T00:00:00Z,Desktop,visitor,512,10,3
+2022-08-17T00:00:00Z,Desktop,client,48,0,24
+2022-08-17T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-08-17T00:00:00Z,Mobile/Smartphone,visitor,428,15,4
+2022-08-17T00:00:00Z,Mobile/Smartphone,client,25,0,16
+2022-08-17T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-08-17T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-08-17T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-08-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-18T00:00:00Z,Desktop,visitor,528,23,4
+2022-08-18T00:00:00Z,Desktop,client,43,0,16
+2022-08-18T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-08-18T00:00:00Z,Mobile/Smartphone,visitor,363,12,1
+2022-08-18T00:00:00Z,Mobile/Smartphone,client,20,0,12
+2022-08-18T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-08-18T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-08-18T00:00:00Z,Tablet portrait,visitor,3,1,0
+2022-08-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-19T00:00:00Z,Desktop,visitor,475,18,3
+2022-08-19T00:00:00Z,Desktop,client,30,0,13
+2022-08-19T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-08-19T00:00:00Z,Mobile/Smartphone,visitor,330,16,4
+2022-08-19T00:00:00Z,Mobile/Smartphone,client,14,0,8
+2022-08-19T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-08-19T00:00:00Z,Tablet landscape,visitor,8,1,0
+2022-08-19T00:00:00Z,Tablet landscape,client,1,0,1
+2022-08-19T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-08-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-20T00:00:00Z,Desktop,visitor,190,11,3
+2022-08-20T00:00:00Z,Desktop,client,30,0,12
+2022-08-20T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-08-20T00:00:00Z,Mobile/Smartphone,visitor,340,7,0
+2022-08-20T00:00:00Z,Mobile/Smartphone,client,21,0,13
+2022-08-20T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-08-20T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-08-20T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-08-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-21T00:00:00Z,Desktop,visitor,246,9,2
+2022-08-21T00:00:00Z,Desktop,client,26,0,13
+2022-08-21T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-08-21T00:00:00Z,Mobile/Smartphone,visitor,304,11,3
+2022-08-21T00:00:00Z,Mobile/Smartphone,client,19,0,5
+2022-08-21T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-08-21T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-08-21T00:00:00Z,Tablet landscape,client,2,0,0
+2022-08-21T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-08-21T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-08-21T00:00:00Z,Tablet portrait,client,1,0,0
+2022-08-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-22T00:00:00Z,Desktop,visitor,587,17,6
+2022-08-22T00:00:00Z,Desktop,client,63,0,36
+2022-08-22T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-08-22T00:00:00Z,Mobile/Smartphone,visitor,367,11,1
+2022-08-22T00:00:00Z,Mobile/Smartphone,client,29,0,8
+2022-08-22T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-08-22T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-08-22T00:00:00Z,Tablet portrait,visitor,10,0,0
+2022-08-22T00:00:00Z,Tablet portrait,client,4,0,0
+2022-08-22T00:00:00Z,Tablet portrait,::unspecified::,3,0,0
+2022-08-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-23T00:00:00Z,Desktop,visitor,665,8,9
+2022-08-23T00:00:00Z,Desktop,client,49,0,18
+2022-08-23T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-08-23T00:00:00Z,Mobile/Smartphone,visitor,480,21,3
+2022-08-23T00:00:00Z,Mobile/Smartphone,client,36,0,18
+2022-08-23T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2022-08-23T00:00:00Z,Tablet landscape,visitor,5,1,1
+2022-08-23T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-08-23T00:00:00Z,Tablet portrait,client,2,0,2
+2022-08-23T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-08-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-24T00:00:00Z,Desktop,visitor,569,11,5
+2022-08-24T00:00:00Z,Desktop,client,59,0,24
+2022-08-24T00:00:00Z,Desktop,::unspecified::,25,0,0
+2022-08-24T00:00:00Z,Mobile/Smartphone,visitor,539,25,9
+2022-08-24T00:00:00Z,Mobile/Smartphone,client,41,0,25
+2022-08-24T00:00:00Z,Mobile/Smartphone,::unspecified::,28,0,0
+2022-08-24T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-08-24T00:00:00Z,Tablet landscape,client,1,0,1
+2022-08-24T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-08-24T00:00:00Z,Tablet portrait,client,1,0,0
+2022-08-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-25T00:00:00Z,Desktop,visitor,581,17,5
+2022-08-25T00:00:00Z,Desktop,client,45,0,22
+2022-08-25T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-08-25T00:00:00Z,Mobile/Smartphone,visitor,438,11,2
+2022-08-25T00:00:00Z,Mobile/Smartphone,client,31,0,18
+2022-08-25T00:00:00Z,Mobile/Smartphone,::unspecified::,23,0,0
+2022-08-25T00:00:00Z,Tablet landscape,visitor,3,1,0
+2022-08-25T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-08-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-26T00:00:00Z,Desktop,visitor,492,15,8
+2022-08-26T00:00:00Z,Desktop,client,38,0,11
+2022-08-26T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-08-26T00:00:00Z,Mobile/Smartphone,visitor,406,11,3
+2022-08-26T00:00:00Z,Mobile/Smartphone,client,24,0,11
+2022-08-26T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-08-26T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-08-26T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-08-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-27T00:00:00Z,Desktop,visitor,210,18,7
+2022-08-27T00:00:00Z,Desktop,client,36,0,24
+2022-08-27T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-08-27T00:00:00Z,Mobile/Smartphone,visitor,347,14,2
+2022-08-27T00:00:00Z,Mobile/Smartphone,client,23,0,15
+2022-08-27T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-08-27T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-08-27T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-08-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-28T00:00:00Z,Desktop,visitor,199,8,4
+2022-08-28T00:00:00Z,Desktop,client,39,0,16
+2022-08-28T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-08-28T00:00:00Z,Mobile/Smartphone,visitor,334,14,4
+2022-08-28T00:00:00Z,Mobile/Smartphone,client,30,0,18
+2022-08-28T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-08-28T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-08-28T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-08-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-29T00:00:00Z,Desktop,visitor,612,20,8
+2022-08-29T00:00:00Z,Desktop,client,55,0,22
+2022-08-29T00:00:00Z,Desktop,::unspecified::,20,0,0
+2022-08-29T00:00:00Z,Mobile/Smartphone,visitor,383,16,4
+2022-08-29T00:00:00Z,Mobile/Smartphone,client,38,0,21
+2022-08-29T00:00:00Z,Mobile/Smartphone,::unspecified::,25,0,0
+2022-08-29T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-08-29T00:00:00Z,Tablet landscape,client,1,0,1
+2022-08-29T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-08-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-30T00:00:00Z,Desktop,visitor,568,21,3
+2022-08-30T00:00:00Z,Desktop,client,52,0,21
+2022-08-30T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-08-30T00:00:00Z,Mobile/Smartphone,visitor,425,17,4
+2022-08-30T00:00:00Z,Mobile/Smartphone,client,34,0,18
+2022-08-30T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-08-30T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-08-30T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-08-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-08-31T00:00:00Z,Desktop,visitor,523,21,7
+2022-08-31T00:00:00Z,Desktop,client,59,0,13
+2022-08-31T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-08-31T00:00:00Z,Mobile/Smartphone,visitor,390,11,2
+2022-08-31T00:00:00Z,Mobile/Smartphone,client,27,0,11
+2022-08-31T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-08-31T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-08-31T00:00:00Z,Tablet landscape,client,2,0,0
+2022-08-31T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-08-31T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-01T00:00:00Z,Desktop,visitor,527,19,4
+2022-09-01T00:00:00Z,Desktop,client,47,0,21
+2022-09-01T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-09-01T00:00:00Z,Mobile/Smartphone,visitor,361,14,4
+2022-09-01T00:00:00Z,Mobile/Smartphone,client,22,0,11
+2022-09-01T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-09-01T00:00:00Z,Tablet landscape,visitor,12,0,0
+2022-09-01T00:00:00Z,Tablet landscape,client,1,0,1
+2022-09-01T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-09-01T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-09-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-02T00:00:00Z,Desktop,visitor,455,19,6
+2022-09-02T00:00:00Z,Desktop,client,42,0,15
+2022-09-02T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-09-02T00:00:00Z,Mobile/Smartphone,visitor,324,17,3
+2022-09-02T00:00:00Z,Mobile/Smartphone,client,16,0,5
+2022-09-02T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-09-02T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-09-02T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-03T00:00:00Z,Desktop,visitor,232,5,3
+2022-09-03T00:00:00Z,Desktop,client,35,0,13
+2022-09-03T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-09-03T00:00:00Z,Mobile/Smartphone,visitor,307,15,4
+2022-09-03T00:00:00Z,Mobile/Smartphone,client,18,0,10
+2022-09-03T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-09-03T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-09-03T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-09-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-04T00:00:00Z,Desktop,visitor,181,11,6
+2022-09-04T00:00:00Z,Desktop,client,37,0,13
+2022-09-04T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-09-04T00:00:00Z,Mobile/Smartphone,visitor,349,18,3
+2022-09-04T00:00:00Z,Mobile/Smartphone,client,29,0,17
+2022-09-04T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-09-04T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-09-04T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-09-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-05T00:00:00Z,Desktop,visitor,629,16,5
+2022-09-05T00:00:00Z,Desktop,client,76,0,36
+2022-09-05T00:00:00Z,Desktop,::unspecified::,23,0,0
+2022-09-05T00:00:00Z,Mobile/Smartphone,visitor,453,14,2
+2022-09-05T00:00:00Z,Mobile/Smartphone,client,36,0,19
+2022-09-05T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-09-05T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-09-05T00:00:00Z,Tablet landscape,client,1,0,1
+2022-09-05T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-09-05T00:00:00Z,Tablet portrait,client,1,0,1
+2022-09-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-06T00:00:00Z,Desktop,visitor,821,23,9
+2022-09-06T00:00:00Z,Desktop,client,68,0,24
+2022-09-06T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-09-06T00:00:00Z,Mobile/Smartphone,visitor,814,28,0
+2022-09-06T00:00:00Z,Mobile/Smartphone,client,32,0,12
+2022-09-06T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-09-06T00:00:00Z,Tablet landscape,visitor,11,0,0
+2022-09-06T00:00:00Z,Tablet portrait,visitor,9,2,1
+2022-09-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-07T00:00:00Z,Desktop,visitor,640,18,7
+2022-09-07T00:00:00Z,Desktop,client,62,0,25
+2022-09-07T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-09-07T00:00:00Z,Mobile/Smartphone,visitor,633,16,4
+2022-09-07T00:00:00Z,Mobile/Smartphone,client,18,0,10
+2022-09-07T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-09-07T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-09-07T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-09-07T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-09-08T00:00:00Z,Desktop,visitor,592,15,6
+2022-09-08T00:00:00Z,Desktop,client,54,0,30
+2022-09-08T00:00:00Z,Desktop,::unspecified::,20,0,0
+2022-09-08T00:00:00Z,Mobile/Smartphone,visitor,523,15,4
+2022-09-08T00:00:00Z,Mobile/Smartphone,client,22,0,10
+2022-09-08T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-09-08T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-09-08T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-09-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-09T00:00:00Z,Desktop,visitor,479,11,4
+2022-09-09T00:00:00Z,Desktop,client,38,0,21
+2022-09-09T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-09-09T00:00:00Z,Mobile/Smartphone,visitor,393,13,1
+2022-09-09T00:00:00Z,Mobile/Smartphone,client,18,0,12
+2022-09-09T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-09-09T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-09-09T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-09-09T00:00:00Z,Tablet portrait,client,1,0,1
+2022-09-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-10T00:00:00Z,Desktop,visitor,218,6,6
+2022-09-10T00:00:00Z,Desktop,client,40,0,16
+2022-09-10T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-09-10T00:00:00Z,Mobile/Smartphone,visitor,373,18,3
+2022-09-10T00:00:00Z,Mobile/Smartphone,client,26,0,10
+2022-09-10T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-09-10T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-09-10T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-11T00:00:00Z,Desktop,visitor,219,7,2
+2022-09-11T00:00:00Z,Desktop,client,28,0,20
+2022-09-11T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-09-11T00:00:00Z,Mobile/Smartphone,visitor,389,16,3
+2022-09-11T00:00:00Z,Mobile/Smartphone,client,26,0,22
+2022-09-11T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-09-11T00:00:00Z,Tablet landscape,visitor,5,1,0
+2022-09-11T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-09-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-12T00:00:00Z,Desktop,visitor,616,13,3
+2022-09-12T00:00:00Z,Desktop,client,56,0,21
+2022-09-12T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-09-12T00:00:00Z,Mobile/Smartphone,visitor,428,16,3
+2022-09-12T00:00:00Z,Mobile/Smartphone,client,26,0,9
+2022-09-12T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-09-12T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-09-12T00:00:00Z,Tablet portrait,client,1,0,1
+2022-09-12T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-09-12T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-09-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-13T00:00:00Z,Desktop,visitor,532,30,7
+2022-09-13T00:00:00Z,Desktop,client,50,0,17
+2022-09-13T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-09-13T00:00:00Z,Mobile/Smartphone,visitor,447,18,2
+2022-09-13T00:00:00Z,Mobile/Smartphone,client,29,0,14
+2022-09-13T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-09-13T00:00:00Z,Tablet landscape,visitor,6,0,1
+2022-09-13T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-09-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-14T00:00:00Z,Desktop,visitor,574,16,10
+2022-09-14T00:00:00Z,Desktop,client,54,0,28
+2022-09-14T00:00:00Z,Desktop,::unspecified::,20,0,0
+2022-09-14T00:00:00Z,Mobile/Smartphone,visitor,466,14,4
+2022-09-14T00:00:00Z,Mobile/Smartphone,client,30,0,15
+2022-09-14T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-09-14T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-09-14T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-09-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-15T00:00:00Z,Desktop,visitor,567,10,6
+2022-09-15T00:00:00Z,Desktop,client,48,0,15
+2022-09-15T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-09-15T00:00:00Z,Mobile/Smartphone,visitor,470,18,1
+2022-09-15T00:00:00Z,Mobile/Smartphone,client,18,0,7
+2022-09-15T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-09-15T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-09-15T00:00:00Z,Tablet landscape,client,1,0,0
+2022-09-15T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-09-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-16T00:00:00Z,Desktop,visitor,462,14,8
+2022-09-16T00:00:00Z,Desktop,client,33,0,15
+2022-09-16T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-09-16T00:00:00Z,Mobile/Smartphone,visitor,395,6,4
+2022-09-16T00:00:00Z,Mobile/Smartphone,client,15,0,9
+2022-09-16T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-09-16T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-09-16T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-09-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-17T00:00:00Z,Desktop,visitor,215,4,2
+2022-09-17T00:00:00Z,Desktop,client,20,0,11
+2022-09-17T00:00:00Z,Desktop,::unspecified::,3,0,0
+2022-09-17T00:00:00Z,Mobile/Smartphone,visitor,365,12,1
+2022-09-17T00:00:00Z,Mobile/Smartphone,client,12,0,1
+2022-09-17T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-09-17T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-09-17T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-09-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-18T00:00:00Z,Desktop,visitor,215,10,3
+2022-09-18T00:00:00Z,Desktop,client,26,0,7
+2022-09-18T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-09-18T00:00:00Z,Mobile/Smartphone,visitor,346,7,2
+2022-09-18T00:00:00Z,Mobile/Smartphone,client,26,0,20
+2022-09-18T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-09-18T00:00:00Z,Tablet landscape,visitor,9,2,0
+2022-09-18T00:00:00Z,Tablet landscape,client,1,0,1
+2022-09-18T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-09-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-19T00:00:00Z,Desktop,visitor,579,12,1
+2022-09-19T00:00:00Z,Desktop,client,49,0,19
+2022-09-19T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-09-19T00:00:00Z,Mobile/Smartphone,visitor,392,16,1
+2022-09-19T00:00:00Z,Mobile/Smartphone,client,27,0,13
+2022-09-19T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-09-19T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-09-19T00:00:00Z,Tablet landscape,client,1,0,0
+2022-09-19T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-20T00:00:00Z,Desktop,visitor,576,12,2
+2022-09-20T00:00:00Z,Desktop,client,51,0,21
+2022-09-20T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-09-20T00:00:00Z,Mobile/Smartphone,visitor,421,12,2
+2022-09-20T00:00:00Z,Mobile/Smartphone,client,24,0,15
+2022-09-20T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-09-20T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-09-20T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-09-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-21T00:00:00Z,Desktop,visitor,612,16,3
+2022-09-21T00:00:00Z,Desktop,client,59,0,21
+2022-09-21T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-09-21T00:00:00Z,Mobile/Smartphone,visitor,414,11,1
+2022-09-21T00:00:00Z,Mobile/Smartphone,client,28,0,15
+2022-09-21T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-09-21T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-09-21T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-09-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-22T00:00:00Z,Desktop,visitor,267,15,8
+2022-09-22T00:00:00Z,Desktop,client,38,0,13
+2022-09-22T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-09-22T00:00:00Z,Mobile/Smartphone,visitor,422,12,5
+2022-09-22T00:00:00Z,Mobile/Smartphone,client,34,0,20
+2022-09-22T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-09-22T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-09-22T00:00:00Z,Tablet landscape,client,1,0,0
+2022-09-22T00:00:00Z,Tablet portrait,visitor,4,0,1
+2022-09-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-23T00:00:00Z,Desktop,visitor,458,12,0
+2022-09-23T00:00:00Z,Desktop,client,34,0,10
+2022-09-23T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-09-23T00:00:00Z,Mobile/Smartphone,visitor,364,12,3
+2022-09-23T00:00:00Z,Mobile/Smartphone,client,20,0,11
+2022-09-23T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-09-23T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-09-23T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-24T00:00:00Z,Desktop,visitor,196,10,1
+2022-09-24T00:00:00Z,Desktop,client,28,0,15
+2022-09-24T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-09-24T00:00:00Z,Mobile/Smartphone,visitor,324,13,1
+2022-09-24T00:00:00Z,Mobile/Smartphone,client,18,0,9
+2022-09-24T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-09-24T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-09-24T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-25T00:00:00Z,Desktop,visitor,186,9,5
+2022-09-25T00:00:00Z,Desktop,client,25,0,13
+2022-09-25T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-09-25T00:00:00Z,Mobile/Smartphone,visitor,312,9,2
+2022-09-25T00:00:00Z,Mobile/Smartphone,client,16,0,7
+2022-09-25T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-09-25T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-09-25T00:00:00Z,Tablet landscape,client,1,0,0
+2022-09-25T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-25T00:00:00Z,Tablet portrait,client,1,0,0
+2022-09-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-26T00:00:00Z,Desktop,visitor,630,23,6
+2022-09-26T00:00:00Z,Desktop,client,47,0,24
+2022-09-26T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-09-26T00:00:00Z,Mobile/Smartphone,visitor,382,12,2
+2022-09-26T00:00:00Z,Mobile/Smartphone,client,26,0,12
+2022-09-26T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-09-26T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-09-26T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-09-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-27T00:00:00Z,Desktop,visitor,579,13,5
+2022-09-27T00:00:00Z,Desktop,client,48,0,22
+2022-09-27T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-09-27T00:00:00Z,Mobile/Smartphone,visitor,435,15,6
+2022-09-27T00:00:00Z,Mobile/Smartphone,client,19,0,11
+2022-09-27T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-09-27T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-09-27T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-28T00:00:00Z,Desktop,visitor,622,11,3
+2022-09-28T00:00:00Z,Desktop,client,47,0,13
+2022-09-28T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-09-28T00:00:00Z,Mobile/Smartphone,visitor,432,13,1
+2022-09-28T00:00:00Z,Mobile/Smartphone,client,23,0,14
+2022-09-28T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-09-28T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-09-28T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-09-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-29T00:00:00Z,Desktop,visitor,620,18,12
+2022-09-29T00:00:00Z,Desktop,client,65,0,21
+2022-09-29T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-09-29T00:00:00Z,Mobile/Smartphone,visitor,486,19,4
+2022-09-29T00:00:00Z,Mobile/Smartphone,client,27,0,13
+2022-09-29T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-09-29T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-09-29T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-09-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-09-30T00:00:00Z,Desktop,visitor,559,15,5
+2022-09-30T00:00:00Z,Desktop,client,48,0,14
+2022-09-30T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-09-30T00:00:00Z,Mobile/Smartphone,visitor,396,12,5
+2022-09-30T00:00:00Z,Mobile/Smartphone,client,20,0,8
+2022-09-30T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-09-30T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-09-30T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-09-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-01T00:00:00Z,Desktop,visitor,230,9,10
+2022-10-01T00:00:00Z,Desktop,client,33,0,9
+2022-10-01T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-10-01T00:00:00Z,Mobile/Smartphone,visitor,462,12,1
+2022-10-01T00:00:00Z,Mobile/Smartphone,client,19,0,13
+2022-10-01T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-10-01T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-10-01T00:00:00Z,Tablet landscape,client,1,0,1
+2022-10-01T00:00:00Z,Tablet portrait,visitor,5,1,0
+2022-10-01T00:00:00Z,Tablet portrait,client,3,0,2
+2022-10-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-02T00:00:00Z,Desktop,visitor,222,13,3
+2022-10-02T00:00:00Z,Desktop,client,31,0,16
+2022-10-02T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-10-02T00:00:00Z,Mobile/Smartphone,visitor,340,6,3
+2022-10-02T00:00:00Z,Mobile/Smartphone,client,20,0,11
+2022-10-02T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-10-02T00:00:00Z,Tablet landscape,visitor,1,0,0
+2022-10-02T00:00:00Z,Tablet landscape,client,1,0,0
+2022-10-02T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-10-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-03T00:00:00Z,Desktop,visitor,466,16,4
+2022-10-03T00:00:00Z,Desktop,client,58,0,21
+2022-10-03T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-10-03T00:00:00Z,Mobile/Smartphone,visitor,506,14,5
+2022-10-03T00:00:00Z,Mobile/Smartphone,client,22,0,13
+2022-10-03T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-10-03T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-10-03T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-10-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-04T00:00:00Z,Desktop,visitor,841,14,4
+2022-10-04T00:00:00Z,Desktop,client,49,0,20
+2022-10-04T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-10-04T00:00:00Z,Mobile/Smartphone,visitor,813,16,3
+2022-10-04T00:00:00Z,Mobile/Smartphone,client,29,0,8
+2022-10-04T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-10-04T00:00:00Z,Tablet landscape,visitor,12,0,0
+2022-10-04T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-10-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-05T00:00:00Z,Desktop,visitor,869,41,11
+2022-10-05T00:00:00Z,Desktop,client,80,0,27
+2022-10-05T00:00:00Z,Desktop,::unspecified::,29,0,0
+2022-10-05T00:00:00Z,Mobile/Smartphone,visitor,664,12,2
+2022-10-05T00:00:00Z,Mobile/Smartphone,client,39,0,21
+2022-10-05T00:00:00Z,Mobile/Smartphone,::unspecified::,20,0,0
+2022-10-05T00:00:00Z,Tablet landscape,visitor,20,0,0
+2022-10-05T00:00:00Z,Tablet portrait,visitor,8,0,0
+2022-10-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-06T00:00:00Z,Desktop,visitor,751,35,11
+2022-10-06T00:00:00Z,Desktop,client,68,0,22
+2022-10-06T00:00:00Z,Desktop,::unspecified::,18,0,0
+2022-10-06T00:00:00Z,Mobile/Smartphone,visitor,566,14,4
+2022-10-06T00:00:00Z,Mobile/Smartphone,client,28,0,11
+2022-10-06T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-10-06T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-10-06T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-10-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-07T00:00:00Z,Desktop,visitor,579,11,4
+2022-10-07T00:00:00Z,Desktop,client,58,0,11
+2022-10-07T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-10-07T00:00:00Z,Mobile/Smartphone,visitor,434,13,0
+2022-10-07T00:00:00Z,Mobile/Smartphone,client,29,0,15
+2022-10-07T00:00:00Z,Mobile/Smartphone,::unspecified::,20,0,0
+2022-10-07T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-10-07T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-10-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-08T00:00:00Z,Desktop,visitor,256,6,3
+2022-10-08T00:00:00Z,Desktop,client,39,0,18
+2022-10-08T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-10-08T00:00:00Z,Mobile/Smartphone,visitor,380,13,2
+2022-10-08T00:00:00Z,Mobile/Smartphone,client,27,0,19
+2022-10-08T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-10-08T00:00:00Z,Tablet landscape,visitor,8,0,1
+2022-10-08T00:00:00Z,Tablet portrait,visitor,4,1,0
+2022-10-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-09T00:00:00Z,Desktop,visitor,263,11,2
+2022-10-09T00:00:00Z,Desktop,client,32,0,18
+2022-10-09T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-10-09T00:00:00Z,Mobile/Smartphone,visitor,356,7,2
+2022-10-09T00:00:00Z,Mobile/Smartphone,client,29,0,14
+2022-10-09T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-10-09T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-10-09T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-10-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-10T00:00:00Z,Desktop,visitor,630,18,5
+2022-10-10T00:00:00Z,Desktop,client,57,0,28
+2022-10-10T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-10-10T00:00:00Z,Mobile/Smartphone,visitor,421,17,6
+2022-10-10T00:00:00Z,Mobile/Smartphone,client,34,0,16
+2022-10-10T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-10-10T00:00:00Z,Tablet landscape,visitor,9,0,0
+2022-10-10T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-10-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-11T00:00:00Z,Desktop,visitor,688,13,6
+2022-10-11T00:00:00Z,Desktop,client,46,0,14
+2022-10-11T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-10-11T00:00:00Z,Mobile/Smartphone,visitor,489,11,3
+2022-10-11T00:00:00Z,Mobile/Smartphone,client,24,0,10
+2022-10-11T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-10-11T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-10-11T00:00:00Z,Tablet landscape,client,1,0,0
+2022-10-11T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-10-11T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-10-11T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-10-12T00:00:00Z,Desktop,visitor,634,14,7
+2022-10-12T00:00:00Z,Desktop,client,46,0,19
+2022-10-12T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-10-12T00:00:00Z,Mobile/Smartphone,visitor,498,13,6
+2022-10-12T00:00:00Z,Mobile/Smartphone,client,19,0,12
+2022-10-12T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-10-12T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-10-12T00:00:00Z,Tablet landscape,client,1,0,0
+2022-10-12T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-10-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-13T00:00:00Z,Desktop,visitor,548,10,5
+2022-10-13T00:00:00Z,Desktop,client,50,0,16
+2022-10-13T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-10-13T00:00:00Z,Mobile/Smartphone,visitor,426,13,1
+2022-10-13T00:00:00Z,Mobile/Smartphone,client,27,0,12
+2022-10-13T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-10-13T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-10-13T00:00:00Z,Tablet landscape,client,1,0,0
+2022-10-13T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-10-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-14T00:00:00Z,Desktop,visitor,499,12,3
+2022-10-14T00:00:00Z,Desktop,client,42,0,6
+2022-10-14T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-10-14T00:00:00Z,Mobile/Smartphone,visitor,414,17,0
+2022-10-14T00:00:00Z,Mobile/Smartphone,client,32,0,16
+2022-10-14T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-10-14T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-10-14T00:00:00Z,Tablet portrait,visitor,2,1,0
+2022-10-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-15T00:00:00Z,Desktop,visitor,207,7,4
+2022-10-15T00:00:00Z,Desktop,client,23,0,6
+2022-10-15T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-10-15T00:00:00Z,Mobile/Smartphone,visitor,366,10,6
+2022-10-15T00:00:00Z,Mobile/Smartphone,client,23,0,10
+2022-10-15T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-10-15T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-10-15T00:00:00Z,Tablet landscape,client,1,0,0
+2022-10-15T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-10-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-16T00:00:00Z,Desktop,visitor,218,17,8
+2022-10-16T00:00:00Z,Desktop,client,32,0,18
+2022-10-16T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-10-16T00:00:00Z,Mobile/Smartphone,visitor,331,10,0
+2022-10-16T00:00:00Z,Mobile/Smartphone,client,23,0,15
+2022-10-16T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-10-16T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-10-16T00:00:00Z,Tablet landscape,client,1,0,1
+2022-10-16T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-10-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-17T00:00:00Z,Desktop,visitor,641,24,11
+2022-10-17T00:00:00Z,Desktop,client,61,0,19
+2022-10-17T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-10-17T00:00:00Z,Mobile/Smartphone,visitor,409,18,2
+2022-10-17T00:00:00Z,Mobile/Smartphone,client,34,0,18
+2022-10-17T00:00:00Z,Mobile/Smartphone,::unspecified::,18,0,0
+2022-10-17T00:00:00Z,Tablet landscape,visitor,6,1,0
+2022-10-17T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-10-17T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-10-18T00:00:00Z,Desktop,visitor,603,15,3
+2022-10-18T00:00:00Z,Desktop,client,49,0,23
+2022-10-18T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-10-18T00:00:00Z,Mobile/Smartphone,visitor,399,12,2
+2022-10-18T00:00:00Z,Mobile/Smartphone,client,22,0,7
+2022-10-18T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-10-18T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-10-18T00:00:00Z,Tablet landscape,client,2,0,3
+2022-10-18T00:00:00Z,Tablet landscape,::unspecified::,2,0,0
+2022-10-18T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-10-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-19T00:00:00Z,Desktop,visitor,593,22,5
+2022-10-19T00:00:00Z,Desktop,client,47,0,20
+2022-10-19T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-10-19T00:00:00Z,Mobile/Smartphone,visitor,449,16,2
+2022-10-19T00:00:00Z,Mobile/Smartphone,client,28,0,19
+2022-10-19T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-10-19T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-10-19T00:00:00Z,Tablet landscape,client,1,0,1
+2022-10-19T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-10-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-20T00:00:00Z,Desktop,visitor,537,31,16
+2022-10-20T00:00:00Z,Desktop,client,67,0,35
+2022-10-20T00:00:00Z,Desktop,::unspecified::,21,0,0
+2022-10-20T00:00:00Z,Mobile/Smartphone,visitor,389,12,2
+2022-10-20T00:00:00Z,Mobile/Smartphone,client,22,0,15
+2022-10-20T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-10-20T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-10-20T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-10-20T00:00:00Z,::unspecified::,visitor,1,0,0
+2022-10-21T00:00:00Z,Desktop,visitor,502,18,1
+2022-10-21T00:00:00Z,Desktop,client,39,0,18
+2022-10-21T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-10-21T00:00:00Z,Mobile/Smartphone,visitor,336,11,3
+2022-10-21T00:00:00Z,Mobile/Smartphone,client,28,0,13
+2022-10-21T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-10-21T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-10-21T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-10-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-22T00:00:00Z,Desktop,visitor,221,5,1
+2022-10-22T00:00:00Z,Desktop,client,31,0,11
+2022-10-22T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-10-22T00:00:00Z,Mobile/Smartphone,visitor,350,8,0
+2022-10-22T00:00:00Z,Mobile/Smartphone,client,26,0,12
+2022-10-22T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-10-22T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-10-22T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-10-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-23T00:00:00Z,Desktop,visitor,243,15,2
+2022-10-23T00:00:00Z,Desktop,client,35,0,15
+2022-10-23T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-10-23T00:00:00Z,Mobile/Smartphone,visitor,322,7,3
+2022-10-23T00:00:00Z,Mobile/Smartphone,client,25,0,18
+2022-10-23T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-10-23T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-10-23T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-10-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-24T00:00:00Z,Desktop,visitor,664,19,3
+2022-10-24T00:00:00Z,Desktop,client,89,0,23
+2022-10-24T00:00:00Z,Desktop,::unspecified::,22,0,0
+2022-10-24T00:00:00Z,Mobile/Smartphone,visitor,447,11,0
+2022-10-24T00:00:00Z,Mobile/Smartphone,client,26,0,13
+2022-10-24T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-10-24T00:00:00Z,Tablet landscape,visitor,9,3,0
+2022-10-24T00:00:00Z,Tablet landscape,client,2,0,1
+2022-10-24T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-10-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-25T00:00:00Z,Desktop,visitor,636,20,2
+2022-10-25T00:00:00Z,Desktop,client,49,0,19
+2022-10-25T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-10-25T00:00:00Z,Mobile/Smartphone,visitor,406,10,3
+2022-10-25T00:00:00Z,Mobile/Smartphone,client,19,0,10
+2022-10-25T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-10-25T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-10-25T00:00:00Z,Tablet landscape,client,1,0,0
+2022-10-25T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-10-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-26T00:00:00Z,Desktop,visitor,589,17,6
+2022-10-26T00:00:00Z,Desktop,client,51,0,20
+2022-10-26T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-10-26T00:00:00Z,Mobile/Smartphone,visitor,466,10,6
+2022-10-26T00:00:00Z,Mobile/Smartphone,client,22,0,14
+2022-10-26T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-10-26T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-10-26T00:00:00Z,Tablet portrait,visitor,2,1,1
+2022-10-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-27T00:00:00Z,Desktop,visitor,537,13,4
+2022-10-27T00:00:00Z,Desktop,client,62,0,18
+2022-10-27T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-10-27T00:00:00Z,Mobile/Smartphone,visitor,413,16,2
+2022-10-27T00:00:00Z,Mobile/Smartphone,client,18,0,11
+2022-10-27T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-10-27T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-10-27T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-10-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-28T00:00:00Z,Desktop,visitor,506,14,3
+2022-10-28T00:00:00Z,Desktop,client,42,0,19
+2022-10-28T00:00:00Z,Desktop,::unspecified::,13,0,0
+2022-10-28T00:00:00Z,Mobile/Smartphone,visitor,337,4,2
+2022-10-28T00:00:00Z,Mobile/Smartphone,client,21,0,9
+2022-10-28T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-10-28T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-10-28T00:00:00Z,Tablet portrait,client,1,0,0
+2022-10-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-29T00:00:00Z,Desktop,visitor,208,7,2
+2022-10-29T00:00:00Z,Desktop,client,28,0,9
+2022-10-29T00:00:00Z,Desktop,::unspecified::,4,0,0
+2022-10-29T00:00:00Z,Mobile/Smartphone,visitor,322,12,3
+2022-10-29T00:00:00Z,Mobile/Smartphone,client,12,0,4
+2022-10-29T00:00:00Z,Mobile/Smartphone,::unspecified::,5,0,0
+2022-10-29T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-10-29T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-10-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-10-30T00:00:00Z,Desktop,visitor,214,8,2
+2022-10-30T00:00:00Z,Desktop,client,34,0,20
+2022-10-30T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-10-30T00:00:00Z,Mobile/Smartphone,visitor,310,8,0
+2022-10-30T00:00:00Z,Mobile/Smartphone,client,14,0,10
+2022-10-30T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-10-30T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-10-30T00:00:00Z,Tablet landscape,client,1,0,0
+2022-10-30T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-10-30T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-10-31T00:00:00Z,Desktop,visitor,557,17,5
+2022-10-31T00:00:00Z,Desktop,client,57,0,24
+2022-10-31T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-10-31T00:00:00Z,Mobile/Smartphone,visitor,365,10,1
+2022-10-31T00:00:00Z,Mobile/Smartphone,client,21,0,10
+2022-10-31T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-10-31T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-10-31T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-10-31T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-01T00:00:00Z,Desktop,visitor,767,30,8
+2022-11-01T00:00:00Z,Desktop,client,86,0,33
+2022-11-01T00:00:00Z,Desktop,::unspecified::,17,0,0
+2022-11-01T00:00:00Z,Mobile/Smartphone,visitor,763,20,6
+2022-11-01T00:00:00Z,Mobile/Smartphone,client,35,0,21
+2022-11-01T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-11-01T00:00:00Z,Tablet landscape,visitor,12,2,0
+2022-11-01T00:00:00Z,Tablet landscape,client,1,0,1
+2022-11-01T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-02T00:00:00Z,Desktop,visitor,770,19,4
+2022-11-02T00:00:00Z,Desktop,client,71,0,18
+2022-11-02T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-11-02T00:00:00Z,Mobile/Smartphone,visitor,705,9,1
+2022-11-02T00:00:00Z,Mobile/Smartphone,client,32,0,20
+2022-11-02T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2022-11-02T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-11-02T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-11-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-03T00:00:00Z,Desktop,visitor,622,15,4
+2022-11-03T00:00:00Z,Desktop,client,49,0,14
+2022-11-03T00:00:00Z,Desktop,::unspecified::,12,0,0
+2022-11-03T00:00:00Z,Mobile/Smartphone,visitor,535,11,0
+2022-11-03T00:00:00Z,Mobile/Smartphone,client,20,0,10
+2022-11-03T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-11-03T00:00:00Z,Tablet landscape,visitor,10,0,0
+2022-11-03T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-11-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-04T00:00:00Z,Desktop,visitor,531,7,1
+2022-11-04T00:00:00Z,Desktop,client,52,0,20
+2022-11-04T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-11-04T00:00:00Z,Mobile/Smartphone,visitor,430,13,0
+2022-11-04T00:00:00Z,Mobile/Smartphone,client,33,0,20
+2022-11-04T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-11-04T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-11-04T00:00:00Z,Tablet landscape,client,1,0,1
+2022-11-04T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-11-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-05T00:00:00Z,Desktop,visitor,225,10,10
+2022-11-05T00:00:00Z,Desktop,client,37,0,17
+2022-11-05T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-11-05T00:00:00Z,Mobile/Smartphone,visitor,353,13,0
+2022-11-05T00:00:00Z,Mobile/Smartphone,client,21,0,12
+2022-11-05T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-11-05T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-11-05T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-06T00:00:00Z,Desktop,visitor,206,2,0
+2022-11-06T00:00:00Z,Desktop,client,44,0,13
+2022-11-06T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-11-06T00:00:00Z,Mobile/Smartphone,visitor,349,13,1
+2022-11-06T00:00:00Z,Mobile/Smartphone,client,18,0,11
+2022-11-06T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-11-06T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-11-06T00:00:00Z,Tablet landscape,client,1,0,1
+2022-11-06T00:00:00Z,Tablet portrait,None,0,0,0
+2022-11-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-07T00:00:00Z,Desktop,visitor,639,9,2
+2022-11-07T00:00:00Z,Desktop,client,59,0,25
+2022-11-07T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-11-07T00:00:00Z,Mobile/Smartphone,visitor,462,16,2
+2022-11-07T00:00:00Z,Mobile/Smartphone,client,35,0,18
+2022-11-07T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-11-07T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-07T00:00:00Z,Tablet landscape,client,1,0,0
+2022-11-07T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-11-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-08T00:00:00Z,Desktop,visitor,640,12,2
+2022-11-08T00:00:00Z,Desktop,client,53,0,19
+2022-11-08T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-11-08T00:00:00Z,Mobile/Smartphone,visitor,442,13,1
+2022-11-08T00:00:00Z,Mobile/Smartphone,client,19,0,11
+2022-11-08T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-11-08T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-08T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-11-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-09T00:00:00Z,Desktop,visitor,530,18,3
+2022-11-09T00:00:00Z,Desktop,client,49,0,16
+2022-11-09T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-11-09T00:00:00Z,Mobile/Smartphone,visitor,407,10,3
+2022-11-09T00:00:00Z,Mobile/Smartphone,client,21,0,12
+2022-11-09T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2022-11-09T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-09T00:00:00Z,Tablet portrait,visitor,7,0,0
+2022-11-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-10T00:00:00Z,Desktop,visitor,487,19,4
+2022-11-10T00:00:00Z,Desktop,client,42,0,17
+2022-11-10T00:00:00Z,Desktop,::unspecified::,5,0,0
+2022-11-10T00:00:00Z,Mobile/Smartphone,visitor,360,16,1
+2022-11-10T00:00:00Z,Mobile/Smartphone,client,12,0,6
+2022-11-10T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-11-10T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-10T00:00:00Z,Tablet landscape,client,1,0,0
+2022-11-10T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-11-10T00:00:00Z,Tablet portrait,client,1,0,0
+2022-11-10T00:00:00Z,::unspecified::,::unspecified::,1,0,0
+2022-11-11T00:00:00Z,Desktop,visitor,442,4,2
+2022-11-11T00:00:00Z,Desktop,client,42,0,21
+2022-11-11T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-11-11T00:00:00Z,Mobile/Smartphone,visitor,336,13,2
+2022-11-11T00:00:00Z,Mobile/Smartphone,client,17,0,5
+2022-11-11T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-11-11T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-11T00:00:00Z,Tablet landscape,client,1,0,0
+2022-11-11T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-11-11T00:00:00Z,Tablet portrait,client,1,0,0
+2022-11-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-12T00:00:00Z,Desktop,visitor,170,9,1
+2022-11-12T00:00:00Z,Desktop,client,29,0,13
+2022-11-12T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-11-12T00:00:00Z,Mobile/Smartphone,visitor,282,9,4
+2022-11-12T00:00:00Z,Mobile/Smartphone,client,17,0,12
+2022-11-12T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-11-12T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-11-12T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-11-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-13T00:00:00Z,Desktop,visitor,192,18,3
+2022-11-13T00:00:00Z,Desktop,client,30,0,16
+2022-11-13T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-11-13T00:00:00Z,Mobile/Smartphone,visitor,358,11,2
+2022-11-13T00:00:00Z,Mobile/Smartphone,client,25,0,12
+2022-11-13T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-11-13T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-13T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-11-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-14T00:00:00Z,Desktop,visitor,571,11,2
+2022-11-14T00:00:00Z,Desktop,client,52,0,17
+2022-11-14T00:00:00Z,Desktop,::unspecified::,4,0,0
+2022-11-14T00:00:00Z,Mobile/Smartphone,visitor,372,14,2
+2022-11-14T00:00:00Z,Mobile/Smartphone,client,30,0,11
+2022-11-14T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-11-14T00:00:00Z,Tablet landscape,None,0,0,0
+2022-11-14T00:00:00Z,Tablet portrait,client,1,0,1
+2022-11-14T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-11-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-15T00:00:00Z,Desktop,visitor,543,11,3
+2022-11-15T00:00:00Z,Desktop,client,55,0,25
+2022-11-15T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-11-15T00:00:00Z,Mobile/Smartphone,visitor,412,20,2
+2022-11-15T00:00:00Z,Mobile/Smartphone,client,32,0,14
+2022-11-15T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-11-15T00:00:00Z,Tablet landscape,visitor,2,0,1
+2022-11-15T00:00:00Z,Tablet portrait,visitor,3,1,0
+2022-11-15T00:00:00Z,Tablet portrait,client,1,0,0
+2022-11-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-16T00:00:00Z,Desktop,visitor,533,14,1
+2022-11-16T00:00:00Z,Desktop,client,50,0,17
+2022-11-16T00:00:00Z,Desktop,::unspecified::,15,0,0
+2022-11-16T00:00:00Z,Mobile/Smartphone,visitor,383,19,5
+2022-11-16T00:00:00Z,Mobile/Smartphone,client,24,0,10
+2022-11-16T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-11-16T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-16T00:00:00Z,Tablet landscape,client,1,0,1
+2022-11-16T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-11-16T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-16T00:00:00Z,Tablet portrait,client,1,0,1
+2022-11-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-17T00:00:00Z,Desktop,visitor,485,8,4
+2022-11-17T00:00:00Z,Desktop,client,36,0,15
+2022-11-17T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-11-17T00:00:00Z,Mobile/Smartphone,visitor,318,9,0
+2022-11-17T00:00:00Z,Mobile/Smartphone,client,22,0,12
+2022-11-17T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2022-11-17T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-17T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-18T00:00:00Z,Desktop,visitor,462,16,5
+2022-11-18T00:00:00Z,Desktop,client,39,0,11
+2022-11-18T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-11-18T00:00:00Z,Mobile/Smartphone,visitor,277,10,1
+2022-11-18T00:00:00Z,Mobile/Smartphone,client,18,0,10
+2022-11-18T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-11-18T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-18T00:00:00Z,Tablet portrait,None,0,0,0
+2022-11-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-19T00:00:00Z,Desktop,visitor,181,6,3
+2022-11-19T00:00:00Z,Desktop,client,23,0,8
+2022-11-19T00:00:00Z,Desktop,::unspecified::,4,0,0
+2022-11-19T00:00:00Z,Mobile/Smartphone,visitor,276,19,5
+2022-11-19T00:00:00Z,Mobile/Smartphone,client,34,0,18
+2022-11-19T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2022-11-19T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-19T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-11-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-20T00:00:00Z,Desktop,visitor,196,8,2
+2022-11-20T00:00:00Z,Desktop,client,41,0,24
+2022-11-20T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-11-20T00:00:00Z,Mobile/Smartphone,visitor,301,15,3
+2022-11-20T00:00:00Z,Mobile/Smartphone,client,33,0,20
+2022-11-20T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-11-20T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-20T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-21T00:00:00Z,Desktop,visitor,539,21,5
+2022-11-21T00:00:00Z,Desktop,client,61,0,20
+2022-11-21T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-11-21T00:00:00Z,Mobile/Smartphone,visitor,345,7,0
+2022-11-21T00:00:00Z,Mobile/Smartphone,client,29,0,14
+2022-11-21T00:00:00Z,Mobile/Smartphone,::unspecified::,19,0,0
+2022-11-21T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-21T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-11-21T00:00:00Z,Tablet portrait,client,1,0,1
+2022-11-21T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-11-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-22T00:00:00Z,Desktop,visitor,555,20,10
+2022-11-22T00:00:00Z,Desktop,client,48,0,11
+2022-11-22T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-11-22T00:00:00Z,Mobile/Smartphone,visitor,343,9,0
+2022-11-22T00:00:00Z,Mobile/Smartphone,client,33,0,14
+2022-11-22T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-11-22T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-11-22T00:00:00Z,Tablet landscape,client,3,0,1
+2022-11-22T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-11-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-23T00:00:00Z,Desktop,visitor,607,21,5
+2022-11-23T00:00:00Z,Desktop,client,59,0,28
+2022-11-23T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-11-23T00:00:00Z,Mobile/Smartphone,visitor,408,13,7
+2022-11-23T00:00:00Z,Mobile/Smartphone,client,34,0,18
+2022-11-23T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-11-23T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-11-23T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-23T00:00:00Z,Tablet portrait,client,1,0,1
+2022-11-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-24T00:00:00Z,Desktop,visitor,474,17,3
+2022-11-24T00:00:00Z,Desktop,client,36,0,10
+2022-11-24T00:00:00Z,Mobile/Smartphone,visitor,329,7,1
+2022-11-24T00:00:00Z,Mobile/Smartphone,client,20,0,6
+2022-11-24T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-11-24T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-11-24T00:00:00Z,Tablet portrait,client,1,0,0
+2022-11-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-25T00:00:00Z,Desktop,visitor,423,12,5
+2022-11-25T00:00:00Z,Desktop,client,37,0,16
+2022-11-25T00:00:00Z,Desktop,::unspecified::,1,0,0
+2022-11-25T00:00:00Z,Mobile/Smartphone,visitor,252,11,2
+2022-11-25T00:00:00Z,Mobile/Smartphone,client,29,0,11
+2022-11-25T00:00:00Z,Mobile/Smartphone,::unspecified::,1,0,0
+2022-11-25T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-11-25T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-11-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-26T00:00:00Z,Desktop,visitor,151,9,4
+2022-11-26T00:00:00Z,Desktop,client,20,0,8
+2022-11-26T00:00:00Z,Mobile/Smartphone,visitor,253,12,0
+2022-11-26T00:00:00Z,Mobile/Smartphone,client,22,0,10
+2022-11-26T00:00:00Z,Mobile/Smartphone,::unspecified::,2,0,0
+2022-11-26T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-11-26T00:00:00Z,Tablet landscape,client,1,0,0
+2022-11-26T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-27T00:00:00Z,Desktop,visitor,163,4,1
+2022-11-27T00:00:00Z,Desktop,client,34,0,12
+2022-11-27T00:00:00Z,Mobile/Smartphone,visitor,263,16,2
+2022-11-27T00:00:00Z,Mobile/Smartphone,client,21,0,10
+2022-11-27T00:00:00Z,Mobile/Smartphone,::unspecified::,2,0,0
+2022-11-27T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-27T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-11-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-28T00:00:00Z,Desktop,visitor,538,17,3
+2022-11-28T00:00:00Z,Desktop,client,77,0,36
+2022-11-28T00:00:00Z,Mobile/Smartphone,visitor,319,8,3
+2022-11-28T00:00:00Z,Mobile/Smartphone,client,38,0,19
+2022-11-28T00:00:00Z,Mobile/Smartphone,::unspecified::,1,0,0
+2022-11-28T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-11-28T00:00:00Z,Tablet landscape,client,1,0,0
+2022-11-28T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-11-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-29T00:00:00Z,Desktop,visitor,523,17,3
+2022-11-29T00:00:00Z,Desktop,client,42,0,15
+2022-11-29T00:00:00Z,Mobile/Smartphone,visitor,317,8,2
+2022-11-29T00:00:00Z,Mobile/Smartphone,client,24,0,13
+2022-11-29T00:00:00Z,Mobile/Smartphone,::unspecified::,1,0,0
+2022-11-29T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-29T00:00:00Z,Tablet landscape,client,1,0,0
+2022-11-29T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-11-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-11-30T00:00:00Z,Desktop,visitor,558,20,6
+2022-11-30T00:00:00Z,Desktop,client,48,0,15
+2022-11-30T00:00:00Z,Desktop,::unspecified::,1,0,0
+2022-11-30T00:00:00Z,Mobile/Smartphone,visitor,316,7,3
+2022-11-30T00:00:00Z,Mobile/Smartphone,client,26,0,8
+2022-11-30T00:00:00Z,Mobile/Smartphone,::unspecified::,1,0,0
+2022-11-30T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-11-30T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-11-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-01T00:00:00Z,Desktop,visitor,451,12,4
+2022-12-01T00:00:00Z,Desktop,client,50,0,24
+2022-12-01T00:00:00Z,Desktop,::unspecified::,1,0,0
+2022-12-01T00:00:00Z,Mobile/Smartphone,visitor,325,10,2
+2022-12-01T00:00:00Z,Mobile/Smartphone,client,26,0,12
+2022-12-01T00:00:00Z,Mobile/Smartphone,::unspecified::,2,0,0
+2022-12-01T00:00:00Z,Tablet landscape,visitor,3,1,0
+2022-12-01T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-12-01T00:00:00Z,Tablet portrait,client,1,0,1
+2022-12-01T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-02T00:00:00Z,Desktop,visitor,423,14,4
+2022-12-02T00:00:00Z,Desktop,client,32,0,17
+2022-12-02T00:00:00Z,Desktop,::unspecified::,1,0,0
+2022-12-02T00:00:00Z,Mobile/Smartphone,visitor,256,8,0
+2022-12-02T00:00:00Z,Mobile/Smartphone,client,13,0,9
+2022-12-02T00:00:00Z,Mobile/Smartphone,::unspecified::,1,0,0
+2022-12-02T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-12-02T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-12-02T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-03T00:00:00Z,Desktop,visitor,146,9,4
+2022-12-03T00:00:00Z,Desktop,client,19,0,8
+2022-12-03T00:00:00Z,Mobile/Smartphone,visitor,235,14,1
+2022-12-03T00:00:00Z,Mobile/Smartphone,client,16,0,3
+2022-12-03T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-12-03T00:00:00Z,Tablet landscape,client,1,0,0
+2022-12-03T00:00:00Z,Tablet portrait,None,0,0,0
+2022-12-03T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-04T00:00:00Z,Desktop,visitor,177,11,2
+2022-12-04T00:00:00Z,Desktop,client,29,0,16
+2022-12-04T00:00:00Z,Desktop,::unspecified::,1,0,0
+2022-12-04T00:00:00Z,Mobile/Smartphone,visitor,249,10,2
+2022-12-04T00:00:00Z,Mobile/Smartphone,client,17,0,11
+2022-12-04T00:00:00Z,Mobile/Smartphone,::unspecified::,3,0,0
+2022-12-04T00:00:00Z,Tablet landscape,visitor,8,0,0
+2022-12-04T00:00:00Z,Tablet landscape,client,1,0,0
+2022-12-04T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-12-04T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-05T00:00:00Z,Desktop,visitor,577,22,4
+2022-12-05T00:00:00Z,Desktop,client,43,0,14
+2022-12-05T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-12-05T00:00:00Z,Mobile/Smartphone,visitor,403,17,4
+2022-12-05T00:00:00Z,Mobile/Smartphone,client,26,0,15
+2022-12-05T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-12-05T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-12-05T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-12-05T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-06T00:00:00Z,Desktop,visitor,797,31,10
+2022-12-06T00:00:00Z,Desktop,client,65,0,29
+2022-12-06T00:00:00Z,Desktop,::unspecified::,19,0,0
+2022-12-06T00:00:00Z,Mobile/Smartphone,visitor,808,22,5
+2022-12-06T00:00:00Z,Mobile/Smartphone,client,37,0,19
+2022-12-06T00:00:00Z,Mobile/Smartphone,::unspecified::,20,0,0
+2022-12-06T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-12-06T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-12-06T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-07T00:00:00Z,Desktop,visitor,725,37,6
+2022-12-07T00:00:00Z,Desktop,client,58,0,16
+2022-12-07T00:00:00Z,Desktop,::unspecified::,14,0,0
+2022-12-07T00:00:00Z,Mobile/Smartphone,visitor,627,10,3
+2022-12-07T00:00:00Z,Mobile/Smartphone,client,42,0,28
+2022-12-07T00:00:00Z,Mobile/Smartphone,::unspecified::,23,0,0
+2022-12-07T00:00:00Z,Tablet landscape,visitor,7,0,0
+2022-12-07T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-12-07T00:00:00Z,Tablet portrait,client,1,0,0
+2022-12-07T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-12-07T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-08T00:00:00Z,Desktop,visitor,584,21,5
+2022-12-08T00:00:00Z,Desktop,client,48,0,17
+2022-12-08T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-12-08T00:00:00Z,Mobile/Smartphone,visitor,509,26,7
+2022-12-08T00:00:00Z,Mobile/Smartphone,client,30,0,14
+2022-12-08T00:00:00Z,Mobile/Smartphone,::unspecified::,20,0,0
+2022-12-08T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-12-08T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-12-08T00:00:00Z,Tablet portrait,client,1,0,0
+2022-12-08T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-09T00:00:00Z,Desktop,visitor,509,23,1
+2022-12-09T00:00:00Z,Desktop,client,44,0,11
+2022-12-09T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-12-09T00:00:00Z,Mobile/Smartphone,visitor,389,16,2
+2022-12-09T00:00:00Z,Mobile/Smartphone,client,27,0,12
+2022-12-09T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2022-12-09T00:00:00Z,Tablet landscape,visitor,6,2,0
+2022-12-09T00:00:00Z,Tablet portrait,visitor,6,1,0
+2022-12-09T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-10T00:00:00Z,Desktop,visitor,166,11,3
+2022-12-10T00:00:00Z,Desktop,client,26,0,20
+2022-12-10T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-12-10T00:00:00Z,Mobile/Smartphone,visitor,295,9,2
+2022-12-10T00:00:00Z,Mobile/Smartphone,client,24,0,14
+2022-12-10T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-12-10T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-12-10T00:00:00Z,Tablet portrait,None,0,0,0
+2022-12-10T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-11T00:00:00Z,Desktop,visitor,195,9,3
+2022-12-11T00:00:00Z,Desktop,client,41,0,14
+2022-12-11T00:00:00Z,Desktop,::unspecified::,8,0,0
+2022-12-11T00:00:00Z,Mobile/Smartphone,visitor,260,15,2
+2022-12-11T00:00:00Z,Mobile/Smartphone,client,15,0,5
+2022-12-11T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-12-11T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-12-11T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-12-11T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-12T00:00:00Z,Desktop,visitor,576,22,7
+2022-12-12T00:00:00Z,Desktop,client,58,0,20
+2022-12-12T00:00:00Z,Desktop,::unspecified::,16,0,0
+2022-12-12T00:00:00Z,Mobile/Smartphone,visitor,361,16,1
+2022-12-12T00:00:00Z,Mobile/Smartphone,client,33,0,20
+2022-12-12T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2022-12-12T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-12-12T00:00:00Z,Tablet landscape,client,1,0,0
+2022-12-12T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-12-12T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-12-12T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-13T00:00:00Z,Desktop,visitor,513,22,3
+2022-12-13T00:00:00Z,Desktop,client,43,0,10
+2022-12-13T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-12-13T00:00:00Z,Mobile/Smartphone,visitor,339,12,5
+2022-12-13T00:00:00Z,Mobile/Smartphone,client,21,0,12
+2022-12-13T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-12-13T00:00:00Z,Tablet landscape,visitor,5,1,0
+2022-12-13T00:00:00Z,Tablet landscape,client,1,0,0
+2022-12-13T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-12-13T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-12-13T00:00:00Z,Tablet portrait,client,1,0,0
+2022-12-13T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2022-12-13T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-14T00:00:00Z,Desktop,visitor,513,17,4
+2022-12-14T00:00:00Z,Desktop,client,37,0,12
+2022-12-14T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-12-14T00:00:00Z,Mobile/Smartphone,visitor,290,9,2
+2022-12-14T00:00:00Z,Mobile/Smartphone,client,14,0,6
+2022-12-14T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-12-14T00:00:00Z,Tablet landscape,visitor,5,0,0
+2022-12-14T00:00:00Z,Tablet landscape,client,1,0,0
+2022-12-14T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-12-14T00:00:00Z,Tablet portrait,client,1,0,0
+2022-12-14T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-15T00:00:00Z,Desktop,visitor,391,11,8
+2022-12-15T00:00:00Z,Desktop,client,43,0,20
+2022-12-15T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-12-15T00:00:00Z,Mobile/Smartphone,visitor,273,17,3
+2022-12-15T00:00:00Z,Mobile/Smartphone,client,23,0,11
+2022-12-15T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-12-15T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-12-15T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-12-15T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-16T00:00:00Z,Desktop,visitor,431,18,4
+2022-12-16T00:00:00Z,Desktop,client,28,0,7
+2022-12-16T00:00:00Z,Desktop,::unspecified::,7,0,0
+2022-12-16T00:00:00Z,Mobile/Smartphone,visitor,260,7,0
+2022-12-16T00:00:00Z,Mobile/Smartphone,client,15,0,5
+2022-12-16T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-12-16T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-12-16T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-12-16T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-17T00:00:00Z,Desktop,visitor,156,3,3
+2022-12-17T00:00:00Z,Desktop,client,23,0,5
+2022-12-17T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-12-17T00:00:00Z,Mobile/Smartphone,visitor,218,12,5
+2022-12-17T00:00:00Z,Mobile/Smartphone,client,12,0,7
+2022-12-17T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-12-17T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-12-17T00:00:00Z,Tablet portrait,visitor,6,0,0
+2022-12-17T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-18T00:00:00Z,Desktop,visitor,149,11,7
+2022-12-18T00:00:00Z,Desktop,client,16,0,8
+2022-12-18T00:00:00Z,Desktop,::unspecified::,4,0,0
+2022-12-18T00:00:00Z,Mobile/Smartphone,visitor,197,8,3
+2022-12-18T00:00:00Z,Mobile/Smartphone,client,9,0,7
+2022-12-18T00:00:00Z,Mobile/Smartphone,::unspecified::,3,0,0
+2022-12-18T00:00:00Z,Tablet landscape,visitor,1,0,0
+2022-12-18T00:00:00Z,Tablet portrait,None,0,0,0
+2022-12-18T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-19T00:00:00Z,Desktop,visitor,470,13,7
+2022-12-19T00:00:00Z,Desktop,client,44,1,19
+2022-12-19T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-12-19T00:00:00Z,Mobile/Smartphone,visitor,254,18,6
+2022-12-19T00:00:00Z,Mobile/Smartphone,client,17,0,8
+2022-12-19T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2022-12-19T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-12-19T00:00:00Z,Tablet portrait,None,0,0,0
+2022-12-19T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-20T00:00:00Z,Desktop,visitor,449,15,8
+2022-12-20T00:00:00Z,Desktop,client,34,0,13
+2022-12-20T00:00:00Z,Desktop,::unspecified::,9,0,0
+2022-12-20T00:00:00Z,Mobile/Smartphone,visitor,295,17,6
+2022-12-20T00:00:00Z,Mobile/Smartphone,client,10,0,4
+2022-12-20T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2022-12-20T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-12-20T00:00:00Z,Tablet landscape,client,1,0,1
+2022-12-20T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-12-20T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-12-20T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-21T00:00:00Z,Desktop,visitor,448,21,6
+2022-12-21T00:00:00Z,Desktop,client,44,0,15
+2022-12-21T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-12-21T00:00:00Z,Mobile/Smartphone,visitor,292,18,5
+2022-12-21T00:00:00Z,Mobile/Smartphone,client,21,0,13
+2022-12-21T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-12-21T00:00:00Z,Tablet landscape,visitor,4,0,0
+2022-12-21T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-12-21T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-22T00:00:00Z,Desktop,visitor,381,15,4
+2022-12-22T00:00:00Z,Desktop,client,28,0,7
+2022-12-22T00:00:00Z,Desktop,::unspecified::,11,0,0
+2022-12-22T00:00:00Z,Mobile/Smartphone,visitor,282,22,3
+2022-12-22T00:00:00Z,Mobile/Smartphone,client,20,0,9
+2022-12-22T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2022-12-22T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-12-22T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-12-22T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-23T00:00:00Z,Desktop,visitor,273,10,0
+2022-12-23T00:00:00Z,Desktop,client,23,0,14
+2022-12-23T00:00:00Z,Desktop,::unspecified::,6,0,0
+2022-12-23T00:00:00Z,Mobile/Smartphone,visitor,211,9,3
+2022-12-23T00:00:00Z,Mobile/Smartphone,client,16,0,11
+2022-12-23T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-12-23T00:00:00Z,Tablet landscape,client,1,0,1
+2022-12-23T00:00:00Z,Tablet landscape,visitor,1,0,0
+2022-12-23T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-12-23T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-24T00:00:00Z,Desktop,visitor,67,1,0
+2022-12-24T00:00:00Z,Desktop,client,4,0,1
+2022-12-24T00:00:00Z,Desktop,::unspecified::,1,0,0
+2022-12-24T00:00:00Z,Mobile/Smartphone,visitor,131,7,1
+2022-12-24T00:00:00Z,Mobile/Smartphone,client,6,0,3
+2022-12-24T00:00:00Z,Mobile/Smartphone,::unspecified::,2,0,0
+2022-12-24T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-12-24T00:00:00Z,Tablet landscape,client,1,0,1
+2022-12-24T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-12-24T00:00:00Z,Tablet portrait,visitor,3,0,0
+2022-12-24T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-25T00:00:00Z,Desktop,visitor,41,1,0
+2022-12-25T00:00:00Z,Desktop,client,5,0,1
+2022-12-25T00:00:00Z,Mobile/Smartphone,visitor,113,5,0
+2022-12-25T00:00:00Z,Mobile/Smartphone,client,6,0,1
+2022-12-25T00:00:00Z,Mobile/Smartphone,::unspecified::,2,0,0
+2022-12-25T00:00:00Z,Tablet landscape,None,0,0,0
+2022-12-25T00:00:00Z,Tablet portrait,visitor,1,0,0
+2022-12-25T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-26T00:00:00Z,Desktop,visitor,102,4,2
+2022-12-26T00:00:00Z,Desktop,client,14,0,6
+2022-12-26T00:00:00Z,Desktop,::unspecified::,4,0,0
+2022-12-26T00:00:00Z,Mobile/Smartphone,visitor,179,9,0
+2022-12-26T00:00:00Z,Mobile/Smartphone,client,16,0,7
+2022-12-26T00:00:00Z,Mobile/Smartphone,::unspecified::,8,0,0
+2022-12-26T00:00:00Z,Tablet landscape,visitor,1,0,0
+2022-12-26T00:00:00Z,Tablet portrait,visitor,5,0,0
+2022-12-26T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-27T00:00:00Z,Desktop,visitor,148,4,0
+2022-12-27T00:00:00Z,Desktop,client,13,0,5
+2022-12-27T00:00:00Z,Desktop,::unspecified::,2,0,0
+2022-12-27T00:00:00Z,Mobile/Smartphone,visitor,185,10,3
+2022-12-27T00:00:00Z,Mobile/Smartphone,client,11,0,5
+2022-12-27T00:00:00Z,Mobile/Smartphone,::unspecified::,7,0,0
+2022-12-27T00:00:00Z,Tablet landscape,visitor,3,0,0
+2022-12-27T00:00:00Z,Tablet landscape,client,1,0,0
+2022-12-27T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-12-27T00:00:00Z,Tablet portrait,client,1,0,0
+2022-12-27T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-28T00:00:00Z,Desktop,visitor,267,8,2
+2022-12-28T00:00:00Z,Desktop,client,50,0,21
+2022-12-28T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-12-28T00:00:00Z,Mobile/Smartphone,visitor,282,14,2
+2022-12-28T00:00:00Z,Mobile/Smartphone,client,30,0,16
+2022-12-28T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2022-12-28T00:00:00Z,Tablet landscape,visitor,13,1,0
+2022-12-28T00:00:00Z,Tablet landscape,client,1,0,1
+2022-12-28T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-12-28T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-12-28T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-29T00:00:00Z,Desktop,visitor,315,6,1
+2022-12-29T00:00:00Z,Desktop,client,31,0,12
+2022-12-29T00:00:00Z,Desktop,::unspecified::,3,0,0
+2022-12-29T00:00:00Z,Mobile/Smartphone,visitor,340,15,3
+2022-12-29T00:00:00Z,Mobile/Smartphone,client,24,0,13
+2022-12-29T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2022-12-29T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-12-29T00:00:00Z,Tablet landscape,client,1,0,0
+2022-12-29T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2022-12-29T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-12-29T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-30T00:00:00Z,Desktop,visitor,335,4,4
+2022-12-30T00:00:00Z,Desktop,client,45,0,15
+2022-12-30T00:00:00Z,Desktop,::unspecified::,10,0,0
+2022-12-30T00:00:00Z,Mobile/Smartphone,visitor,317,9,2
+2022-12-30T00:00:00Z,Mobile/Smartphone,client,11,0,6
+2022-12-30T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2022-12-30T00:00:00Z,Tablet landscape,visitor,2,0,0
+2022-12-30T00:00:00Z,Tablet portrait,visitor,2,0,0
+2022-12-30T00:00:00Z,::unspecified::,None,0,0,0
+2022-12-31T00:00:00Z,Desktop,visitor,131,8,5
+2022-12-31T00:00:00Z,Desktop,client,25,0,7
+2022-12-31T00:00:00Z,Desktop,::unspecified::,3,0,0
+2022-12-31T00:00:00Z,Mobile/Smartphone,visitor,206,11,3
+2022-12-31T00:00:00Z,Mobile/Smartphone,client,13,0,10
+2022-12-31T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2022-12-31T00:00:00Z,Tablet landscape,visitor,6,0,0
+2022-12-31T00:00:00Z,Tablet portrait,visitor,4,0,0
+2022-12-31T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-01T00:00:00Z,Desktop,visitor,152,7,0
+2023-01-01T00:00:00Z,Desktop,client,23,0,6
+2023-01-01T00:00:00Z,Desktop,::unspecified::,6,0,0
+2023-01-01T00:00:00Z,Mobile/Smartphone,visitor,261,3,0
+2023-01-01T00:00:00Z,Mobile/Smartphone,client,13,0,7
+2023-01-01T00:00:00Z,Mobile/Smartphone,::unspecified::,4,0,0
+2023-01-01T00:00:00Z,Tablet landscape,None,0,0,0
+2023-01-01T00:00:00Z,Tablet portrait,visitor,2,0,0
+2023-01-01T00:00:00Z,Tablet portrait,client,1,0,0
+2023-01-01T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-02T00:00:00Z,Desktop,visitor,241,13,3
+2023-01-02T00:00:00Z,Desktop,client,24,0,8
+2023-01-02T00:00:00Z,Desktop,::unspecified::,5,0,0
+2023-01-02T00:00:00Z,Mobile/Smartphone,visitor,330,16,4
+2023-01-02T00:00:00Z,Mobile/Smartphone,client,21,0,10
+2023-01-02T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2023-01-02T00:00:00Z,Tablet landscape,visitor,7,0,0
+2023-01-02T00:00:00Z,Tablet portrait,visitor,1,0,0
+2023-01-02T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-03T00:00:00Z,Desktop,visitor,534,11,8
+2023-01-03T00:00:00Z,Desktop,client,65,0,24
+2023-01-03T00:00:00Z,Desktop,::unspecified::,21,0,0
+2023-01-03T00:00:00Z,Mobile/Smartphone,visitor,355,28,5
+2023-01-03T00:00:00Z,Mobile/Smartphone,client,30,0,14
+2023-01-03T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2023-01-03T00:00:00Z,Tablet landscape,visitor,8,0,0
+2023-01-03T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-03T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2023-01-03T00:00:00Z,Tablet portrait,visitor,6,0,0
+2023-01-03T00:00:00Z,Tablet portrait,client,1,0,1
+2023-01-03T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2023-01-03T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-04T00:00:00Z,Desktop,visitor,563,12,6
+2023-01-04T00:00:00Z,Desktop,client,58,0,18
+2023-01-04T00:00:00Z,Desktop,::unspecified::,14,0,0
+2023-01-04T00:00:00Z,Mobile/Smartphone,visitor,449,16,5
+2023-01-04T00:00:00Z,Mobile/Smartphone,client,28,0,12
+2023-01-04T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2023-01-04T00:00:00Z,Tablet landscape,visitor,4,0,0
+2023-01-04T00:00:00Z,Tablet landscape,client,1,0,0
+2023-01-04T00:00:00Z,Tablet portrait,visitor,5,0,0
+2023-01-04T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-05T00:00:00Z,Desktop,visitor,527,17,10
+2023-01-05T00:00:00Z,Desktop,client,65,0,22
+2023-01-05T00:00:00Z,Desktop,::unspecified::,15,0,0
+2023-01-05T00:00:00Z,Mobile/Smartphone,visitor,416,22,7
+2023-01-05T00:00:00Z,Mobile/Smartphone,client,30,0,13
+2023-01-05T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2023-01-05T00:00:00Z,Tablet landscape,visitor,9,0,0
+2023-01-05T00:00:00Z,Tablet landscape,client,1,0,0
+2023-01-05T00:00:00Z,Tablet portrait,visitor,6,2,0
+2023-01-05T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-06T00:00:00Z,Desktop,visitor,490,12,8
+2023-01-06T00:00:00Z,Desktop,client,56,0,19
+2023-01-06T00:00:00Z,Desktop,::unspecified::,14,0,0
+2023-01-06T00:00:00Z,Mobile/Smartphone,visitor,403,11,2
+2023-01-06T00:00:00Z,Mobile/Smartphone,client,22,0,11
+2023-01-06T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2023-01-06T00:00:00Z,Tablet landscape,visitor,2,1,0
+2023-01-06T00:00:00Z,Tablet portrait,visitor,5,0,0
+2023-01-06T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-07T00:00:00Z,Desktop,visitor,199,14,5
+2023-01-07T00:00:00Z,Desktop,client,38,0,18
+2023-01-07T00:00:00Z,Desktop,::unspecified::,6,0,0
+2023-01-07T00:00:00Z,Mobile/Smartphone,visitor,341,5,2
+2023-01-07T00:00:00Z,Mobile/Smartphone,client,22,0,17
+2023-01-07T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2023-01-07T00:00:00Z,Tablet landscape,visitor,3,0,0
+2023-01-07T00:00:00Z,Tablet landscape,client,1,0,0
+2023-01-07T00:00:00Z,Tablet portrait,visitor,4,0,0
+2023-01-07T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-08T00:00:00Z,Desktop,visitor,196,15,5
+2023-01-08T00:00:00Z,Desktop,client,31,0,12
+2023-01-08T00:00:00Z,Desktop,::unspecified::,11,0,0
+2023-01-08T00:00:00Z,Mobile/Smartphone,visitor,275,8,4
+2023-01-08T00:00:00Z,Mobile/Smartphone,client,21,0,8
+2023-01-08T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2023-01-08T00:00:00Z,Tablet landscape,visitor,7,2,0
+2023-01-08T00:00:00Z,Tablet landscape,client,1,0,0
+2023-01-08T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2023-01-08T00:00:00Z,Tablet portrait,visitor,5,1,0
+2023-01-08T00:00:00Z,Tablet portrait,client,1,0,0
+2023-01-08T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2023-01-08T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-09T00:00:00Z,Desktop,visitor,637,24,5
+2023-01-09T00:00:00Z,Desktop,client,81,0,29
+2023-01-09T00:00:00Z,Desktop,::unspecified::,28,0,0
+2023-01-09T00:00:00Z,Mobile/Smartphone,visitor,446,29,4
+2023-01-09T00:00:00Z,Mobile/Smartphone,client,36,0,18
+2023-01-09T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2023-01-09T00:00:00Z,Tablet landscape,visitor,5,0,0
+2023-01-09T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-09T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2023-01-09T00:00:00Z,Tablet portrait,visitor,4,0,0
+2023-01-09T00:00:00Z,Tablet portrait,client,1,0,0
+2023-01-09T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-10T00:00:00Z,Desktop,visitor,609,18,13
+2023-01-10T00:00:00Z,Desktop,client,65,0,19
+2023-01-10T00:00:00Z,Desktop,::unspecified::,16,0,0
+2023-01-10T00:00:00Z,Mobile/Smartphone,visitor,424,10,0
+2023-01-10T00:00:00Z,Mobile/Smartphone,client,23,0,6
+2023-01-10T00:00:00Z,Mobile/Smartphone,::unspecified::,14,0,0
+2023-01-10T00:00:00Z,Tablet landscape,visitor,4,1,0
+2023-01-10T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-10T00:00:00Z,Tablet portrait,visitor,4,0,0
+2023-01-10T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-11T00:00:00Z,Desktop,visitor,648,15,7
+2023-01-11T00:00:00Z,Desktop,client,74,0,35
+2023-01-11T00:00:00Z,Desktop,::unspecified::,12,0,0
+2023-01-11T00:00:00Z,Mobile/Smartphone,visitor,457,13,1
+2023-01-11T00:00:00Z,Mobile/Smartphone,client,32,0,16
+2023-01-11T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2023-01-11T00:00:00Z,Tablet landscape,visitor,2,0,0
+2023-01-11T00:00:00Z,Tablet portrait,visitor,4,0,0
+2023-01-11T00:00:00Z,Tablet portrait,client,2,0,1
+2023-01-11T00:00:00Z,Tablet portrait,::unspecified::,2,0,0
+2023-01-11T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-12T00:00:00Z,Desktop,visitor,565,14,4
+2023-01-12T00:00:00Z,Desktop,client,47,0,17
+2023-01-12T00:00:00Z,Desktop,::unspecified::,15,0,0
+2023-01-12T00:00:00Z,Mobile/Smartphone,visitor,399,20,4
+2023-01-12T00:00:00Z,Mobile/Smartphone,client,23,0,9
+2023-01-12T00:00:00Z,Mobile/Smartphone,::unspecified::,13,0,0
+2023-01-12T00:00:00Z,Tablet landscape,visitor,6,0,0
+2023-01-12T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-12T00:00:00Z,Tablet portrait,visitor,2,0,0
+2023-01-12T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-13T00:00:00Z,Desktop,visitor,572,22,9
+2023-01-13T00:00:00Z,Desktop,client,60,0,21
+2023-01-13T00:00:00Z,Desktop,::unspecified::,11,0,0
+2023-01-13T00:00:00Z,Mobile/Smartphone,visitor,435,14,3
+2023-01-13T00:00:00Z,Mobile/Smartphone,client,28,0,13
+2023-01-13T00:00:00Z,Mobile/Smartphone,::unspecified::,15,0,0
+2023-01-13T00:00:00Z,Tablet landscape,visitor,2,0,0
+2023-01-13T00:00:00Z,Tablet portrait,visitor,3,0,0
+2023-01-13T00:00:00Z,Tablet portrait,client,1,0,1
+2023-01-13T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2023-01-13T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-14T00:00:00Z,Desktop,visitor,208,11,4
+2023-01-14T00:00:00Z,Desktop,client,37,0,7
+2023-01-14T00:00:00Z,Desktop,::unspecified::,11,0,0
+2023-01-14T00:00:00Z,Mobile/Smartphone,visitor,299,8,0
+2023-01-14T00:00:00Z,Mobile/Smartphone,client,23,0,10
+2023-01-14T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2023-01-14T00:00:00Z,Tablet landscape,visitor,3,0,0
+2023-01-14T00:00:00Z,Tablet portrait,visitor,4,0,0
+2023-01-14T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-15T00:00:00Z,Desktop,visitor,215,11,10
+2023-01-15T00:00:00Z,Desktop,client,37,0,10
+2023-01-15T00:00:00Z,Desktop,::unspecified::,9,0,0
+2023-01-15T00:00:00Z,Mobile/Smartphone,visitor,327,10,1
+2023-01-15T00:00:00Z,Mobile/Smartphone,client,20,0,13
+2023-01-15T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2023-01-15T00:00:00Z,Tablet landscape,visitor,4,0,0
+2023-01-15T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-15T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2023-01-15T00:00:00Z,Tablet portrait,visitor,2,0,0
+2023-01-15T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-16T00:00:00Z,Desktop,visitor,670,25,11
+2023-01-16T00:00:00Z,Desktop,client,63,0,21
+2023-01-16T00:00:00Z,Desktop,::unspecified::,10,0,0
+2023-01-16T00:00:00Z,Mobile/Smartphone,visitor,443,20,4
+2023-01-16T00:00:00Z,Mobile/Smartphone,client,34,0,15
+2023-01-16T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2023-01-16T00:00:00Z,Tablet landscape,visitor,4,0,0
+2023-01-16T00:00:00Z,Tablet portrait,visitor,5,0,0
+2023-01-16T00:00:00Z,Tablet portrait,client,1,0,0
+2023-01-16T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-17T00:00:00Z,Desktop,visitor,648,16,7
+2023-01-17T00:00:00Z,Desktop,client,70,0,24
+2023-01-17T00:00:00Z,Desktop,::unspecified::,18,0,0
+2023-01-17T00:00:00Z,Mobile/Smartphone,visitor,508,15,2
+2023-01-17T00:00:00Z,Mobile/Smartphone,client,41,0,16
+2023-01-17T00:00:00Z,Mobile/Smartphone,::unspecified::,22,0,0
+2023-01-17T00:00:00Z,Tablet landscape,visitor,5,0,0
+2023-01-17T00:00:00Z,Tablet portrait,visitor,6,0,0
+2023-01-17T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-18T00:00:00Z,Desktop,visitor,593,8,2
+2023-01-18T00:00:00Z,Desktop,client,58,0,19
+2023-01-18T00:00:00Z,Desktop,::unspecified::,9,0,0
+2023-01-18T00:00:00Z,Mobile/Smartphone,visitor,447,15,1
+2023-01-18T00:00:00Z,Mobile/Smartphone,client,35,0,18
+2023-01-18T00:00:00Z,Mobile/Smartphone,::unspecified::,17,0,0
+2023-01-18T00:00:00Z,Tablet landscape,visitor,4,1,1
+2023-01-18T00:00:00Z,Tablet landscape,client,3,0,1
+2023-01-18T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2023-01-18T00:00:00Z,Tablet portrait,visitor,2,0,0
+2023-01-18T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-19T00:00:00Z,Desktop,visitor,574,17,5
+2023-01-19T00:00:00Z,Desktop,client,60,0,18
+2023-01-19T00:00:00Z,Desktop,::unspecified::,15,0,0
+2023-01-19T00:00:00Z,Mobile/Smartphone,visitor,384,6,3
+2023-01-19T00:00:00Z,Mobile/Smartphone,client,36,0,14
+2023-01-19T00:00:00Z,Mobile/Smartphone,::unspecified::,16,0,0
+2023-01-19T00:00:00Z,Tablet landscape,client,3,0,0
+2023-01-19T00:00:00Z,Tablet landscape,visitor,2,0,0
+2023-01-19T00:00:00Z,Tablet portrait,visitor,4,0,0
+2023-01-19T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-20T00:00:00Z,Desktop,visitor,514,8,6
+2023-01-20T00:00:00Z,Desktop,client,44,0,18
+2023-01-20T00:00:00Z,Desktop,::unspecified::,6,0,0
+2023-01-20T00:00:00Z,Mobile/Smartphone,visitor,350,16,4
+2023-01-20T00:00:00Z,Mobile/Smartphone,client,18,0,12
+2023-01-20T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2023-01-20T00:00:00Z,Tablet landscape,visitor,2,0,0
+2023-01-20T00:00:00Z,Tablet portrait,visitor,1,0,0
+2023-01-20T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-21T00:00:00Z,Desktop,visitor,163,4,5
+2023-01-21T00:00:00Z,Desktop,client,26,0,13
+2023-01-21T00:00:00Z,Desktop,::unspecified::,9,0,0
+2023-01-21T00:00:00Z,Mobile/Smartphone,visitor,264,5,1
+2023-01-21T00:00:00Z,Mobile/Smartphone,client,20,0,14
+2023-01-21T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2023-01-21T00:00:00Z,Tablet landscape,visitor,5,0,0
+2023-01-21T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-21T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2023-01-21T00:00:00Z,Tablet portrait,visitor,3,0,0
+2023-01-21T00:00:00Z,Tablet portrait,client,1,0,0
+2023-01-21T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-22T00:00:00Z,Desktop,visitor,221,8,2
+2023-01-22T00:00:00Z,Desktop,client,31,0,13
+2023-01-22T00:00:00Z,Desktop,::unspecified::,8,0,0
+2023-01-22T00:00:00Z,Mobile/Smartphone,visitor,337,8,3
+2023-01-22T00:00:00Z,Mobile/Smartphone,client,19,0,12
+2023-01-22T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2023-01-22T00:00:00Z,Tablet landscape,visitor,2,1,0
+2023-01-22T00:00:00Z,Tablet landscape,client,2,0,6
+2023-01-22T00:00:00Z,Tablet landscape,::unspecified::,1,0,0
+2023-01-22T00:00:00Z,Tablet portrait,visitor,5,0,0
+2023-01-22T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-23T00:00:00Z,Desktop,visitor,644,19,7
+2023-01-23T00:00:00Z,Desktop,client,81,0,31
+2023-01-23T00:00:00Z,Desktop,::unspecified::,26,0,0
+2023-01-23T00:00:00Z,Mobile/Smartphone,visitor,427,19,4
+2023-01-23T00:00:00Z,Mobile/Smartphone,client,29,0,16
+2023-01-23T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2023-01-23T00:00:00Z,Tablet landscape,visitor,5,0,0
+2023-01-23T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-23T00:00:00Z,Tablet portrait,visitor,5,0,0
+2023-01-23T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-24T00:00:00Z,Desktop,visitor,521,17,11
+2023-01-24T00:00:00Z,Desktop,client,59,0,18
+2023-01-24T00:00:00Z,Desktop,::unspecified::,13,0,0
+2023-01-24T00:00:00Z,Mobile/Smartphone,visitor,369,10,5
+2023-01-24T00:00:00Z,Mobile/Smartphone,client,20,0,6
+2023-01-24T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2023-01-24T00:00:00Z,Tablet landscape,visitor,3,0,0
+2023-01-24T00:00:00Z,Tablet landscape,client,1,0,1
+2023-01-24T00:00:00Z,Tablet portrait,visitor,2,0,0
+2023-01-24T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-25T00:00:00Z,Desktop,visitor,497,9,7
+2023-01-25T00:00:00Z,Desktop,client,45,0,16
+2023-01-25T00:00:00Z,Desktop,::unspecified::,9,0,0
+2023-01-25T00:00:00Z,Mobile/Smartphone,visitor,325,11,2
+2023-01-25T00:00:00Z,Mobile/Smartphone,client,19,0,7
+2023-01-25T00:00:00Z,Mobile/Smartphone,::unspecified::,10,0,0
+2023-01-25T00:00:00Z,Tablet landscape,visitor,4,0,0
+2023-01-25T00:00:00Z,Tablet portrait,visitor,2,0,0
+2023-01-25T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-26T00:00:00Z,Desktop,visitor,265,7,2
+2023-01-26T00:00:00Z,Desktop,client,47,0,19
+2023-01-26T00:00:00Z,Desktop,::unspecified::,8,0,0
+2023-01-26T00:00:00Z,Mobile/Smartphone,visitor,387,6,0
+2023-01-26T00:00:00Z,Mobile/Smartphone,client,25,0,13
+2023-01-26T00:00:00Z,Mobile/Smartphone,::unspecified::,9,0,0
+2023-01-26T00:00:00Z,Tablet landscape,visitor,3,0,0
+2023-01-26T00:00:00Z,Tablet portrait,visitor,6,0,0
+2023-01-26T00:00:00Z,Tablet portrait,client,1,0,1
+2023-01-26T00:00:00Z,Tablet portrait,::unspecified::,1,0,0
+2023-01-26T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-27T00:00:00Z,Desktop,visitor,507,15,9
+2023-01-27T00:00:00Z,Desktop,client,42,0,20
+2023-01-27T00:00:00Z,Desktop,::unspecified::,11,0,0
+2023-01-27T00:00:00Z,Mobile/Smartphone,visitor,373,6,1
+2023-01-27T00:00:00Z,Mobile/Smartphone,client,25,0,15
+2023-01-27T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2023-01-27T00:00:00Z,Tablet landscape,visitor,7,0,0
+2023-01-27T00:00:00Z,Tablet landscape,client,1,0,0
+2023-01-27T00:00:00Z,Tablet portrait,visitor,2,0,0
+2023-01-27T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-28T00:00:00Z,Desktop,visitor,198,12,7
+2023-01-28T00:00:00Z,Desktop,client,31,0,16
+2023-01-28T00:00:00Z,Desktop,::unspecified::,10,0,0
+2023-01-28T00:00:00Z,Mobile/Smartphone,visitor,319,8,1
+2023-01-28T00:00:00Z,Mobile/Smartphone,client,22,0,13
+2023-01-28T00:00:00Z,Mobile/Smartphone,::unspecified::,12,0,0
+2023-01-28T00:00:00Z,Tablet landscape,visitor,3,0,0
+2023-01-28T00:00:00Z,Tablet landscape,client,1,0,0
+2023-01-28T00:00:00Z,Tablet portrait,visitor,3,0,0
+2023-01-28T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-29T00:00:00Z,Desktop,visitor,238,4,4
+2023-01-29T00:00:00Z,Desktop,client,38,0,24
+2023-01-29T00:00:00Z,Desktop,::unspecified::,16,0,0
+2023-01-29T00:00:00Z,Mobile/Smartphone,visitor,293,15,5
+2023-01-29T00:00:00Z,Mobile/Smartphone,client,11,0,4
+2023-01-29T00:00:00Z,Mobile/Smartphone,::unspecified::,6,0,0
+2023-01-29T00:00:00Z,Tablet landscape,visitor,4,0,0
+2023-01-29T00:00:00Z,Tablet portrait,visitor,3,0,0
+2023-01-29T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-30T00:00:00Z,Desktop,visitor,655,19,5
+2023-01-30T00:00:00Z,Desktop,client,88,0,37
+2023-01-30T00:00:00Z,Desktop,::unspecified::,23,0,0
+2023-01-30T00:00:00Z,Mobile/Smartphone,visitor,362,15,6
+2023-01-30T00:00:00Z,Mobile/Smartphone,client,29,0,12
+2023-01-30T00:00:00Z,Mobile/Smartphone,::unspecified::,11,0,0
+2023-01-30T00:00:00Z,Tablet landscape,visitor,5,0,0
+2023-01-30T00:00:00Z,Tablet landscape,client,1,0,0
+2023-01-30T00:00:00Z,Tablet portrait,visitor,4,0,0
+2023-01-30T00:00:00Z,::unspecified::,None,0,0,0
+2023-01-31T00:00:00Z,Desktop,visitor,682,22,3
+2023-01-31T00:00:00Z,Desktop,client,79,0,22
+2023-01-31T00:00:00Z,Desktop,::unspecified::,19,0,0
+2023-01-31T00:00:00Z,Mobile/Smartphone,visitor,592,20,5
+2023-01-31T00:00:00Z,Mobile/Smartphone,client,43,0,26
+2023-01-31T00:00:00Z,Mobile/Smartphone,::unspecified::,23,0,0
+2023-01-31T00:00:00Z,Tablet landscape,visitor,7,0,0
+2023-01-31T00:00:00Z,Tablet portrait,visitor,3,0,1
+2023-01-31T00:00:00Z,::unspecified::,None,0,0,0

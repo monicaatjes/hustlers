@@ -1,0 +1,108 @@
+﻿#=================================================================
+# Top of Funnel - key product pages traffic
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+"#  "
+##############################################
+,Jan 2022,Feb 2022,Mar 2022,Apr 2022,May 2022,Jun 2022,Jul 2022,Aug 2022,Sep 2022,Oct 2022,Nov 2022,Dec 2022
+,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits
+Segments,48870,49676,47273,42940,54134,55868,68059,70011,59424,61619,56625,48257
+Key home-loans product pages (web),48870,49676,47273,42940,54134,55868,68059,70011,59424,61619,56625,48257
+
+
+#=================================================================
+# Top of Funnel - Mobile app product pages
+# Report suite: Mobile: Native App
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+"#  "
+##############################################
+,Jan 2022,Feb 2022,Mar 2022,Apr 2022,May 2022,Jun 2022,Jul 2022,Aug 2022,Sep 2022,Oct 2022,Nov 2022,Dec 2022
+,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits
+Segments,0,0,0,0,6,4515,4996,5065,4895,5287,4509,4023
+Home loans product pages (app),0,0,0,0,6,4515,4996,5065,4895,5287,4509,4023
+
+
+#=================================================================
+# Funnel - Applications started
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+"#  "
+##############################################
+,Visits
+Segments,25964
+Home Loan Start Pages,25964
+
+
+#=================================================================
+# Funnel - Applications Completed
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Visits
+Segments,12536
+Home loans app complete pages,12536
+
+
+#=================================================================
+# Digital Leads by Source
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,HL app complete
+Marketing Channel,14559
+Direct,6528
+Natural Search,6209
+Paid Search,1501
+Referring Domains,206
+Affiliate,79
+Email,25
+Social Networks,9
+None,2
+
+
+#=================================================================
+# Digital Leads by Source (2)
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Visits
+Marketing Channel,57773753
+Direct,46450842
+Natural Search,10055512
+Paid Search,805870
+Referring Domains,702631
+Email,159341
+Social Networks,74483
+Affiliate,37740
+None,35918
+Display,7368
+Internal,616
+
+

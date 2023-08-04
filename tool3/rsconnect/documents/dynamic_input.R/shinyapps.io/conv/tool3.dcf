@@ -1,0 +1,13 @@
+name: tool3
+title: tool3
+username:
+account: conv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8728554
+bundleId: 7513280
+url: https://conv.shinyapps.io/tool3/
+when: 1690780540.01904
+lastSyncTime: 1690780540.01905
+asMultiple: FALSE
+asStatic: FALSE

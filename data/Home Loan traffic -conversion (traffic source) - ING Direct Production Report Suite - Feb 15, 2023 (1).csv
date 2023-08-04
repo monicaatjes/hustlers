@@ -1,0 +1,21 @@
+﻿#=================================================================
+# Panel
+# Report suite: ING Direct Production Report Suite
+"# Date: Feb 1, 2023 - Feb 28, 2023"
+# Segments: Product = HL
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Natural Search,Natural Search,Natural Search,Direct,Direct,Direct,Paid Search,Paid Search,Paid Search,Referring Domains,Referring Domains,Referring Domains,Email,Email,Email
+,Visits,HL app intro,HL app complete,Visits,HL app intro,HL app complete,Visits,HL app intro,HL app complete,Visits,HL app intro,HL app complete,Visits,HL app intro,HL app complete
+Week,10297,1397,299,5756,1257,327,646,218,37,253,46,13,52,55,18
+2023-01-29,2527,369,79,1366,343,106,103,32,7,57,12,4,22,22,9
+2023-02-05,5563,759,158,3054,629,145,314,114,16,140,19,5,23,32,7
+2023-02-12,2209,269,62,1337,285,76,229,72,14,56,15,4,7,1,2
+2023-02-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-02-26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+

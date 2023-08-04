@@ -1,0 +1,64 @@
+﻿#=================================================================
+# Top of Funnel - key product pages traffic
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+"#  "
+##############################################
+,Jan 2022,Feb 2022,Mar 2022,Apr 2022,May 2022,Jun 2022,Jul 2022,Aug 2022,Sep 2022,Oct 2022,Nov 2022,Dec 2022
+,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits
+Segments,48870,49676,47273,42940,54134,55868,68059,70011,59424,61619,56625,48257
+Key home-loans product pages (web),48870,49676,47273,42940,54134,55868,68059,70011,59424,61619,56625,48257
+
+
+#=================================================================
+# Top of Funnel - Mobile app product pages
+# Report suite: Mobile: Native App
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+"#  "
+##############################################
+,Jan 2022,Feb 2022,Mar 2022,Apr 2022,May 2022,Jun 2022,Jul 2022,Aug 2022,Sep 2022,Oct 2022,Nov 2022,Dec 2022
+,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits
+Segments,0,0,0,0,6,4515,4996,5065,4895,5287,4509,4023
+Home loans product pages (app),0,0,0,0,6,4515,4996,5065,4895,5287,4509,4023
+
+
+#=================================================================
+# calculator
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Jan 2022,Feb 2022,Mar 2022,Apr 2022,May 2022,Jun 2022,Jul 2022,Aug 2022,Sep 2022,Oct 2022,Nov 2022,Dec 2022
+,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits
+Segments,5180717,4929767,5257972,4546359,4939403,5420093,5981098,5129002,4045148,4271771,4159645,3914472
+home loan - calculator,50320,46740,45994,42435,46660,46638,52933,56040,52946,54913,48877,45109
+
+
+#=================================================================
+# campaigns
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Jan 2022,Feb 2022,Mar 2022,Apr 2022,May 2022,Jun 2022,Jul 2022,Aug 2022,Sep 2022,Oct 2022,Nov 2022,Dec 2022
+,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits,Visits
+Page,4326,5548,5026,3736,4463,5750,6810,7565,7991,8430,5274,10177
+campaigns:ingdirect:home-loans,4326,5548,5026,3736,4463,5750,6810,7565,7991,8430,5274,10177
+
+

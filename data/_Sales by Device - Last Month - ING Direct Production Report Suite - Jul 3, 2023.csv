@@ -1,0 +1,241 @@
+﻿#=================================================================
+# Sales by Device  - visitor
+# Report suite: ING Direct Production Report Suite
+"# Date: Jun 1, 2023 - Jun 30, 2023"
+# Segments: Visitor Apps
+#=================================================================
+
+
+##############################################
+# Visitor Apps
+##############################################
+,,app completed
+Product,,20351
+orange everyday,,11436
+orange everyday,Mobile Device Type,11436
+orange everyday,Mobile Phone,5882
+orange everyday,Other,5448
+orange everyday,Tablet,106
+savings:saving maximiser,,8032
+savings:saving maximiser,Mobile Device Type,8032
+savings:saving maximiser,Other,4187
+savings:saving maximiser,Mobile Phone,3760
+savings:saving maximiser,Tablet,85
+savings:term deposit,,482
+savings:term deposit,Mobile Device Type,482
+savings:term deposit,Other,386
+savings:term deposit,Mobile Phone,91
+savings:term deposit,Tablet,5
+home loan,,209
+home loan,Mobile Device Type,209
+home loan,Other,135
+home loan,Mobile Phone,71
+home loan,Tablet,3
+savings:saving accelerator,,83
+savings:saving accelerator,Mobile Device Type,83
+savings:saving accelerator,Other,59
+savings:saving accelerator,Mobile Phone,24
+superannuation,,75
+superannuation,Mobile Device Type,75
+superannuation,Other,48
+superannuation,Mobile Phone,27
+personal loan,,34
+personal loan,Mobile Device Type,34
+personal loan,Mobile Phone,19
+personal loan,Other,15
+
+
+#=================================================================
+# Sales by Device - client
+# Report suite: ING Direct Production Report Suite
+"# Date: Jun 1, 2023 - Jun 30, 2023"
+# Segments: Client Pages
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,,app completed
+Product,,17633
+savings:saving maximiser,,6878
+savings:saving maximiser,Mobile Device Type,6878
+savings:saving maximiser,Other,4170
+savings:saving maximiser,Mobile Phone,2656
+savings:saving maximiser,Tablet,52
+orange everyday,,4901
+orange everyday,Mobile Device Type,4901
+orange everyday,Other,2851
+orange everyday,Mobile Phone,2006
+orange everyday,Tablet,44
+savings:term deposit,,2206
+savings:term deposit,Mobile Device Type,2206
+savings:term deposit,Other,1842
+savings:term deposit,Mobile Phone,321
+savings:term deposit,Tablet,43
+savings:saving accelerator,,1903
+savings:saving accelerator,Mobile Device Type,1903
+savings:saving accelerator,Other,982
+savings:saving accelerator,Mobile Phone,899
+savings:saving accelerator,Tablet,22
+personal loan,,890
+personal loan,Mobile Device Type,890
+personal loan,Mobile Phone,592
+personal loan,Other,294
+personal loan,Tablet,4
+home loan,,760
+home loan,Mobile Device Type,760
+home loan,Other,467
+home loan,Mobile Phone,290
+home loan,Tablet,3
+superannuation,,95
+superannuation,Mobile Device Type,95
+superannuation,Other,75
+superannuation,Mobile Phone,20
+
+
+#=================================================================
+# Insurance Sales
+# Report suite: ING Direct Production Report Suite
+"# Date: Jun 1, 2023 - Jun 30, 2023"
+#=================================================================
+
+
+##############################################
+# Insurance sales
+##############################################
+,,Insurance policy completed
+Product,,2779
+insurance:car,,1669
+insurance:car,Mobile Device Type,1669
+insurance:car,Mobile Phone,865
+insurance:car,Other,784
+insurance:car,Tablet,20
+insurance:home-and-contents,,765
+insurance:home-and-contents,Mobile Device Type,765
+insurance:home-and-contents,Other,464
+insurance:home-and-contents,Mobile Phone,288
+insurance:home-and-contents,Tablet,13
+insurance:health,,256
+insurance:health,Mobile Device Type,256
+insurance:health,Mobile Phone,138
+insurance:health,Other,118
+insurance:motorcycle,,54
+insurance:motorcycle,Mobile Device Type,54
+insurance:motorcycle,Other,31
+insurance:motorcycle,Mobile Phone,22
+insurance:motorcycle,Tablet,1
+insurance:pet,,35
+insurance:pet,Mobile Device Type,35
+insurance:pet,Mobile Phone,21
+insurance:pet,Other,14
+
+
+#=================================================================
+# Insurance Average
+# Report suite: ING Direct Production Report Suite
+"# Date: Jun 1, 2023 - Jun 30, 2023"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,Insurance policy completed
+Mobile Device Type,2779
+Other,1411
+Mobile Phone,1334
+Tablet,34
+
+
+#=================================================================
+# Consumer lending sales
+# Report suite: ING Direct Production Report Suite
+"# Date: Jun 1, 2023 - Jun 30, 2023"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,,App Submitted
+Product,,7510
+credit card,,4704
+credit card,Mobile Device Type,4704
+credit card,Mobile Phone,3065
+credit card,Other,1612
+credit card,Tablet,27
+personal loan,,2806
+personal loan,Mobile Device Type,2806
+personal loan,Mobile Phone,1676
+personal loan,Other,1116
+personal loan,Tablet,14
+
+
+##############################################
+# Consumer lending average
+##############################################
+,Exclude sales channel = mobile app
+,App Submitted
+Mobile Device Type,4679
+Other,2698
+Mobile Phone,1943
+Tablet,38
+
+
+#=================================================================
+# Panel
+# Report suite: ING Direct Production Report Suite
+"# Date: Jan 1, 2022 - Mar 31, 2023"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,QPR Sales
+Mobile Device Type,583087
+Other,325228
+Mobile Phone,251224
+Tablet,6628
+Media Player,4
+Set-top Box,2
+Television,1
+
+
+#=================================================================
+# Mobile app sales
+# Report suite: Mobile: Native App
+"# Date: Jun 1, 2023 - Jun 30, 2023"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,App completed
+Product,16090
+Savings Maximiser,11310
+Orange Everyday,3737
+Personal Term Deposit,1000
+superannuation,43
+
+
+#=================================================================
+# Panel (2)
+# Report suite: Mobile: Native App
+"# Date: Jan 1, 2022 - Dec 31, 2022"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,First Launches
+Quarter,938933
+2022-01-01,235251
+2022-04-01,218256
+2022-07-01,230486
+2022-10-01,254940
+
+

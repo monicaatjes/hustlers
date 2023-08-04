@@ -1,0 +1,29 @@
+﻿#=================================================================
+# Product pages - web - per product
+# Report suite: ING Direct Production Report Suite
+"# Date: Nov 11, 2022 - Feb 8, 2023"
+#=================================================================
+
+
+##############################################
+# Freeform table
+##############################################
+,ingdirect:home-loans,ingdirect:home-loans:orange-advantage,ingdirect:banking:products:home-loans:orange-advantage,ingdirect:home-loans:mortgage-simplifier,ingdirect:banking:products:home-loans:mortgage-simplifier,ingdirect:home-loans:fixed-rate-home-loan,ingdirect:banking:products:home-loans:fixed-rate-home-loan
+,Visits,Visits,Visits,Visits,Visits,Visits,Visits
+Week,85708,22023,902,18541,997,21292,793
+2022-11-06,1974,367,17,333,16,399,10
+2022-11-13,8343,1667,58,1469,59,1614,58
+2022-11-20,6983,1585,75,1434,72,1533,61
+2022-11-27,6459,1469,62,1349,72,1390,62
+2022-12-04,8097,2032,61,1738,82,2570,59
+2022-12-11,5048,1588,53,1369,77,1421,56
+2022-12-18,4325,1354,42,1040,49,1106,32
+2022-12-25,3296,929,47,833,55,833,38
+2023-01-01,6205,1746,81,1386,80,1599,70
+2023-01-08,7656,2137,80,1644,99,1804,76
+2023-01-15,7491,1962,83,1698,103,1715,73
+2023-01-22,6628,1735,78,1445,78,1544,75
+2023-01-29,8191,2102,109,1699,98,2102,78
+2023-02-05,5013,1351,56,1105,57,1662,45
+
+

@@ -1,0 +1,120 @@
+
+
+/* You can get alot from ING's the guide */
+/* f.e. colors : http://catalog.theguide.ing.net/ui-fundamentals/ing-uif-styles/demos/demo/color.html */
+
+/* Specify where ING font is */
+
+@font-face {
+  font-family: 'INGMe';
+  src: url('../fonts/eot/INGMeWeb-Regular.eot');
+  src: url('../fonts/eot/INGMeWeb-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/woff/INGMeWeb-Regular.woff') format('woff'), url('../fonts/ttf/INGMeWeb-Regular.ttf') format('truetype'), url('../fonts/svg/INGMeWeb-Regular.svg#INGMeWeb-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'INGMe';
+  src: url('../fonts/eot/INGMeWeb-Bold.eot');
+  src: url('../fonts/eot/INGMeWeb-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/woff/INGMeWeb-Bold.woff') format('woff'), url('../fonts/ttf/INGMeWeb-Bold.ttf') format('truetype'), url('../fonts/svg/INGMeWeb-Bold.svg#INGMeWeb-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+/* Use INGMe font. Installed by default on ING computers */
+p, .section li {
+	font-family: INGMe, "Arial", sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: INGMe, "Arial", sans-serif;
+}
+
+a:visited {
+    color: #ab0066;
+    border-bottom-color: #e6b3d1;
+}
+
+a {
+    color: #525199;
+    border-bottom: 1px solid #cbcbe0;
+    display: inline;
+    text-decoration: none;
+}
+
+
+/* Larger and orange title */
+#header .title {
+	margin-bottom: 0;
+  color: #ff6200;
+  font-size: 3em;
+  font-weight: bold;
+}
+#header .subtitle {
+	margin-top: 0;
+}
+
+
+/* Adapt nav pills (tabs) */
+.nav-pills>li>a {
+  background-color: #ebebeb;
+}
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover {
+  background-color: #ff6200;
+ }
+
+
+/* customize buttons (f.e. when using code_folding: show) */
+.btn {
+  font-family: INGMe, "Arial", sans-serif;
+  position: relative;
+  display: inline-block;
+  background-image: none;
+  font-weight: normal;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  margin-bottom: 0;
+  cursor: pointer;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  line-height: 1.5;
+  padding: 4px 10px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+
+
+/* Style the floating table of contents */
+
+/* adapt tocify menu (floating left) */
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover {
+  border-color: #ff6200;
+  background-color: #ff6200;
+}
+.list-group-item:hover {
+  border-color: #f5f5f5;
+  background-color: #f5f5f5;
+  color: #333333;
+}
+
+#TOC {
+  font-family: INGMe, "Arial", sans-serif;
+  color: #333;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+

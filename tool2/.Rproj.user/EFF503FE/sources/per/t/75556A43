@@ -1,0 +1,26 @@
+{
+    "id": "75556A43",
+    "path": "~/Documents/hustlers/tool2/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "1720774732",
+    "contents": "",
+    "dirty": true,
+    "created": 1675217287819.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "177,0",
+        "scrollLine": "158"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1677542749,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677544779258,
+    "read_only": false,
+    "read_only_alternatives": []
+}
